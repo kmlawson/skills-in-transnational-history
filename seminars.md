@@ -18,27 +18,42 @@ Knowles, Anne Kelly, and Amy Hillier. *Placing History: How Maps, Spatial Data, 
 
 [Spatial History Project at Stanford University](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
 
+## Ebooks and Resources ##
 
+Many of the texts are available with links within this sourcebook, accessible through the St Andrews e-resources or elsewhere online. If links are not working, please do let me know, but also, please first contact the library help desk if books become unavailable (this has happened in the past when a bulk library subscription to a collection of works has expired and not been renewed, inadvertently removing access) or you have problem accessing a link to a library book.
 
-## Week 0 - History in Practice - Strategies for Research in Transnational History   
+## Optional Pre-Semester Preparation
 
-Our emphasis in this course is on a small set of skills related to GIS and mapping, social networks, and tools for the analysis of texts which, to master fully, would each require far more time than a single module with very limited class time can offer for any degree of significant mastery. These are skills that are often associated with a field that has come to be known as the *digital humanities*. This module should be seen as a kind of taster course that allows you to encounter a world of digital tools and methodologies that may be useful for working with large collections of sources. You may decide that most or all of these methods are not appropriate for your own research going forward, but some exposure to them will greater afford you the opportunity to understand them and, when appropriate engage or critique other historical scholarship that makes use of them.
+If you would like to get a head start on the module and get a flavor for the module, consider trying some of the following tasks. If you have challenges with software installation and such, then don't worry too much, we will try to address some of these issues during the semester.
 
-We will have three primary goals:
+1. Read the short book by Franco Moretti, *Atlas of the European Novel, 1800-1900*
+2. Attempt to install [QGIS](https://qgis.org/en/site/forusers/download.html) on your laptop:
+3. Attempt some of the tutorials at [Mapping and GIS for Historians](http://transnationalhistory.net/mapping/) - please note that these tutorials were developed for QGIS 2.x and some screenshots will not indicate the correct location of buttons, etc. in the 2018 Summer release of QGIS 3.x
+4. Attempt to install [Cytoscape](http://cytoscape.org/)
+5. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/)
+5. Browse and experiment with instructional materials at [A Gentle Introduction to QGIS](http://docs.qgis.org/testing/en/docs/gentle_gis_introduction/), [Cytoscape Tutorials Wiki](https://github.com/cytoscape/cytoscape-tutorials/wiki), and if you have your access to St Andrews e-resources, try  Chapter 1 of [*Text Analysis with R for Students of Literature*](http://dx.doi.org/10.1007/978-3-319-03164-4) (library ebook)
 
-1. In three broad parts, we will learn some of the basic principles and techniques of *historical GIS*, digital techniques for *text analysis and distant reading*, and some basic *visualisation of social networks*. In the two major assessments of the module you will have the opportunity to practice some of the techniques learned or, in the case of the final assessment, alternatively write a critical engagement with scholarship that makes use of these methodologies. This part of the module is arguably both the most fun and the most frustrating: you should prepare yourself for the sometimes considerable amount of time spent sorting out what can often be rather trivial technical obstacles along the way. One of the goals of this course is to introduce you to the problem solving mindset required to face these difficulties by effective use of online resources.
+## Managing Your Time During the Semester
 
-2. In the case of each set of technologies, we will read some historical scholarship that has made use of these approaches in order to better see how they are being employed in scholarship today. When reading these texts, it is not important for you to focus on the particulars of each historical case, but instead pay close attention to how the historian makes use digital methodologies in the support of their argument. We will try to highlight what added benefits there are in employing these methodologies, either alone, or in mixed method scholarship that integrates them with other historical approaches.
+You should expect to spend 12-18 hours each week in preparation for this seminar. I strongly suggest you set aside regular time every week, across at least two days of the week especially allocated to this module, in order to balance out the time you dedicate to it throughout the semester.
 
-3. Finally, this module will, throughout, introduce you to some of the work of what has been called the *critical digital humanities*. We will examine some of the powerful critiques that have been made of GIS both among historians and within the world of geography, where it had its biggest impact on scholarship. We will similarly examine critical discourses on other digital methodologies and in our discussions of the essays applying them that we read. Ask yourself, how much does the argument depend on the technological approach? What assumptions are made in setting the stage for the scholarship, in preparing the date, and in using the technologies? What are the costs implied, and the benefits gained? To what degree does the choice of methodology influence the kinds of questions asked and outcomes obtained?
+Readings for the module will rarely involve more than half the time and you should never consider your preparation done for the week when the readings are complete. When taking notes on readings, focus less on the particulars of specific historical projects we may read about and focused on the methodologies, weaknesses and strengths regarding them, and bigger connections that connect to other readings and themes we have been discussing.
 
-### Striking Out on Your Own
+After you finish the readings for the week, use the remaining time you have set aside for source *research*, *experimentation*, *play*, and data *exploration*. This should eventually, but not immediately, be directed towards the broader end of becoming more familiar with the technologies introduced in the module, and most of all, helping you towards the development of the projects for your two assessments. Bring your ideas, as they develop, into the module discussion and share them with your fellow students as well. I cannot stress enough that this time is important.
 
-A great many of the humanities scholars who have adopted some of the digital methodologies, tools, and techniques that we will encounter in this module do not have much in the way of formal training in computer science or related fields. Self-learning with online resources, videos, and books are a common way to expand your abilities in these fields
+You will quickly find that, even when you have a firm project idea in mind, the sources settled, and a goal in sight, the majority of time in project development will go towards cleaning or preparing data, tinkering with software, googling obscure errors, watching YouTube tutorials or diving into bulletin boards about specific features or tasks you wish to perform, and, alas, it is *very common* to discover that a project is ultimately not viable with the original approach or data, and a switch in direction is needed. *A critical ingredient for success is, therefore: to allow time for failure and new beginnings.*
 
-[Programming Historian](http://programminghistorian.org/lessons/)  
-[Digital Humanities Now](http://digitalhumanitiesnow.org/)  
-[Mapping and GIS for Historians](http://transnationalhistory.net/mapping/)  
+This is a computer screen intensive module. Though this may seem like an obvious point, it is worth reminding you here that it is not healthy to sit and stare at a computer screen for long periods. I suggest you try working in [periods of 25 minutes]((https://en.wikipedia.org/wiki/Pomodoro_Technique)) or so with the help of a timer, forcing yourself to get up and take a break regularly.
+
+## Striking Out on Your Own
+
+During the semester, you may decide that you want to deepen your knowledge and skill set in one or more of the technologies that are introduced in the module. A great many of the humanities scholars who have adopted some of the digital methodologies, tools, and techniques that we will encounter in this module do not have much in the way of formal training in computer science or related fields. With the exception of some short training courses in GIS and one-off sessions at digital humanities workshops and [unconferences](https://en.wikipedia.org/wiki/Unconference), I have no formal training in any of the skills in this module. Self-learning with online resources, videos, and books are a common way to expand your abilities in these fields.
+
+[Programming Historian](http://programminghistorian.org/lessons/)  - This is by far the best resource online for tutorials covering a wide variety of digital humanities related tasks that are useful for historical research.
+
+[Mapping and GIS for Historians](http://transnationalhistory.net/mapping/)
+[Digital Humanities Now](http://digitalhumanitiesnow.org/)
+[Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)
 [The Historical GIS Research Network](http://www.hgis.org.uk/)  
 [Historical GIS Lab Bibliography](https://hgis.usask.ca/bibliography.php)  
 [ProfHacker](https://www.chronicle.com/blogs/profhacker)  
@@ -77,8 +92,21 @@ A great many of the humanities scholars who have adopted some of the digital met
 **General Texts**
 
 *Statistics for the Social Sciences* R. Mark Sirkin  
-*Learning R* Richard Cotton  
+*Learning R* Richard Cotton
+*Learning Base R* Lawrence Mark Leemis  
 *Learning Python* Mark Lutz  
+
+## Week 0 - History in Practice - Strategies for Research in Transnational History   
+
+Our emphasis in this course is on a small set of skills related to GIS and mapping, social networks, and tools for the analysis of texts which, to master fully, would each require far more time than a single module with very limited class time can offer for any degree of significant mastery. These are skills that are often associated with a field that has come to be known as the *digital humanities*. This module should be seen as a kind of taster course that allows you to encounter a world of digital tools and methodologies that may be useful for working with large collections of sources. You may decide that most or all of these methods are not appropriate for your own research going forward, but some exposure to them will greater afford you the opportunity to understand them and, when appropriate engage or critique other historical scholarship that makes use of them.
+
+We will have three primary goals:
+
+1. In three broad parts, we will learn some of the basic principles and techniques of *historical GIS*, digital techniques for *text analysis and distant reading*, and some basic *visualisation of social networks*. In the two major assessments of the module you will have the opportunity to practice some of the techniques learned or, in the case of the final assessment, alternatively write a critical engagement with scholarship that makes use of these methodologies. This part of the module is arguably both the most fun and the most frustrating: you should prepare yourself for the sometimes considerable amount of time spent sorting out what can often be rather trivial technical obstacles along the way. One of the goals of this course is to introduce you to the problem solving mindset required to face these difficulties by effective use of online resources.
+
+2. In the case of each set of technologies, we will read some historical scholarship that has made use of these approaches in order to better see how they are being employed in scholarship today. When reading these texts, it is not important for you to focus on the particulars of each historical case, but instead pay close attention to how the historian makes use digital methodologies in the support of their argument. We will try to highlight what added benefits there are in employing these methodologies, either alone, or in mixed method scholarship that integrates them with other historical approaches.
+
+3. Finally, this module will, throughout, introduce you to some of the work of what has been called the *critical digital humanities*. We will examine some of the powerful critiques that have been made of GIS both among historians and within the world of geography, where it had its biggest impact on scholarship. We will similarly examine critical discourses on other digital methodologies and in our discussions of the essays applying them that we read. Ask yourself, how much does the argument depend on the technological approach? What assumptions are made in setting the stage for the scholarship, in preparing the date, and in using the technologies? What are the costs implied, and the benefits gained? To what degree does the choice of methodology influence the kinds of questions asked and outcomes obtained?
 
 ## Week 1 - Introduction to Historical GIS
 
@@ -88,7 +116,9 @@ We will set aside time this week to discuss the first project assessment, and so
 
 **Preparation**
 
-Please try to download and install [QGIS](http://www.qgis.org/en/site/forusers/download.html). If you have problems, please make note of what issues appear and bring them in.
+If you haven't already done so, please try to download and install [QGIS](http://www.qgis.org/en/site/forusers/download.html). If you have problems, please make note of what issues appear and bring them in.
+
+*General Tips Regarding Installation Problems:* Many of the multi platform open source applications out there these days make use of Java. Sometimes the version of Java pre-installed on your laptop (or, indeed, not installed or active) will be the key problem for getting the application to function smoothly. Installing or updating the appropriate Java version can often fix these issues. Also, if you find yourself presented with unusual error messages, searching google with a large part or all of the error message in quotation marks will often lead you to bulletin boards where people have faced similar issues and tried different steps to resolve the issue (though *please* evaluate recommended instructions on random bulletin boards with great care and ensure your machine is backed up before trying anything too elaborate!). The website [Stack Exchange](https://stackexchange.com/) often has useful discussions that address software issue.
 
 **Key Readings**
 
@@ -114,10 +144,11 @@ Ch 5 "The Politics of Territory in Song Dynasty China" 118-140
 
 **Further Reading**
 
-
 Read more chapters in Moretti's *Atlas of the European Novel*
 
 Tom Elliot and Sean Gillies "[Digital Geography and the Classics](http://digitalhumanities.org/dhq/vol/3/1/000031/000031.html)" *Digital Humanities Quarterly*
+
+**Play and Experimentation**
 
 \newpage
 
