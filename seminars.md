@@ -16,27 +16,75 @@ Gregory, Ian N., and Alistair Geddes. *Toward Spatial Humanities: Historical GIS
 
 Knowles, Anne Kelly, and Amy Hillier. *Placing History: How Maps, Spatial Data, and GIS Are Changing Historical Scholarship*. ESRI, Inc., 2008.
 
-Bodenhamer, David J., John Corrigan, and Trevor M. Harris. *Deep Maps and Spatial Narratives*. Indiana University Press, 2015.
-
 [Spatial History Project at Stanford University](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
 
-[The Historical GIS Research Network](http://www.hgis.org.uk/)
 
-## History in Practice - Strategies for Research in Transnational History   
 
-Keep in mind that our emphasis in this course is on a small set of skills related to databases, networks, mapping, and GIS which each require far more time than a single module can offer for any degree of significant mastery. 
+## Week 0 - History in Practice - Strategies for Research in Transnational History   
 
-In addition to getting an introduction to concrete skills in this module we will speak throughout the semester more broadly of the range of tools and skills that are useful to historians, and especially transnational and spatial historians. These are by no means limited to the realm of computer software and technologically advanced methodologies. We will explore some of the variety of challenges are particularly common to projects which deal with multiple scales, archives in multiple languages, and require careful organisation and note taking practices. 
+Our emphasis in this course is on a small set of skills related to GIS and mapping, social networks, and tools for the analysis of texts which, to master fully, would each require far more time than a single module with very limited class time can offer for any degree of significant mastery. These are skills that are often associated with a field that has come to be known as the *digital humanities*. This module should be seen as a kind of taster course that allows you to encounter a world of digital tools and methodologies that may be useful for working with large collections of sources. You may decide that most or all of these methods are not appropriate for your own research going forward, but some exposure to them will greater afford you the opportunity to understand them and, when appropriate engage or critique other historical scholarship that makes use of them.
 
-We will also discuss the cluster of practices and problems that represent the evolving field of the "digital humanities" and how this module may be seen as representing a part of it. We will revisit this topic again in weeks 5 and 12, when we will be introduced to critiques and reflections within the field.
+We will have three primary goals:
 
-During class we will often have a look at some of the kinds of tasks that can be made easier by learning a bit more on the technological front. To get an idea of the kinds of tasks we are talking about, browse through the lessons at the [Programming Historian](http://programminghistorian.org/lessons/)
+1. In three broad parts, we will learn some of the basic principles and techniques of *historical GIS*, digital techniques for *text analysis and distant reading*, and some basic *visualisation of social networks*. In the two major assessments of the module you will have the opportunity to practice some of the techniques learned or, in the case of the final assessment, alternatively write a critical engagement with scholarship that makes use of these methodologies. This part of the module is arguably both the most fun and the most frustrating: you should prepare yourself for the sometimes considerable amount of time spent sorting out what can often be rather trivial technical obstacles along the way. One of the goals of this course is to introduce you to the problem solving mindset required to face these difficulties by effective use of online resources.
+
+2. In the case of each set of technologies, we will read some historical scholarship that has made use of these approaches in order to better see how they are being employed in scholarship today. When reading these texts, it is not important for you to focus on the particulars of each historical case, but instead pay close attention to how the historian makes use digital methodologies in the support of their argument. We will try to highlight what added benefits there are in employing these methodologies, either alone, or in mixed method scholarship that integrates them with other historical approaches.
+
+3. Finally, this module will, throughout, introduce you to some of the work of what has been called the *critical digital humanities*. We will examine some of the powerful critiques that have been made of GIS both among historians and within the world of geography, where it had its biggest impact on scholarship. We will similarly examine critical discourses on other digital methodologies and in our discussions of the essays applying them that we read. Ask yourself, how much does the argument depend on the technological approach? What assumptions are made in setting the stage for the scholarship, in preparing the date, and in using the technologies? What are the costs implied, and the benefits gained? To what degree does the choice of methodology influence the kinds of questions asked and outcomes obtained?
+
+### Striking Out on Your Own
+
+A great many of the humanities scholars who have adopted some of the digital methodologies, tools, and techniques that we will encounter in this module do not have much in the way of formal training in computer science or related fields. Self-learning with online resources, videos, and books are a common way to expand your abilities in these fields
+
+[Programming Historian](http://programminghistorian.org/lessons/)  
+[Digital Humanities Now](http://digitalhumanitiesnow.org/)  
+[Mapping and GIS for Historians](http://transnationalhistory.net/mapping/)  
+[The Historical GIS Research Network](http://www.hgis.org.uk/)  
+[Historical GIS Lab Bibliography](https://hgis.usask.ca/bibliography.php)  
+[ProfHacker](https://www.chronicle.com/blogs/profhacker)  
+[Introduction to Programming for Humanists](https://humanitiesprogramming.github.io/) (Python)  
+
+**Learning GIS**
+
+*Learning QGIS* Anita Graser  
+*QGIS Map Design* Anita Graser  
+*QGIS 2 Cookbook* Alex Mandel  
+*Historical GIS: Technologies, Methodologies, and Scholarship* Gregory, Ian N., and Paul S. Ell, eds.  
+*Introduction to GIS* Victor Olaya  
+*Geospatial Analysis: A Comprehensive Guide* Michael J de Smith  
+*An Introduction to Geographical Information Systems* Ian Heywood, Sarah Cornelius  
+*Thematic Cartography and Geovisualization* Terry A. Slocum, Robert B McMaster et al  
+*Spatial Data Analysis: An Introduction For GIS Users* by Christopher Lloyd  
+*Qualitative GIS: A Mixed Methods Approach* Meghan Cope, Sarah Elwood  
+*GIS: A Short Introduction* Nadine Schuurman  
+*An Introduction to R for Spatial Analysis and Mapping* Chris Brunsdon, Lex Comber
+
+**Text Analysis**
+
+*Text Mining with R* Julie Silge, David Robinson  
+*Text Analysis with R for Students of Literature* Matthew L. Jockers  
+*Applied Text Analysis with Python* Benjamin Bengfort  
+*Natural Language Processing with Python* Steven Bird  
+*Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text* Taylor Arnold, Lauren Tilton  
+
+**Social Networks**
+
+*A User's Guide to Network Analysis in R* Douglas A. Luke  
+*Mastering Gephi Network Visualization* Ken Cherven  
+*Social Network Analysis* John Scott  
+*Social Network Analysis: Methods and Applications* Stanley Wasserman  
+
+**General Texts**
+
+*Statistics for the Social Sciences* R. Mark Sirkin  
+*Learning R* Richard Cotton  
+*Learning Python* Mark Lutz  
 
 ## Week 1 - Introduction to Historical GIS
 
-This week will explore the development of Historical GIS, but more broadly the analysis of geographic data within the humanities in general, as well as some of its basic approaches and promise. We will discuss Franco Moretti and chapters in as example of an experimental application in literature, and together spend some time examining and critiquing various more recent projects online. 
+This week will explore the development of Historical GIS, but more broadly the analysis of geographic data within the humanities in general, as well as some of its basic approaches and promise. We will discuss Franco Moretti and chapters in as example of an experimental application in literature, and together spend some time examining and critiquing various more recent projects online.
 
-We will set aside time this week to discuss the first project assessment, and some potential topics and sources that you may consider using for the assessment. 
+We will set aside time this week to discuss the first project assessment, and some potential topics and sources that you may consider using for the assessment.
 
 **Preparation**
 
@@ -66,7 +114,6 @@ Ch 5 "The Politics of Territory in Song Dynasty China" 118-140
 
 **Further Reading**
 
-GREGORY Ch 3, 4 
 
 Read more chapters in Moretti's *Atlas of the European Novel*
 
@@ -76,9 +123,9 @@ Tom Elliot and Sean Gillies "[Digital Geography and the Classics](http://digital
 
 ## Week 2 - Introduction to QGIS  
 
-We will open today with a discussion of some basic GIS terminology, concepts, and the components which are required for using GIS software. We will also examine some of the range of tools, free and not free which can be used as desktop software, but also through a range of online tools for working with geographic data, creating rich maps with this data, and in more advanced software, carry out analysis on these geodata sets. We will discuss ways of finding and creating your own geodata, including some of the strategies for searching online for high quality datasets. 
+We will open today with a discussion of some basic GIS terminology, concepts, and the components which are required for using GIS software. We will also examine some of the range of tools, free and not free which can be used as desktop software, but also through a range of online tools for working with geographic data, creating rich maps with this data, and in more advanced software, carry out analysis on these geodata sets. We will discuss ways of finding and creating your own geodata, including some of the strategies for searching online for high quality datasets.
 
-We will set aside class time to further talk about the first assessment, the expectations and share thoughts on what you wish to do in this regard. 
+We will set aside class time to further talk about the first assessment, the expectations and share thoughts on what you wish to do in this regard.
 
 **Reading**
 
@@ -105,7 +152,7 @@ Graser, Anita. *Learning QGIS 2.0*. Packt Publishing Ltd, 2013. (Not in library)
 
 ## Week 3 - QGIS Continued; Georectification
 
-Our goal in this second hands-on QGIS session is to discuss the art and challenges of georectification. This is the process of assigning coordinates in physical space to, in our case, locations on a historical map. We will learn how to carry this out to prepare a map in GIS software such as QGIS so that we may add layers that extract locations or objects on that map, both at large scales and small ones. 
+Our goal in this second hands-on QGIS session is to discuss the art and challenges of georectification. This is the process of assigning coordinates in physical space to, in our case, locations on a historical map. We will learn how to carry this out to prepare a map in GIS software such as QGIS so that we may add layers that extract locations or objects on that map, both at large scales and small ones.
 
 [Mapping and GIS for Historians](http://transnationalhistory.net/mapping/tutorials/) - Please continue doing tutorials on our tutorial website, at least through tutorial 6
 
@@ -119,7 +166,7 @@ Hill, Linda L. *Georeferencing: The Geographic Associations of Information*. Dig
 
 Hill, *Georeferencing*, Ch 5 [Library ebook](http://ezproxy.st-andrews.ac.uk/login?url=http://library.books24x7.com/library.asp?^B&bookid=18552)
 
-## Week 4 - QGIS - Map Design, Post-processing, and Deployment 
+## Week 4 - QGIS - Map Design, Post-processing, and Deployment
 
 This week is closer to cartography and moves beyond GIS software. We will discuss some of the principles of creating maps that are visually effective, maps that tell stories, and some basic elements and techniques. We will discuss the world of map editing beyond GIS software, using vector based software, whether the open-source application Inkscape, or commercial software such as Adobe Illustrator. We will discuss the relative benefits of working within QGIS and then editing or deploying your maps after some editing in another graphics application, or, when simple maps are all that are needed, working directly with a graphics application, or an online tool.
 
@@ -129,15 +176,19 @@ A portion of class time will be set aside to talk to show each other what progre
 
 Please continue and complete the tutorials at [Mapping and GIS for Historians](http://transnationalhistory.net/mapping/tutorials/)
 
-Please attempt to install [Inkscape](https://inkscape.org/en/) on your laptop. Don't worry if this is unsuccessful but it will be nice if at least some students attend class with a functioning version. 
+Please attempt to install [Inkscape](https://inkscape.org/en/) on your laptop. Don't worry if this is unsuccessful but it will be nice if at least some students attend class with a functioning version.
 
 Have a look at the Wikipedia entry for [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 
-Take a look at this example of a highly detailed SVG map: 
+Take a look at this example of a highly detailed SVG map:
 
 [Holy Roman Empire in 1648](https://upload.wikimedia.org/wikipedia/commons/7/7d/Holy_Roman_Empire_1648.svg)
 
 If you successfully installed Inkscape or have a copy of another SVG compatible graphics application, download and open the map in the application.
+
+**Reading**
+
+CORRIGAN Ch 4 "Inscribing the Past" Ch 7 "Spatializing and Analalyzing Digital Texts"
 
 **Reference Reading**
 
@@ -149,14 +200,14 @@ Tufte, Edward R. *The Visual Display of Quantitative Information*. Graphics Pres
 
 For several weeks now we have been learning some very basic skills in QGIS and mapping. The promise of using GIS software for mapping, and the more advanced geographical analysis that becomes possible with it should be apparent. However, this week we will shift to think more critically about some of the epistemological challenges that it presents and what limitations there are for historical GIS and geographic analysis of a quantitative kind when applied to spatial history.
 
-We will set aside time towards the end of this seminar to talk about the second assessment for this module. We will discuss ways to build on existing work done on the QGIS project and essay or ways to shift to another project for the Database/Visualization assessment that may be useful in your disssertation research, for example. 
+We will set aside time towards the end of this seminar to talk about the second assessment for this module. We will discuss ways to build on existing work done on the QGIS project and essay or ways to shift to another project for the Database/Visualization assessment that may be useful in your disssertation research, for example.
 
 "Elements of Historical Knowledge About Urban Spaces: Reflections on the Requirements for a Dynamic Map" in Rau, Susanne, Ekkehard Schönherr, eds. *Mapping Spatial Relations, Their Perceptions and Dynamics: The City Today and in the Past. Lecture Notes in Geoinformation and Cartography*. Cham ; New York: Springer, 2014. [Library ebook](http://dx.doi.org/10.1007/978-3-319-00993-3)
 
 LÜNEN
 Charles Travis "GIS and History: Epistemologies, Reflections, and Considerations" 173-194
 
-Joanna Drucker "[GIS Analysis and Critical Issues](http://dh101.humanities.ucla.edu/?page_id=66)" 
+Joanna Drucker "[GIS Analysis and Critical Issues](http://dh101.humanities.ucla.edu/?page_id=66)"
     * Please attempts the exercises Drucker offers here.
 
 Joanna Drucker "[Humanities Approaches to Graphical Display](http://www.johannadrucker.com/pdf/hum_app.pdf)"
@@ -165,15 +216,33 @@ Joanna Drucker "[Humanities Approaches to Graphical Display](http://www.johannad
 
 Jobst, Markus, eds. *Preservation in Digital Cartography: Archiving Aspects*. Berlin ; London: Springer, 2010. [Library ebook](http://dx.doi.org/10.1007/978-3-642-12733-5)
 
+## Week 6 - Independent Learning Week
+
+Use this week to finish your Map Project and catch up on any reading you may have fallen behind on. Start thinking about how to transition into the database project and read over the requirements for the Database and Visualisation Project.
+
 ## Week 7 - Cleaning Data and Analysing Texts
 
+This week will have two focuses. The first is to talk about some of the technological challenges of moving from textual narrative or other kinds of material embedded in historical sources, to digital data that can be manipulated, analysed and visualised. Already in week 5 and again in week 12, we will return to the critical questions of what is lost, transformed, newly created in this process, but the main goal is to look at some of the tools for cleaning data. Among these will be an introduction to Regular Expressions and a brief introduction to tools such as OpenRefine and Orange.
+
+The second part of the class will introduce (but not delve into too much depth) into the broad world of text analysis and text mining in the form of a variety of fields such as corpus analysis, text encoding and markup, topic modeling, and making use of data extracted from text for maps and network visualisations.
+
+**Preparation**
+
+Review the tutorials available at programming historian and identify 1-3 of these that may be relevant to your own goals for the preparation and analysis of data. We will discuss them in class:
+
 https://programminghistorian.org/lessons/
+
+Please use this week to really make a jump on your second project, thinking about the topic, and more importantly, what kinds of sources might be used for our second exercise.
+
+**Reference Reading**
+
+Jeffrey E. F. Friedl *Mastering Regular Expressions* 2nd Edition O'Reilly
 
 ## Week 8 - Prosopography and Networks in the Humanities
 
 This week begins with a more historical approach. The study of large groups of individuals, or individual objects, along with the network of relationships between them is very old in the practice of history. It was traditionally the field known as "prosopography" which we will examine more closely today, and analyse some of the decisions made in the course of developing the large databases behind some of these projects.
 
-We will set aside class time to see what progress you have made towards a topic for the second assessment and what kinds of data you have begun to assemble for the database and visualizations. 
+We will set aside class time to see what progress you have made towards a topic for the second assessment and what kinds of data you have begun to assemble for the database and visualizations.
 
 **Preparation**
 
@@ -286,7 +355,7 @@ This week we will again step back and reflect on some of the risks and theoretic
 
 Schmidt, Benjamin M. “[Theory First](http://journalofdigitalhumanities.org/1-1/theory-first-by-ben-schmidt/).” *Journal of Digital Humanities*, March 9, 2012.
 
-Gibbs, Fred. “[Critical Discourse in Digital Humanities.](http://journalofdigitalhumanities.org/1-1/critical-discourse-in-digital-humanities-by-fred-gibbs/.)” *Journal of Digital Humanities*, March 9, 2012. 
+Gibbs, Fred. “[Critical Discourse in Digital Humanities.](http://journalofdigitalhumanities.org/1-1/critical-discourse-in-digital-humanities-by-fred-gibbs/.)” *Journal of Digital Humanities*, March 9, 2012.
 
 Joanna Drucker, "Humanistic Theory and Digital Scholarship" in Gold, Matthew K., eds. *Debates in the Digital Humanities*. Minneapolis: University of Minnesota Press, 2012. [Library ebook](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=444737)
 
@@ -295,4 +364,3 @@ Folsom, Ed. “Database as Genre: The Epic Transformation of the Archives" *PMLA
 Lev Manovich [Database as a Symbolic Form](http://www.mfj-online.org/journalPages/MFJ34/Manovich_Database_FrameSet.html)
 
 Burdick, Anne, Johanna Drucker, Peter Lunenfeld, Todd Presner, and Jeffrey Schnapp. *Digital_Humanities*. The MIT Press, 2012, selections.
-
