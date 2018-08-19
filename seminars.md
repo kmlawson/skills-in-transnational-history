@@ -2,76 +2,94 @@
 
 ## Basic Readings
 
-**SPATIAL**
-Gregory, Ian N., Don DeBats, and Don Lafreniere, eds. *The Routledge Companion to Spatial History*. Routledge 2018
+**SPATIAL** Gregory, Ian N., Don DeBats, and Don Lafreniere, eds. *The Routledge Companion to Spatial History*. Routledge 2018
 
-**GREGORY**
-Gregory, Ian N., and Paul S. Ell, eds. *Historical GIS: Technologies, Methodologies, and Scholarship*. Cambridge Studies in Historical Geography, no. 39. Cambridge: Cambridge University Press, 2008. [Library ebook](http://dx.doi.org/10.1017/CBO9780511493645)
+**GREGORY** Gregory, Ian N., and Paul S. Ell, eds. *Historical GIS: Technologies, Methodologies, and Scholarship*. Cambridge Studies in Historical Geography, no. 39. Cambridge: Cambridge University Press, 2008. [Library ebook](http://dx.doi.org/10.1017/CBO9780511493645)
 
-**LÜNEN**
-Lünen, Alexander von, Charles Travis, eds. *History and GIS: Epistemologies, Considerations and Reflections*. Dordrecht ; New York: Springer, 2013. [Library ebook](http://dx.doi.org/10.1007/978-94-007-5009-8)
+**LÜNEN** Lünen, Alexander von, Charles Travis, eds. *History and GIS: Epistemologies, Considerations and Reflections*. Dordrecht ; New York: Springer, 2013. [Library ebook](http://dx.doi.org/10.1007/978-94-007-5009-8)
 
-**BODENHAMER**
-Bodenhamer, David J., John Corrigan, Trevor M. Harris, eds. *The Spatial Humanities: GIS and the Future of Humanities Scholarship*.  Bloomington: Indiana University Press, 2010. [Library ebook](http://lib.myilibrary.com/?id=518806)
+**BODENHAMER** Bodenhamer, David J., John Corrigan, Trevor M. Harris, eds. *The Spatial Humanities: GIS and the Future of Humanities Scholarship*.  Bloomington: Indiana University Press, 2010. [Library ebook](http://lib.myilibrary.com/?id=518806)
 
-**GEDDES**
-Gregory, Ian N., and Alistair Geddes. *Toward Spatial Humanities: Historical GIS and Spatial History*. Indiana University Press, 2014. [Library ebook](https://www.dawsonera.com/guard/protected/dawson.jsp?name=https://idp.st-andrews.ac.uk/shibboleth&dest=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780253011909)
+**GEDDES** Gregory, Ian N., and Alistair Geddes. *Toward Spatial Humanities: Historical GIS and Spatial History*. Indiana University Press, 2014. [Library ebook](https://www.dawsonera.com/guard/protected/dawson.jsp?name=https://idp.st-andrews.ac.uk/shibboleth&dest=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780253011909)
 
-**KNOWLES**
-Knowles, Anne Kelly, and Amy Hillier. *Placing History: How Maps, Spatial Data, and GIS Are Changing Historical Scholarship*. ESRI, Inc., 2008.
+**KNOWLES** Knowles, Anne Kelly, and Amy Hillier. *Placing History: How Maps, Spatial Data, and GIS Are Changing Historical Scholarship*. ESRI, Inc., 2008.
 
-**PAST**
-Knowles, Anne Kelly *Past Time, Past Place* ESRI Press, 2002.
+**PAST** Knowles, Anne Kelly *Past Time, Past Place* ESRI Press, 2002.
 
-**DEEP**
-Bodenhamer, David. John Corrigan, Trevor M. Harris *Deep Maps and Spatial Narratives* Indiana University Press, 2015
+**DEEP** Bodenhamer, David. John Corrigan, Trevor M. Harris *Deep Maps and Spatial Narratives* Indiana University Press, 2015
 
-**RAU**
-Rau, Susanne, Ekkehard Schönherr, eds. *Mapping Spatial Relations, Their Perceptions and Dynamics: The City Today and in the Past. Lecture Notes in Geoinformation and Cartography*. Cham ; New York: Springer, 2014. [Library ebook](http://dx.doi.org/10.1007/978-3-319-00993-3)
+**RAU** Rau, Susanne, Ekkehard Schönherr, eds. *Mapping Spatial Relations, Their Perceptions and Dynamics: The City Today and in the Past. Lecture Notes in Geoinformation and Cartography*. Cham ; New York: Springer, 2014. [Library ebook](http://dx.doi.org/10.1007/978-3-319-00993-3)
 
-[Spatial History Project at Stanford University](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
+SCOTT Scott, John *Social Network Analysis* 4th Edition (3rd will also suffice) London: Sage, 2017.
 
-## Ebooks and Resources ##
+## Ebooks
 
-Many of the texts are available with links within this sourcebook, accessible through the St Andrews e-resources or elsewhere online. If links are not working, please do let me know, but also, please first contact the library help desk if books become unavailable (this has happened in the past when a bulk library subscription to a collection of works has expired and not been renewed, inadvertently removing access) or you have problem accessing a link to a library book.
+Many of the texts are available with links within this sourcebook, accessible through the St Andrews e-resources or elsewhere online. If links are not working, please do let me know, but also, please first contact the library help desk if books become unavailable (this has happened in the past when a bulk library subscription to a collection of works has expired and not been renewed, inadvertently removing access) or you have problem accessing a link to a library book. 
+
+## Managing Your Time During the Semester
+
+You should expect to spend 12-18 hours each week in preparation for this seminar. I strongly suggest you set aside regular time every week, across at least two days of the week especially allocated to this module, in order to balance out the time you dedicate to it throughout the semester. Readings for the module will rarely involve more than half the time and you should never consider your preparation done for the week when the readings are complete. When taking notes on readings, focus less on the particulars of specific historical projects we may read about and focused on the methodologies, weaknesses and strengths regarding them, and bigger connections that connect to other readings and themes we have been discussing.
+
+After you finish the readings for the week, use the remaining time you have set aside for source *research*, *experimentation*, *play*, and data *exploration*. This should eventually, but not immediately, be directed towards the broader end of becoming more familiar with the technologies introduced in the module, and most of all, helping you towards the development of the projects for your two assessments. Bring your ideas, as they develop, into the module discussion and share them with your fellow students as well. I cannot stress enough that this time is important. You will quickly find that, even when you have a firm project idea in mind, the sources settled, and a goal in sight, the majority of time in project development will go towards cleaning or preparing data, tinkering with software, googling obscure errors, watching YouTube tutorials or diving into bulletin boards about specific features or tasks you wish to perform, and, alas, it is *very common* to discover that a project is ultimately not viable with the original approach or data, and a switch in direction is needed. *A critical ingredient for success is, therefore: to allow time for failure and new beginnings.*
+
+This is a computer screen intensive module. Though this may seem like an obvious point, it is worth reminding you here that it is not healthy to sit and stare at a computer screen for long periods. I suggest you try working in [periods of 25 minutes]((https://en.wikipedia.org/wiki/Pomodoro_Technique)) or so with the help of a timer, forcing yourself to get up and take a break regularly.
+
+
 
 ## Optional Pre-Semester Preparation
 
 If you would like to get a head start on the module and get a flavor for the module, consider trying some of the following tasks. If you have challenges with software installation and such, then don't worry too much, we will try to address some of these issues during the semester.
 
 1. Read the short book by Franco Moretti, *Atlas of the European Novel, 1800-1900* and the fun but very informative book by Mark Monmonier *How to Lie with Maps*
-2. Attempt to install [QGIS](https://qgis.org/en/site/forusers/download.html) on your laptop:
+2. Attempt to install [QGIS](https://qgis.org/en/site/forusers/download.html) and [Cytoscape](http://cytoscape.org/) on your laptop
 3. Attempt some of the tutorials at [Mapping and GIS for Historians](http://transnationalhistory.net/mapping/) - please note that these tutorials were developed for QGIS 2.x and some screenshots will not indicate the correct location of buttons, etc. in the 2018 Summer release of QGIS 3.x
-4. Attempt to install [Cytoscape](http://cytoscape.org/)
-5. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/)
-5. Browse and experiment with instructional materials at [A Gentle Introduction to QGIS](http://docs.qgis.org/testing/en/docs/gentle_gis_introduction/), [Cytoscape Tutorials Wiki](https://github.com/cytoscape/cytoscape-tutorials/wiki), and if you have your access to St Andrews e-resources, try  Chapter 1 of [*Text Analysis with R for Students of Literature*](http://dx.doi.org/10.1007/978-3-319-03164-4) (library ebook)
+4. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/). If you would like to get started with the world of R, consider a book such as *Learning R* by Richard Cotton, or any of the many online tutorials. *Note:* All the skills using R we will encounter in this module can also be done in the even more popular programming language of Python. If you think you might someday want to learn more programming, I'm happy to guide students towards resources that will allow them to do any of the module tasks in Python instead of R. 
+5. Browse and experiment with instructional materials at [A Gentle Introduction to QGIS](http://docs.qgis.org/testing/en/docs/gentle_gis_introduction/), [Cytoscape Tutorials Wiki](https://github.com/cytoscape/cytoscape-tutorials/wiki), and if you have your access to St Andrews e-resources, try Chapter 1 of *Text Analysis with R for Students of Literature* ([library ebook](http://dx.doi.org/10.1007/978-3-319-03164-4))
 
-## Managing Your Time During the Semester
+## Resources to Explore
 
-You should expect to spend 12-18 hours each week in preparation for this seminar. I strongly suggest you set aside regular time every week, across at least two days of the week especially allocated to this module, in order to balance out the time you dedicate to it throughout the semester.
+As you do work on your projects you will find plenty of inspiration surveying the explosion of scholarship over the last decade or two. The following are some journals, hosts of projects, link hubs, and aggregators: 
 
-Readings for the module will rarely involve more than half the time and you should never consider your preparation done for the week when the readings are complete. When taking notes on readings, focus less on the particulars of specific historical projects we may read about and focused on the methodologies, weaknesses and strengths regarding them, and bigger connections that connect to other readings and themes we have been discussing.
+[*Digital Humanities Quarterly*](http://www.digitalhumanities.org/dhq/)  
+[*International Journal of Humanities and Arts Computing*](https://www.euppublishing.com/loi/IJHAC) (formerly *History and Computing*)  
+[*Digital Scholarship in the Humanities*](https://academic.oup.com/dsh) (formerly *Literary and Linguistic Computing*)  
+[*Language Resources and Evaluation*](https://link.springer.com/journal/10579) (formerly *Computers and the Humanities*)  
+[*Historical Methods: A Journal of Quantitative and Interdisciplinary History*](https://www.tandfonline.com/toc/vhim20/current)  
+[*Journal of Cultural Analytics*](http://culturalanalytics.org/)  
+[*Digital Literary Studies*](https://journals.psu.edu/dls)  
+[*Digital Studies / Le champ numerérique*](https://www.digitalstudies.org/)  
+[Digital Humanities Now](http://digitalhumanitiesnow.org/)  
+[Spatial History Project at Stanford University](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)  
+[The Historical GIS Research Network](http://www.hgis.org.uk/)  
+[Historical GIS Lab Bibliography](https://hgis.usask.ca/bibliography.php)   
 
-After you finish the readings for the week, use the remaining time you have set aside for source *research*, *experimentation*, *play*, and data *exploration*. This should eventually, but not immediately, be directed towards the broader end of becoming more familiar with the technologies introduced in the module, and most of all, helping you towards the development of the projects for your two assessments. Bring your ideas, as they develop, into the module discussion and share them with your fellow students as well. I cannot stress enough that this time is important.
+Other journals that also have some relevant publications:
 
-You will quickly find that, even when you have a firm project idea in mind, the sources settled, and a goal in sight, the majority of time in project development will go towards cleaning or preparing data, tinkering with software, googling obscure errors, watching YouTube tutorials or diving into bulletin boards about specific features or tasks you wish to perform, and, alas, it is *very common* to discover that a project is ultimately not viable with the original approach or data, and a switch in direction is needed. *A critical ingredient for success is, therefore: to allow time for failure and new beginnings.*
+*Social Science History*   
+*Historical Geography*   
+*Journal of Historical Geography*   
+*Social Science Computer Review*  
+*Transactions in GIS*  
+*Environment & Planning A/B/C/D/E*   
+*Environmental History*   
+*Annals of GIS*  
 
-This is a computer screen intensive module. Though this may seem like an obvious point, it is worth reminding you here that it is not healthy to sit and stare at a computer screen for long periods. I suggest you try working in [periods of 25 minutes]((https://en.wikipedia.org/wiki/Pomodoro_Technique)) or so with the help of a timer, forcing yourself to get up and take a break regularly.
+\pagebreak
 
 ## Striking Out on Your Own
 
 During the semester, you may decide that you want to deepen your knowledge and skill set in one or more of the technologies that are introduced in the module. A great many of the humanities scholars who have adopted some of the digital methodologies, tools, and techniques that we will encounter in this module do not have much in the way of formal training in computer science or related fields. With the exception of some short training courses in GIS and one-off sessions at digital humanities workshops and [unconferences](https://en.wikipedia.org/wiki/Unconference), I have no formal training in any of the skills in this module. Self-learning with online resources, videos, and books are a common way to expand your abilities in these fields.
 
-[Programming Historian](http://programminghistorian.org/lessons/)  - This is by far the best resource online for tutorials covering a wide variety of digital humanities related tasks that are useful for historical research.
-
-[Mapping and GIS for Historians](http://transnationalhistory.net/mapping/)
-[Digital Humanities Now](http://digitalhumanitiesnow.org/)
-[Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)
-[The Historical GIS Research Network](http://www.hgis.org.uk/)  
-[GQIS Tutorials and Tips](http://www.qgistutorials.com/en/index.html)
-[Historical GIS Lab Bibliography](https://hgis.usask.ca/bibliography.php)  
+[Programming Historian](http://programminghistorian.org/lessons/)  - This is by far the best resource online for tutorials covering a wide variety of digital humanities related tasks that are useful for historical research.  
+[Mapping and GIS for Historians](http://transnationalhistory.net/mapping/)  
+[GQIS Tutorials and Tips](http://www.qgistutorials.com/en/index.html)  
 [ProfHacker](https://www.chronicle.com/blogs/profhacker)  
+[Digital Research Tools](http://dirtdirectory.org/)  
+[TAPoR 3 Research Tools for Studying Texts](http://tapor.ca/home)
+[GIS Lounge](https://www.gislounge.com/)
 [Introduction to Programming for Humanists](https://humanitiesprogramming.github.io/) (Python)  
+[Digital Humanities Slack Channel](https://docs.google.com/forms/d/e/1FAIpQLSdixlWvNtl2zrrodX9YzP4OmQ0xk5AwPEGZ0qxvlg9nbRReMw/viewform)
+[The Spatial Community Slack Channel](https://thespatialcommunity.org/)
 
 **Learning GIS**
 
@@ -83,8 +101,7 @@ During the semester, you may decide that you want to deepen your knowledge and s
 *Geospatial Analysis: A Comprehensive Guide* Michael J de Smith  
 *An Introduction to Geographical Information Systems* Ian Heywood, Sarah Cornelius  
 *Thematic Cartography and Geovisualization* Terry A. Slocum, Robert B McMaster et al  
-*Spatial Data Analysis: An Introduction For GIS Users* by Christopher Lloyd  
-*Qualitative GIS: A Mixed Methods Approach* Meghan Cope, Sarah Elwood  
+*Spatial Data Analysis: An Introduction For GIS Users* Christopher Lloyd  
 *GIS: A Short Introduction* Nadine Schuurman  
 *An Introduction to R for Spatial Analysis and Mapping* Chris Brunsdon, Lex Comber
 
@@ -95,6 +112,7 @@ During the semester, you may decide that you want to deepen your knowledge and s
 *Applied Text Analysis with Python* Benjamin Bengfort  
 *Natural Language Processing with Python* Steven Bird  
 *Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text* Taylor Arnold, Lauren Tilton  
+*Mastering Regular Expressions* Jeffrey E. F. Friedl 
 
 **Social Networks**
 
@@ -105,16 +123,19 @@ During the semester, you may decide that you want to deepen your knowledge and s
 
 **General Texts**
 
-*Basic Statistics for Social Research* Augustine Kposowa, Mark D. Riddle, and Robert Hanneman
-*Learning R* Richard Cotton
+*Basic Statistics for Social Research* Augustine Kposowa, Mark D. Riddle, and Robert Hanneman  
+*Learning R* Richard Cotton  
 *Learning Base R* Lawrence Mark Leemis  
+*R for Data Science* Hadley Wickham, Garret Grolemund  
 *Learning Python* Mark Lutz  
 
-## Week 0 - History in Practice - Strategies for Research in Transnational History   
+\pagebreak
 
-Our emphasis in this course is on a small set of skills related to GIS and mapping, social networks, and tools for the analysis of texts which, to master fully, would each require far more time than a single module with very limited class time can offer for any degree of significant mastery. These are skills that are often associated with a field that has come to be known as the *digital humanities*. This module should be seen as a kind of taster course that allows you to encounter a world of digital tools and methodologies that may be useful for working with large collections of sources. You may decide that most or all of these methods are not appropriate for your own research going forward, but some exposure to them will greater afford you the opportunity to understand them and, when appropriate engage or critique other historical scholarship that makes use of them.
+## Week 0 - Orientation: History in Practice - Balancing Skills and Critique in the Digital Humanities   
 
-We will have three primary goals:
+Our emphasis in this course is on a set of skills related to GIS and mapping, social networks, and tools for the analysis of texts which, to obtain even a moderate proficiency in, would each require several modules. These are skills that are often associated with a field that has come to be known as the *digital humanities*. This module should be seen as a kind of taster course that allows you to encounter a world of digital tools and methodologies that may be useful for working with large collections of sources. You may decide that most or all of these methods are not appropriate for your own research going forward, but some exposure to them will greater afford you the opportunity to understand them and, when appropriate engage or critique other historical scholarship that makes use of them.
+
+We will have three primary goals in this semester:
 
 1. In three broad parts, we will learn some of the basic principles and techniques of *historical GIS*, digital techniques for *text analysis and distant reading*, and some basic *visualisation of social networks*. In the two major assessments of the module you will have the opportunity to practice some of the techniques learned or, in the case of the final assessment, alternatively write a critical engagement with scholarship that makes use of these methodologies. This part of the module is arguably both the most fun and the most frustrating: you should prepare yourself for the sometimes considerable amount of time spent sorting out what can often be rather trivial technical obstacles along the way. One of the goals of this course is to introduce you to the problem solving mindset required to face these difficulties by effective use of online resources.
 
@@ -122,103 +143,107 @@ We will have three primary goals:
 
 3. Finally, this module will, throughout, introduce you to some of the work of what has been called the *critical digital humanities*. We will examine some of the powerful critiques that have been made of GIS both among historians and within the world of geography, where it had its biggest impact on scholarship. We will similarly examine critical discourses on other digital methodologies and in our discussions of the essays applying them that we read. Ask yourself, how much does the argument depend on the technological approach? What assumptions are made in setting the stage for the scholarship, in preparing the date, and in using the technologies? What are the costs implied, and the benefits gained? To what degree does the choice of methodology influence the kinds of questions asked and outcomes obtained?
 
-**Key Reading**
+**Preparation**
+
+1. Examine two of the most famous maps cited in scholarship on mapping and GIS: Charles Joseph Minard's [map of Napoleon's Russian Campaign](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png), and the famous [cholera map](http://www.ph.ucla.edu/epi/snow/snowmap1.pdf) of John Snow (you can read more about this here: [Map-making and Myth-making in Broad Street](http://www.ph.ucla.edu/epi/snow/mapmyth/mapmyth.html). Why have the come to be regarded as excellent examples of maps that communicate an idea very clearly? 
+
+**Introductory Reading**
 
 Moretti, Franco. *Atlas of the European Novel, 1800-1900* Verso 1998, p1-73 (Ch 1: The Novel, the Nation-State)
 
-## Week 1 - Introduction to Historical GIS and First Encounters with QGIS
-
-This week will explore the development of Historical GIS, but more broadly the analysis of geographic data within the humanities in general, as well as some of its basic approaches and promise. We will discuss Franco Moretti and chapters in as example of an experimental application in literature, and together spend some time examining and critiquing various more recent projects online.
-
-We will set aside time this week to discuss the first project assessment, and some potential topics and sources that you may consider using for the assessment.
-
-**Preparation**
-
-1. If you haven't already done so, please try to download and attempt to install [QGIS](http://www.qgis.org/en/site/forusers/download.html). If you have problems, please make note of what issues appear and bring them in.
-
-*General Tips Regarding Installation Problems:* Many of the multi platform open source applications out there these days make use of Java. Sometimes the version of Java pre-installed on your laptop (or, indeed, not installed or active) will be the key problem for getting the application to function smoothly. Installing or updating the appropriate Java version can often fix these issues. Also, if you find yourself presented with unusual error messages, searching google with a large part or all of the error message in quotation marks will often lead you to bulletin boards where people have faced similar issues and tried different steps to resolve the issue (though *please* evaluate recommended instructions on random bulletin boards with great care and ensure your machine is backed up before trying anything too elaborate!). The website [Stack Exchange](https://stackexchange.com/) often has useful discussions that address software issue.
-
-2. Using the Moodle, sign up to do (one student per text) two five minute (not a minute more!) non-assessed presentations each on one of the "application" texts in the key reading below. These presentations will be given Week 1, Week 2, Week 3, or Week 4 (3 out of these 4 weeks). In addition, sign up for a third text which you will prepare a handout for, but not actually present on.
-* Make a handout (a single or double sided page) about each of the three texts (two of which you will also present on). Submit the digital file for the handout as a PDF to the module Moodle for everyone's access before the class day that you will present on (the third text can be submitted anytime before week 4), and bring a printed copy for each student and tutor. On the handout: At the top of the handout put a full citation of the text followed by a short paragraph summarizing the argument and main features of the text. In a series of bullet points provide a brief outline or elaboration of points you will raise in your short spoken presentation, but not a verbatim text of the presentation - use this opportunity to practice the art of using a handout to complement your presentation, rather than stealing your listeners' attention by replacing it completely.
-* In the presentation comment on the way that GIS or mapping was used in the text. Were there any innovative or useful ideas to draw from the text as inspiration? Was GIS used primarily for *heuristic* or *explorative* purposes, visualising sources or data in order to discover new questions and spot patterns to press the historical research forward? Was GIS employed using formal *analysis*, making use of quantitative methodologies, spatial statistics, or other algorithmic techniques (if so, list what specific ones were used in the handout) towards the end of making concrete spatial claims? Was GIS used primarily used for *illustrative* purposes, showing things referred to in the text, or showing in visual terms that which has been demonstrated by other means in the body of the text's argument? Note: many works do not fit well into any single category, but least make note whether there are any formal analytical GIS techniques at all used and what the added value of mapping or GIS is in the work.
-
-**Key Readings**
-
-*Overviews:*
-
-KNOWLES
-Ch 1 "GIS and History" 1-27
-
-GREGORY  
-Ch 1 "GIS and its role in historical research: an introduction" 1-19
-
-
-GEDDES
-Fragment of Ch 4, only section "Environmental Management" 104-111
-
-*Applications:*
-
-*Read two of these for presentations and skim 3-5 other chapters of interest over the next few weeks. See the preparation section above for presentation info*
-
-GEDDES
-Ch 1 "Railways and Agriculture in France and Great Britain" 4-30  Schwartz and Thevenin
-Ch 2 "The Development, Persistence and Change of Racial Segregation in U.S. Urban Areas" 35-59  Andrew Beveridge
-Ch 3 "Troubled Geographies: A Historical GIS of Religion, Society, and Conflict in Ireland since the Great Famine" 62-83  Ian Gregory
-Ch 5 "The Politics of Territory in Song Dynasty China" 118-140 Ruth Mostern
-
-KNOWLES
-Ch 4 "Scaling the Dust Bowl" Geoff Cunfer
-Ch 6 "Mapping Husbandry in Concord: GIS as a Tool for Environmental History" Brian Donahue
-Ch 8 "New Windows on the Peutinger Map of the Roman World" Talbert and Elliot
-
-PAST
-Ch 2 "Teaching the Salem Witch Trials" Benjamin Ray
-Ch 3 "Similarity and Difference in the Antebellum North and South" Aaron C. Sheehan-Dean
-Ch 6 "Redlining in Philadelphia" Amy Hillier
-
-BODENHAMER
-Ch 7 "Mapping Text" May Yuan
-
-DEEP
-Ch 4 "Inscribing the Past: Depth as Narrative in Historical Spacetime" Ethington and Toyosawa
-Ch 7 "Spatializing and Analyzing Digital Texts: Corpora, GIS, and Places" Gregory, Cooper, Hardie, and Rayson
-Ch 8 "GIS as a Narrative Generation Platform" Yuan, McIntosh, and Delozier
-
-SPATIAL
-Ch 1 "Re-focus on Women in an Industrial Revolution..." Sherry Olsen
-Ch 4 "Railroads and Population Distribution..." Alvarez-Palau and Martí-Henneberg
-Ch 6 "Mapping the American Iron Industry" Anne Kelly Knowles
-Ch 9 "Geographies of Welfare in Nineteenth Century England and Wales" Douglas H L Brown
-Ch 13 "Kleindeutscland: the lower east side in new york city...1880s..." Kurt Schlichting
-Ch 15 "A City of the White Race Occupies its Place..." Lutz et al
-Ch 17 "The Post, The Railroad and the State" Gustavo Velasco
-Ch 19 "Food, Farms, and Fish in Great Britain and France, 1860-1914" Robert M. Schwartz
-Ch 20 "White Maps and Black Votes..." Don DeBats
-Ch 21 "The Spatial History of State Power" Ruth Mostern
-Ch 22 "Peasants and Politics - How GIS Offers new insights into the German Countryside" George Vascik
-Ch 23 "Mapping Inequality 'Big Data' meets social history in the story of redlining" Connolly et al
-Ch 25 "Urban Property in Nineteenth-Century Rio De Janeiro: Rent, neighborhoods, and networks" Zephyr Frank
-
-RAU
-Ch 3 "Peopling the Past: Interpreting Models for Pedestrian Movement in Ancient Civic-Ceremonial Centres" Morton et al
-Ch 5 "Lyons, the Spatial Analysis of a City in the 17th and 18th Centuries. Locating and Crossing Data in a GIS Built from Written Sources" Gauthiez  and Zeller
-Ch 6 "Mapping Long-term Urban Space Structures: Barcelona as a Case Study" Bassols and Garriga
-
-
-**Further Reading**
-
-Read more chapters in Moretti's *Atlas of the European Novel*
-Read additional chapters in SPATIAL
-
-Spatial History Project, Richard White [What is Spatial History?](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)  
-Spatial History Project, Stanford University [Gallery of Projects](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/gallery.php)  
-Tom Elliot and Sean Gillies "[Digital Geography and the Classics](http://digitalhumanities.org/dhq/vol/3/1/000031/000031.html)" *Digital Humanities Quarterly*
+[Literature Is not Data: Against Digital Humanities](https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities) 
 
 **Suggestions for Play and Exploration**
 
+* Browse the table of contents of some recent issues in the journals listed above in the *Resources to Explore* section and take note of titles you may want to revisit for inspiration for your future projects.
+* If you haven't done so already, consider signing up for [Slack](https://slack.com/), and joining the Digital Humanities slack and Spatial Community slack channels, both good places to learn from others passively on the channels hosted or to ask questions.
+
+\pagebreak
+
+## Week 1 - Introduction to Historical GIS and First Look at QGIS
+
+This week will explore the field that has become known as Historical GIS, but more broadly the analysis of geographic data within the humanities in general, as well as some of its basic approaches and promise. Beginning this week, and continuing through week four, you will all be asked to give short presentations and prepare summary handouts on some examples of scholarship making use of GIS. We will set aside time this week to discuss the first project assessment, and some potential topics and sources that you may consider using for the assessment.
+
+**Preparation**
+
+1. If you haven't already done so, please try to **download and attempt to install [QGIS](http://www.qgis.org/en/site/forusers/download.html)**. If you have problems, please make note of what issues appear and bring them in.
+
+*General Tips Regarding Installation Problems:* Many of the multi platform open source applications out there these days make use of Java. Sometimes the version of Java pre-installed on your laptop (or, indeed, not installed or active) will be the key problem for getting the application to function smoothly. Installing or updating the appropriate Java version can often fix these issues. Also, if you find yourself presented with unusual error messages, searching google with a large part or all of the error message in quotation marks will often lead you to bulletin boards where people have faced similar issues and tried different steps to resolve the issue (though *please* evaluate recommended instructions on random bulletin boards with great care and ensure your machine is backed up before trying anything too elaborate!). The website [Stack Exchange](https://stackexchange.com/) often has useful discussions that address software issue.
+
+2. Using the Moodle, accessible via the module [MMS](http://mms.st-andrews.ac.uk/), **sign up to do two five minute non-assessed presentations** (not a minute more!) each on the "application" texts (one student per text) in the *Reading Selection* list below. These presentations will be given Week 1, Week 2, Week 3, or Week 4 (3 out of these 4 weeks). In addition, sign up for a third text which you will prepare a handout for, but not actually present on.
+
+    * **Make a handout about each of the three texts** (two of which you will also present on) which is on a single or double-sided page. Submit the digital file for the handout as a PDF to the module Moodle for everyone's access before the class day that you will present on (the third text can be submitted anytime before week 4), and bring a printed copy for each student and tutor. On the handout: At the top of the handout put a full citation of the text followed by a short paragraph summarizing the argument and main features of the text. In a series of bullet points provide a brief outline or elaboration of points you will raise in your short spoken presentation, but not a verbatim text of the presentation - use this opportunity to practice the art of using a handout to complement your presentation, rather than stealing your listeners' attention by replacing it completely.
+    * In the presentation **comment on the way that GIS or mapping was used** in the text. **Comment on what data was used for the project and what kind of effort might have been involved in preparing it** for GIS. **Were there any innovative or useful ideas to draw from the text as potential inspiration** for our projects? Was GIS used primarily for *heuristic* or *explorative* purposes, visualising sources or data in order to discover new questions and spot patterns to press the historical research forward? Was GIS employed using formal *analysis*, making use of quantitative methodologies, spatial statistics, or other algorithmic techniques (if so, list what specific ones were used in the handout) towards the end of making concrete spatial claims? Was GIS used primarily used for *illustrative* purposes, showing things referred to in the text, or showing in visual terms that which has been demonstrated by other means in the body of the text's argument? Note: many works do not fit well into any single category, but least make note whether there are any formal analytical GIS techniques at all used and what the added value of mapping or GIS is in the work.
+
+**Required Readings**
+
+KNOWLES  Ch 1 "GIS and History" 1-27
+
+GREGORY  Ch 1 "GIS and its role in historical research: an introduction" 1-19
+
+GEDDES  Fragment of Ch 4, only section "Environmental Management" 104-111  
+
+\pagebreak
+
+**Reading Selection for Presentations on Historical GIS Scholarship:**
+
+*For the coming weeks, choose two of the following chapters for the weeks of your presentations plus one for an additional handout. Please skim 3-5 other chapters of interest over the next few weeks for inspiration for your map project. See the preparation section above for presentation info.*
+
+GEDDES  
+Ch 1 "Railways and Agriculture in France and Great Britain" 4-30  Schwartz and Thevenin  
+Ch 2 "The Development, Persistence and Change of Racial Segregation in U.S. Urban Areas" 35-59  Andrew Beveridge  
+Ch 3 "Troubled Geographies: A Historical GIS of Religion, Society, and Conflict in Ireland since the Great Famine" 62-83  Ian Gregory  
+Ch 5 "The Politics of Territory in Song Dynasty China" 118-140 Ruth Mostern
+
+KNOWLES  
+Ch 4 "Scaling the Dust Bowl" Geoff Cunfer  
+Ch 6 "Mapping Husbandry in Concord: GIS as a Tool for Environmental History" Brian Donahue  
+Ch 8 "New Windows on the Peutinger Map of the Roman World" Talbert and Elliot  
+
+PAST  
+Ch 2 "Teaching the Salem Witch Trials" Benjamin Ray  
+Ch 3 "Similarity and Difference in the Antebellum North and South" Aaron C. Sheehan-Dean  
+Ch 6 "Redlining in Philadelphia" Amy Hillier  
+
+BODENHAMER  
+Ch 7 "Mapping Text" May Yuan
+
+DEEP  
+Ch 4 "Inscribing the Past: Depth as Narrative in Historical Spacetime" Ethington and Toyosawa  
+Ch 7 "Spatializing and Analyzing Digital Texts: Corpora, GIS, and Places" Gregory, Cooper, Hardie, and Rayson  
+Ch 8 "GIS as a Narrative Generation Platform" Yuan, McIntosh, and Delozier  
+
+SPATIAL  
+Ch 1 "Re-focus on Women in an Industrial Revolution..." Sherry Olsen  
+Ch 4 "Railroads and Population Distribution..." Alvarez-Palau and Martí-Henneberg  
+Ch 6 "Mapping the American Iron Industry" Anne Kelly Knowles  
+Ch 9 "Geographies of Welfare in Nineteenth Century England and Wales" Douglas H L Brown  
+Ch 13 "Kleindeutscland: the lower east side in new york city...1880s..." Kurt Schlichting  
+Ch 15 "A City of the White Race Occupies its Place..." Lutz et al  
+Ch 17 "The Post, The Railroad and the State" Gustavo Velasco  
+Ch 19 "Food, Farms, and Fish in Great Britain and France, 1860-1914" Robert M. Schwartz  
+Ch 20 "White Maps and Black Votes..." Don DeBats  
+Ch 21 "The Spatial History of State Power" Ruth Mostern  
+Ch 22 "Peasants and Politics - How GIS Offers new insights into the German Countryside" George Vascik  
+Ch 23 "Mapping Inequality 'Big Data' meets social history in the story of redlining" Connolly et al  
+Ch 25 "Urban Property in Nineteenth-Century Rio De Janeiro: Rent, neighborhoods, and networks" Zephyr Frank
+
+RAU  
+Ch 3 "Peopling the Past: Interpreting Models for Pedestrian Movement in Ancient Civic-Ceremonial Centres" Morton et al  
+Ch 5 "Lyons, the Spatial Analysis of a City in the 17th and 18th Centuries. Locating and Crossing Data in a GIS Built from Written Sources" Gauthiez  and Zeller  
+Ch 6 "Mapping Long-term Urban Space Structures: Barcelona as a Case Study" Bassols and Garriga  
+
+**Further Reading**
+
+Read more chapters in Moretti's *Atlas of the European Novel*  
+Read additional chapters in SPATIAL  
+
+**Suggestions for Play and Exploration**
+
+*  [Stanford Spatial History - Gallery of Projects](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/gallery.php) - Visit this gallery of projects and examine a few of them for possible inspiration. Note that some of them merely have screenshots (many of them were once interactive with the plug-in Flash, which is no longer supported by its developers) and reflect on the problem of technological obsolescence on the web.
 * Think about historical works that have impressed you or which you think are important for your area of interest. Are there aspects or sources which are or might benefit from a more spatially explicit approach? Do the works make use of maps or spatial visualization in an effective way? Could they have? If so, how might it have been done? What sources in your area of interest might lend themselves well to *heuristic* or *analytical* or *illustrative* use of maps and GIS?
-* If your readings in the *applications* chapters include work that use analytic GIS techniques or spatial statistics, look up the method that was used and read more about it. Find out if/how the method can be done within QGIS, evaluate the strengths or weaknesses of the method. What kinds of assumptions does it make or other problems may arise?
-* Look up one or more of the source bases used in some of the *applications* reading. Are any of them available online and easily accessible? Are sources like it or of the same type or class available in your area of interest and easily accessible? How might you get a hold of them for use in your own research?
+* If your chosen readings for presentations include work that use analytic GIS techniques or spatial statistics, look up the method that was used and read more about it. Find out if/how the method can be done within QGIS, evaluate the strengths or weaknesses of the method. What kinds of assumptions does it make or other problems may arise?
+* Look up one or more of the source bases used in some of the reading selections for presentations. Are any of them available online and easily accessible? Are sources like it or of the same type or class available in your area of interest and easily accessible? How might you get a hold of them for use in your own research?
 * Start thinking about your first assessment and come up with half a dozen possible ideas to explore. Start chasing down information for it, or putting in inter-library loan requests if required.
 * If you don't have it yet, apply for a SCONUL card in the library to help you get access to other large research libraries in the area. Consider getting a reader card at the National Library of Scotland and read up on the procedure for the use of the library, which is in Edinburgh.
 * Look to the weeks ahead and identify techniques or skills that you think you might be especially interested in. Jump ahead and start learning in that area.
@@ -231,47 +256,57 @@ We will open today with a discussion of some basic GIS terminology, concepts, an
 
 We will set aside class time to further talk about the first assessment, the expectations and share thoughts on what you wish to do in this regard.
 
-**Key Reading**
+**Preparation**
+
+1. Please come to class with your laptop, having installed QGIS: [QGIS Download and Installation](https://www.qgis.org/en/site/forusers/download.html). In class we will together work through a few of the tutorials at [Mapping and GIS for Historians](http://transnationalhistory.net/mapping/tutorials/)
+2. We will have some presentations today, see last week for more on how to prepare.
+3. Some of the readings today point to the controversies over the use of GIS that created considerable tension within the field of Geography and has similarly sparked debates among historians. As these will emerge multiple times, consider noting down some of the main issues and different perspectives along with some of the major participants in these debates mentioned.
+4. There are a number of technical concepts that arise this week. In fact, some of them show up in two or three of the readings so if you understood it clearly the first time, you can skim or merely review the understanding of the concept in the other readings. If they are not clear from the readings, consider looking into them a bit more:
+    * Data models
+    * Vector and raster data
+    * MAUP modifiable areal unit problem
+    * Ecological Fallacy
+    * Spatial autocorrelation
+    * Generalization (in the context of GIS)
+    * Least cost path analysis
+    * Epistemology and Ontology (in the context of GIS)
+
+**Required Reading**
+
+Victor Olaya *Introduction to GIS* 2018 (Very affordable copy available for order online, or [various free formats here](https://volaya.github.io/gis-book/en/index.html)) 1-36, 87-98
 
 Nadine Schuurman *GIS: A Short Introduction* Ch 2 "GIS, Human Geography, and the Intellectual Territory Between Them" 21-52
 
-DEEP
-Ch 3 "Genealogies of Emplacement" 54-71
+DEEP Ch 3 "Genealogies of Emplacement" 54-71
 
-BODENHAMER
-Ch 3 "Geographic Information Science and Spatial Analysis for the Humanities" 31-73
+BODENHAMER Ch 3 "Geographic Information Science and Spatial Analysis for the Humanities" 31-73
 
-GREGORY
-Ch 5 "Using GIS to visualise historical data" 89-118
-
-KNOWLES
-Ch 5 "'A Map is Just a Bad Graph': Why Spatial Statistics are Important in Historical GIS" 123-150
-
-Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History*. Verso, 2007, p34-64 (Ch 3: Maps) [Library ebook](https://quod.lib.umich.edu/cgi/t/text/text-idx?c=acls;idno=heb08911)
+KNOWLES Ch 5 "'A Map is Just a Bad Graph': Why Spatial Statistics are Important in Historical GIS" 123-150
 
 **Further Reading**
 
-GREGORY
-Ch 4, 6, 8
+GREGORY Ch 4, 5, 6, 8
 
-Read more chapters in Moretti's *Atlas of the European Novel*
+Monmonier, Mark. *How to Lie with Maps*. 3rd Edition. University of Chicago Press, 2018.
 
-**Preparation**
+Schuurman *GIS: A Short Introduction* Ch 3 "The Devil is in the Data", Ch 4 "Bringing it All Together"
 
-Please come to class having installed QGIS:
-[QGIS Download and Installation](https://www.qgis.org/en/site/forusers/download.html)
+John Pickles ed. *Ground Truth: The Social Implications of Geographic Information Systems* 1995 esp. Preface, Ch 1, 3, 7 
 
-In class we will together work through a few of the tutorials at [Mapping and GIS for Historians](http://transnationalhistory.net/mapping/tutorials/)
+Hill, Linda L. *Georeferencing: The Geographic Associations of Information*. Digital Libraries and Electronic Publishing. Cambridge, Mass: MIT Press, 2006, Ch 5 Gazetteers and Gazetteer Services [Library ebook](http://ezproxy.st-andrews.ac.uk/login?url=http://library.books24x7.com/library.asp?^B&bookid=18552)
 
 **Reference Reading**
 
+The following may be useful to you in getting acquainted with QGIS. See also the *Striking Out on Your Own* section above in this handbook:
+
+Graser, Anita. *Learning QGIS 2.0*. Packt Publishing Ltd, 2013. (Not in library) - Note: QGIS is now at 3.x so some instructions may be slightly off when it comes to some features.
+
 [QGIS Training Manual](http://docs.qgis.org/2.8/en/docs/training_manual/)
-[Mapping and GIS for Historians](http://transnationalhistory.net/mapping/)
 [GQIS Tutorials and Tips](http://www.qgistutorials.com/en/index.html)
 
-Graser, Anita. *Learning QGIS 2.0*. Packt Publishing Ltd, 2013. (Not in library)
+\pagebreak
 
-## Week 3 - QGIS: Techniques for Exploration and Analysis
+## Week 3 - QGIS: Techniques for Exploration and Analysis of Spatial Data
 
 Our goal in this second hands-on QGIS session is to discuss the art and challenges of georectification. This is the process of assigning coordinates in physical space to, in our case, locations on a historical map. We will learn how to carry this out to prepare a map in GIS software such as QGIS so that we may add layers that extract locations or objects on that map, both at large scales and small ones.
 
@@ -281,13 +316,12 @@ Our goal in this second hands-on QGIS session is to discuss the art and challeng
 
 in
 
-Hill, Linda L. *Georeferencing: The Geographic Associations of Information*. Digital Libraries and Electronic Publishing. Cambridge, Mass: MIT Press, 2006, Ch 1 "Laying the Groundwork" [Library ebook](http://ezproxy.st-andrews.ac.uk/login?url=http://library.books24x7.com/library.asp?^B&bookid=18552)
 
 **Further Reading**
 
 Hill, *Georeferencing*, Ch 5 [Library ebook](http://ezproxy.st-andrews.ac.uk/login?url=http://library.books24x7.com/library.asp?^B&bookid=18552)
 
-## Week 4 - QGIS - Map Design, Post-processing, and Deployment
+## ERASE - QGIS - Map Design, Post-processing, and Deployment
 
 This week is closer to cartography and moves beyond GIS software. We will discuss some of the principles of creating maps that are visually effective, maps that tell stories, and some basic elements and techniques. We will discuss the world of map editing beyond GIS software, using vector based software, whether the open-source application Inkscape, or commercial software such as Adobe Illustrator. We will discuss the relative benefits of working within QGIS and then editing or deploying your maps after some editing in another graphics application, or, when simple maps are all that are needed, working directly with a graphics application, or an online tool.
 
@@ -317,7 +351,9 @@ Slocum, Terry A., Robert B. McMaster, Fritz C. Kessler, and Hugh H. Howard. *The
 
 Tufte, Edward R. *The Visual Display of Quantitative Information*. Graphics Press, 2001.
 
-## Week 5 - Thinking With/Against Maps and Spatial Data
+\pagebreak
+
+## Week 4 - Thinking With/Against Maps and Spatial Analysis
 
 For several weeks now we have been learning some very basic skills in QGIS and mapping. The promise of using GIS software for mapping, and the more advanced geographical analysis that becomes possible with it should be apparent. However, this week we will shift to think more critically about some of the epistemological challenges that it presents and what limitations there are for historical GIS and geographic analysis of a quantitative kind when applied to spatial history.
 
@@ -337,19 +373,9 @@ Joanna Drucker "[Humanities Approaches to Graphical Display](http://www.johannad
 
 Jobst, Markus, eds. *Preservation in Digital Cartography: Archiving Aspects*. Berlin ; London: Springer, 2010. [Library ebook](http://dx.doi.org/10.1007/978-3-642-12733-5)
 
-## Week 5 - Working with Texts: Regular Expressions and the Command Line
+\pagebreak
 
-
-## Week 6 - Independent Learning Week
-
-Use this week to finish your Map Project and catch up on any reading you may have fallen behind on. Start thinking about how to transition into the database project and read over the requirements for the Database and Visualisation Project.
-
-## Week 7 - Working with Texts: Introduction to the World of R
-
-## Week 8 - **Working with Texts: Distant Reading Techniques for Historians
-
-
-## Week 7 - Cleaning Data and Analysing Texts
+## Week 5 - Text Analysis: Using the Command Line, Regular Expressions, and OCR with Tesseract
 
 This week will have two focuses. The first is to talk about some of the technological challenges of moving from textual narrative or other kinds of material embedded in historical sources, to digital data that can be manipulated, analysed and visualised. Already in week 5 and again in week 12, we will return to the critical questions of what is lost, transformed, newly created in this process, but the main goal is to look at some of the tools for cleaning data. Among these will be an introduction to Regular Expressions and a brief introduction to tools such as OpenRefine and Orange.
 
@@ -367,7 +393,21 @@ Please use this week to really make a jump on your second project, thinking abou
 
 Jeffrey E. F. Friedl *Mastering Regular Expressions* 2nd Edition O'Reilly
 
-## Week 9 - Prosopography and Networks in the Humanities
+## Week 6 - Independent Learning Week
+
+Use this week to finish your Map Project and catch up on any reading you may have fallen behind on. Start thinking about how to transition into the database project and read over the requirements for the Database and Visualisation Project.
+
+\pagebreak
+
+## Week 7 - Text Analysis: Introduction to R; Frequencies and Correlation
+
+\pagebreak
+
+## Week 8 - Text Analysis: Topic Modelling and Sentiment Analysis; Introduction to Alternative Tools
+
+\pagebreak
+
+## Week 9 - Networks: Introduction to Social Network Analysis and Cytoscape
 
 This week begins with a more historical approach. The study of large groups of individuals, or individual objects, along with the network of relationships between them is very old in the practice of history. It was traditionally the field known as "prosopography" which we will examine more closely today, and analyse some of the decisions made in the course of developing the large databases behind some of these projects.
 
@@ -377,12 +417,9 @@ We will set aside class time to see what progress you have made towards a topic 
 
 Please visit and look over the following websites:
 
-[Prosopography Research](http://prosopography.modhist.ox.ac.uk/course_syllabuses.htm)
-
-[Domesday - Prosopography of Anglo-Saxon England.](http://domesday.pase.ac.uk/)
-
-[Prosopography of the Byzantine World](http://www.pbw.kcl.ac.uk/)
-
+[Prosopography Research](http://prosopography.modhist.ox.ac.uk/course_syllabuses.htm)  
+[Domesday - Prosopography of Anglo-Saxon England.](http://domesday.pase.ac.uk/)  
+[Prosopography of the Byzantine World](http://www.pbw.kcl.ac.uk/)  
 [China Biographical Database Project](http://isites.harvard.edu/icb/icb.do?keyword=k16229)
 
 **Reading**
@@ -393,7 +430,7 @@ Erickson, Bonnie H. “Social Networks and History: A Review Essay.” *Historic
 
 [Historical Network Research - Bibliography](http://historicalnetworkresearch.org/resources/bibliography/)
 
-## Week 9 - Developing a Network Database
+## ERASE - Developing a Network Database
 
 This week we'll discuss some of the background of what needs to be thought about prior to the creation of a database and some of the challenges at the outset. The basics of what a relational database is, and how it has come to dominate, until very recently, almost everything you interact with online. This week we will also have a closer look at some existing databases, how, they are structured, and what happens when you interact with them. We will also discuss how prosopographical efforts and biographical or event databases are now a key part of linking to heuristic map making and GIS analysis.
 
@@ -402,8 +439,6 @@ Peter Bol "[GIS, Prosopography, and History](http://dash.harvard.edu/handle/1/53
 Lemercier, Claire. “[Formal Network Methods in History: Why and How?](https://halshs.archives-ouvertes.fr/halshs-00521527/document),” December 7, 2011.
 
 Harvey, Charles, and Jon Press. *Databases in Historical Research: Theory, Methods and Applications*. Macmillan, 1996, selections.
-
-## Week 10 - Introduction to Tools for Database Development
 
 This week we will begin developing our own database, primarily with the software known as LibreOffice Base, and open source alternative to the desktop database software Microsoft Access. We will first construct a database using some example data, but then approach it with some of our own data. In addition, we will review your results from carrying out the below tutorial, using another approach to database creation and visualization from the Programming Historian.
 
@@ -419,13 +454,23 @@ Attempt this tutorial at the Programming Historian:
 
 **Further Reading**
 
+\pagebreak
+
+## Week 10 - Networks: Using R to Explore Network Data and Introduction to Alternative Tools
+
 Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History*. Verso, 2007.
 
-## Week 10 - Introduction to Tools for Social Network Visualisation and Analysis
+\pagebreak
+
+## Week 11 - Mapping Texts and Networks; Mediums for Sharing Your Work
 
 This week we will talk about the kinds of tools available for visualizing networks, small and large. We will take a closer look at the open source software called Gephi and, using some sample data, will discuss what benefits rich network visualizations with the software might offer. Some of our readings for this week continue the broader background in the scholarship on Social Network Analysis
 
 **Reading**
+
+Tom Elliot and Sean Gillies "[Digital Geography and the Classics](http://digitalhumanities.org/dhq/vol/3/1/000031/000031.html)" *Digital Humanities Quarterly*
+
+Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History*. Verso, 2007, p34-64 (Ch 3: Maps) [Library ebook](https://quod.lib.umich.edu/cgi/t/text/text-idx?c=acls;idno=heb08911)
 
 ["Demystifying Networks"](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
 
@@ -476,7 +521,7 @@ Ch 23 A Brief Introduction to Analyzing Social Network Data pp331-339
 Ch 27 Qualitative Approaches pp404-416   
 Ch 28 Analyzing Affiliation Networks pp417-433
 
-## Week 11 - Epistemologies of Quantification and the Critical Digital Humanities
+## ERASE - Epistemologies of Quantification and the Critical Digital Humanities
 
 This week we will again step back and reflect on some of the risks and theoretical problems with heavily quantitative approaches. We will discuss some of the literature on this in the "critical digital humanities" and then ask ourselves how our own projects for this module faced these issues.
 
