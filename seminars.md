@@ -414,27 +414,27 @@ For several weeks now we have been learning some very basic skills in QGIS and m
 **Required Reading**
 
 Curry, Michael *Digital Places: Living with Geographic Information Technologies*  
-Ch 1 "Reason and Language in Geographic Information Systems" 11-23
+Ch 1 "Reason and Language in Geographic Information Systems" 11-23  
 Ch 2 "On Space in Geographic Information Systems" 24-38
 
 LÜNEN  
 Ch 11 "GIS and Research into Historical 'Spaces of Practice': Overcoming Epistemological Barriers" Sam Griffiths  
-Ch 12 "GIS and History: Epistemologies, Reflections, and Considerations" Charles Travis
+Ch 12 "GIS and History: Epistemologies, Reflections, and Considerations" Charles Travis  
 Ch 14 "Tracking in a New Territory: Re-imaging GIS for History" Alexander von Lünen
 
 **Further Reading**
 
 Wilson, Matthew W. *New Lines: Critical GIS and the Trouble of the Map* 2018 (not in library)  
 
-Jobst, Markus, et al.  *Preservation in Digital Cartography: Archiving Aspects*. Berlin ; London: Springer, 2010. [Library ebook](http://dx.doi.org/10.1007/978-3-642-12733-5)  
-
 Pickles, John. *A History of Spaces: Cartographic Reason, Mapping and the Geo-Coded World*. Routledge, 2012.
-
-Cope, Meghan, and Sarah Elwood *Qualitative GIS: A Mixed Methods Approach* Sage, 2009  
 
 Massey, Doreen B. *For Space*. London; Thousand Oaks, Calif.: SAGE, 2005.
 
+Cope, Meghan, and Sarah Elwood *Qualitative GIS: A Mixed Methods Approach* Sage, 2009  
+
 "Elements of Historical Knowledge About Urban Spaces: Reflections on the Requirements for a Dynamic Map" Ekkehard Schönherr in Rau, Susanne, Ekkehard Schönherr, eds. *Mapping Spatial Relations, Their Perceptions and Dynamics: The City Today and in the Past. Lecture Notes in Geoinformation and Cartography*. Cham ; New York: Springer, 2014. [Library ebook](http://dx.doi.org/10.1007/978-3-319-00993-3)
+
+Jobst, Markus, et al.  *Preservation in Digital Cartography: Archiving Aspects*. Berlin ; London: Springer, 2010. [Library ebook](http://dx.doi.org/10.1007/978-3-642-12733-5)  
 
 **Reference Reading**
 
@@ -450,17 +450,7 @@ Tufte, Edward R. *The Visual Display of Quantitative Information*. Graphics Pres
 
 ## Week 5 - Text Analysis: Using the Command Line, Regular Expressions, and OCR with Tesseract
 
-This week will have two focuses. The first is to talk about some of the technological challenges of moving from textual narrative or other kinds of material embedded in historical sources, to digital data that can be manipulated, analysed and visualised. Already in week 5 and again in week 12, we will return to the critical questions of what is lost, transformed, newly created in this process, but the main goal is to look at some of the tools for cleaning data. Among these will be an introduction to Regular Expressions and a brief introduction to tools such as OpenRefine and Orange.
 
-The second part of the class will introduce (but not delve into too much depth) into the broad world of text analysis and text mining in the form of a variety of fields such as corpus analysis, text encoding and markup, topic modeling, and making use of data extracted from text for maps and network visualisations.
-
-**Preparation**
-
-Review the tutorials available at programming historian and identify 1-3 of these that may be relevant to your own goals for the preparation and analysis of data. We will discuss them in class:
-
-https://programminghistorian.org/lessons/
-
-Please use this week to really make a jump on your second project, thinking about the topic, and more importantly, what kinds of sources might be used for our second exercise.
 
 **Reference Reading**
 
