@@ -32,7 +32,7 @@ After you finish the readings for the week, use the remaining time you have set 
 
 This is a computer screen intensive module. Though this may seem like an obvious point, it is worth reminding you here that it is not healthy to sit and stare at a computer screen for long periods. I suggest you try working in [periods of 25 minutes]((https://en.wikipedia.org/wiki/Pomodoro_Technique)) or so with the help of a timer, forcing yourself to get up and take a break regularly.
 
-**Note:** We will have two meetings in week seven and in week nine to allow you more time to work on the final project after learning new skills. There will be no class in week ten or eleven, but office hours will be available in both weeks for you to come and ask questions. 
+**Note:** We will have two meetings in week seven and in week nine to allow you more time to work on the final project after learning new skills. There will be no class in week ten or eleven, but office hours will be available in both weeks for you to come and ask questions.
 
 ## Optional Pre-Semester Preparation
 
@@ -41,12 +41,12 @@ If you would like to get a head start on the module and get a flavor for the mod
 1. Read the short book by Franco Moretti, *Atlas of the European Novel, 1800-1900* and the fun but very informative book by Mark Monmonier *How to Lie with Maps*
 2. Attempt to install [QGIS](https://qgis.org/en/site/forusers/download.html) and [Cytoscape](http://cytoscape.org/) on your laptop
 3. Attempt some of the tutorials at [Mapping and GIS for Historians](http://transnationalhistory.net/mapping/) - please note that these tutorials were developed for QGIS 2.x and some screenshots will not indicate the correct location of buttons, etc. in the 2018 Summer release of QGIS 3.x
-4. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/). If you would like to get started with the world of R, consider a book such as *Learning R* by Richard Cotton, or any of the many online tutorials. *Note:* All the skills using R we will encounter in this module can also be done in the even more popular programming language of Python. If you think you might someday want to learn more programming, I'm happy to guide students towards resources that will allow them to do any of the module tasks in Python instead of R. 
+4. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/). If you would like to get started with the world of R, consider a book such as *Learning R* by Richard Cotton, or any of the many online tutorials. *Note:* All the skills using R we will encounter in this module can also be done in the even more popular programming language of Python. If you think you might someday want to learn more programming, I'm happy to guide students towards resources that will allow them to do any of the module tasks in Python instead of R.
 5. Browse and experiment with instructional materials at [A Gentle Introduction to QGIS](http://docs.qgis.org/testing/en/docs/gentle_gis_introduction/), [Cytoscape Tutorials Wiki](https://github.com/cytoscape/cytoscape-tutorials/wiki), and if you have your access to St Andrews e-resources, try Chapter 1 of *Text Analysis with R for Students of Literature* ([library ebook](http://dx.doi.org/10.1007/978-3-319-03164-4))
 
 ## Resources to Explore
 
-As you do work on your projects you will find plenty of inspiration surveying the explosion of scholarship over the last decade or two. The following are some journals, hosts of projects, link hubs, and aggregators: 
+As you do work on your projects you will find plenty of inspiration surveying the explosion of scholarship over the last decade or two. The following are some journals, hosts of projects, link hubs, and aggregators:
 
 [*Digital Humanities Quarterly*](http://www.digitalhumanities.org/dhq/)  
 [*International Journal of Humanities and Arts Computing*](https://www.euppublishing.com/loi/IJHAC) (formerly *History and Computing*)  
@@ -95,6 +95,7 @@ During the semester, you may decide that you want to deepen your knowledge and s
 **Learning GIS**
 
 *Learning QGIS* Anita Graser  
+*Mastering QGIS* Kurt Menke et al.
 *QGIS Map Design* Anita Graser  
 *QGIS 2 Cookbook* Alex Mandel  
 *Historical GIS: Technologies, Methodologies, and Scholarship* Gregory, Ian N., and Paul S. Ell, eds.  
@@ -113,7 +114,7 @@ During the semester, you may decide that you want to deepen your knowledge and s
 *Applied Text Analysis with Python* Benjamin Bengfort  
 *Natural Language Processing with Python* Steven Bird  
 *Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text* Taylor Arnold, Lauren Tilton  
-*Mastering Regular Expressions* Jeffrey E. F. Friedl 
+*Mastering Regular Expressions* Jeffrey E. F. Friedl
 
 **Social Networks**
 
@@ -188,7 +189,7 @@ GEDDES  Fragment of Ch 4, only section "Environmental Management" 104-111
 
 **Reading Selection for Presentations on Historical GIS Scholarship:**
 
-*For the coming weeks, choose two of the following chapters for the weeks of your presentations plus one for an additional handout. Please skim 3-5 other chapters of interest over the next few weeks for inspiration for your map project.* 
+*For the coming weeks, choose two of the following chapters for the weeks of your presentations plus one for an additional handout. Please skim 3-5 other chapters of interest over the next few weeks for inspiration for your map project.*
 
 *See the preparation section above for presentation info.*
 
@@ -264,14 +265,14 @@ Extract and read some of the works cited by the scholarship above
 
 We will open today with a discussion of some basic GIS terminology, concepts, and the components which are required for using GIS software. We will discuss the readings and have presentations on some applications of GIS in historical scholarship. We will then use most of the remainder of the time to work on learning the basic functionality of QGIS and the georeferencing of historical maps, which is a common task for many history projects. We will set aside class time to further talk about the first assessment, the expectations and share thoughts on what you wish to do in this regard.
 
-Some of the QGIS basics we will work on, time permitting include: 
+Some of the QGIS basics we will work on, time permitting include:
 
-* Adding and manipulating layers in QGIS 
+* Adding and manipulating layers in QGIS
 * Adding a simple layer with some points from a CSV file
-* Importing shapefiles 
+* Importing shapefiles
 * Adding basemaps
-* Georeferencing and georectifying a historical map 
-* Adding additional features to a layer using a georeferenced or other basemap 
+* Georeferencing and georectifying a historical map
+* Adding additional features to a layer using a georeferenced or other basemap
 * Basic querying of spatial data on maps
 * Basic choropleth and graduated point symbol maps
 
@@ -281,7 +282,7 @@ Some of the QGIS basics we will work on, time permitting include:
 2. See the module Moodle for an updated list of YouTube videos to watch, along with some reference websites related to the QGIS techniques we will discuss. Please watch as many of the videos as you can, but you may skip those for techniques you are don't think you will ever need.
 3. We will have some presentations today, see last week for more on how to prepare.
 4. Some of the readings today point to the controversies over the use of GIS that created considerable tension within the field of Geography and has similarly sparked debates among historians. As these will emerge multiple times, consider noting down some of the main issues and different perspectives along with some of the major participants in these debates mentioned.
-5. There are a number of technical concepts that arise this week. In fact, some of them show up in two or three of the readings so if you understood it clearly the first time, you can skim or merely review the understanding of the concept in the other readings. If they are not clear from the readings, consider looking into them a bit more: Data models, Vector and raster data, MAUP modifiable areal unit problem, Ecological Fallacy, Spatial autocorrelation, Generalization (in the context of GIS), Least cost path analysis, Epistemology and Ontology (in the context of GIS) 
+5. There are a number of technical concepts that arise this week. In fact, some of them show up in two or three of the readings so if you understood it clearly the first time, you can skim or merely review the understanding of the concept in the other readings. If they are not clear from the readings, consider looking into them a bit more: Data models, Vector and raster data, MAUP modifiable areal unit problem, Ecological Fallacy, Spatial autocorrelation, Generalization (in the context of GIS), Least cost path analysis, Epistemology and Ontology (in the context of GIS)
 6. Browse the [David Rumsey historical map collection](https://www.davidrumsey.com/) and especially its offerings in the areas of your interest.
 
 **Required Reading**
@@ -307,9 +308,14 @@ Monmonier, Mark. *How to Lie with Maps*. 3rd Edition. University of Chicago Pres
 
 Schuurman *GIS: A Short Introduction* Ch 3 "The Devil is in the Data", Ch 4 "Bringing it All Together"
 
-John Pickles ed. *Ground Truth: The Social Implications of Geographic Information Systems* 1995 esp. Preface, Ch 1, 3, 7 
+John Pickles ed. *Ground Truth: The Social Implications of Geographic Information Systems* 1995 esp. Preface, Ch 1, 3, 7
 
 Hill, Linda L. *Georeferencing: The Geographic Associations of Information*. Digital Libraries and Electronic Publishing. Cambridge, Mass: MIT Press, 2006, Ch 5 Gazetteers and Gazetteer Services [Library ebook](http://ezproxy.st-andrews.ac.uk/login?url=http://library.books24x7.com/library.asp?^B&bookid=18552)
+
+Fotheringham, A. Stewart et al. *The SAGE Handbook of Spatial Analysis*. Los Angeles ; London: SAGE Publications, 2009.  
+Ch 6 Spatial Autocorrelation  
+Ch 7 The modifiable area unit problem (MAUP)  
+Ch 23 Spatial Analaysis on a Network
 
 **Reference Reading**
 
@@ -321,7 +327,7 @@ Note: QGIS is now at 3.x so some instructions may be slightly off when it comes 
 The following may be useful to you in getting acquainted with QGIS. See also the *Striking Out on Your Own* section above in this handbook:
 
 Graser, Anita. *Learning QGIS 2.0*  (Not in library)
-Graser, Anita. *QGIS Map Design* 2016 (Not in Library) 
+Graser, Anita. *QGIS Map Design* 2016 (Not in Library)
 
 [QGIS Training Manual](http://docs.qgis.org/2.8/en/docs/training_manual/)  
 [GQIS Tutorials and Tips](http://www.qgistutorials.com/en/index.html)  
@@ -334,15 +340,15 @@ As you learn some of the basics of using QGIS, especially the georeferencing of 
 
 ## Week 3 - QGIS: Techniques for Exploration and Analysis of Spatial Data
 
-Our goal in this second hands-on QGIS session is complete a review of any techniques we didn't find time for in the previous week, and then continue with further skills from the list below. We will continue with the presentations that were signed up for in week one, but the readings for this week, which are generally in the area of critical GIS, will be mostly rolled into our discussion in week four. 
+Our goal in this second hands-on QGIS session is complete a review of any techniques we didn't find time for in the previous week, and then continue with further skills from the list below. We will continue with the presentations that were signed up for in week one, but the readings for this week, which are generally in the area of critical GIS, will be mostly rolled into our discussion in week four.
 
 Some QGIS techniques for today, as time permits:
 
 * Creating a heat map
-* Creating and using buffers 
+* Creating and using buffers
 * Clipping, difference, and intersect
 * Joins (Spatial, Table, Summary), Counting Points in Polygons, and Field Calculation
-* Counting points in polygons 
+* Counting points in polygons
 * Distance Matrix and Nearest Neighbor Analysis
 * Depicting routes
 * Creating a time series in QGIS + alternative online tools
@@ -368,7 +374,6 @@ Joanna Drucker "[GIS Analysis and Critical Issues](http://dh101.humanities.ucla.
 Albrecht, Jochen *Key Concepts & Techniques in GIS* Sage, 2007.  
 Lloyd, Christopher *Spatial Data Analysis: An Introduction For GIS Users* Oxford University Press, 2010  
 Smith, Michael J. *Geospatial Analysis: A Comprehensive Guide*. Drumlin Security Ltd, 2018.
-
 
 **Reference Reading and Links**
 
@@ -403,7 +408,7 @@ See the Moodle for YouTube links. Documentation pages almost all relate to QGIS 
 
 ## Week 4 - Thinking With/Against Maps and Spatial Analysis
 
-For several weeks now we have been learning some very basic skills in QGIS and mapping. The promise of using GIS software for mapping, and the more advanced geographical analysis that becomes possible with it should be apparent. This week we will check with all of you on the progress in your work on the map project. We will discuss what constitutes effective use of maps and some of the ways that your map project will be evaluated. We will also have any remaining short presentations on the readings on applications of historical GIS. All of our remaining time, however, will be dedicated to a discussion of the various critical and theoretical readings we have done about GIS as a tool and methodology. 
+For several weeks now we have been learning some very basic skills in QGIS and mapping. The promise of using GIS software for mapping, and the more advanced geographical analysis that becomes possible with it should be apparent. This week we will check with all of you on the progress in your work on the map project. We will discuss what constitutes effective use of maps and some of the ways that your map project will be evaluated. We will also have any remaining short presentations on the readings on applications of historical GIS. All of our remaining time, however, will be dedicated to a discussion of the various critical and theoretical readings we have done about GIS as a tool and methodology.
 
 **Preparation**
 
@@ -461,13 +466,15 @@ Jeffrey E. F. Friedl *Mastering Regular Expressions* 2nd Edition O'Reilly
 Week six of the fall semester is an independent learning week at St Andrews. Independent Learning Week is a learning week, not a holiday; it is integrated into the curriculum. The majority of time this week should be dedicated to the completion of your map project and on catching up on any reading you may have fallen behind on. In addition, please read the following short pieces to prepare for the transition to the second part of the semester:
 
 * [Where to Start with Text Mining](https://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/)
-* [Literature Is not Data: Against Digital Humanities](https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities) 
+* [Literature Is not Data: Against Digital Humanities](https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities)
 * [Using Metadata to find Paul Revere](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
 
 \pagebreak
 
 ## Week 7 - Text Analysis: Introduction to R; Frequencies and Correlation
 
+
+Bunsdon, Chris and Lex Comber *An Introduction to R for Spatial Analysis and Mapping*. Second edition. Thousand Oaks, CA: SAGE Publications Ltd, 2018.
 
 \pagebreak
 
@@ -495,6 +502,27 @@ Please visit and look over the following websites:
 **Reading**
 
 Erickson, Bonnie H. “Social Networks and History: A Review Essay.” *Historical Methods: A Journal of Quantitative and Interdisciplinary History* 30, no. 3 (January 1, 1997): 149–57. doi:10.1080/01615449709601182.
+
+**Further Reading**
+
+Scott, John, and Peter J. Carrington, eds. *The SAGE Handbook of Social Network Analysis*. London ; Thousand Oaks, Calif: SAGE, 2011.  
+Ch 2 Social Network Analysis: An Introduction pp11-25
+Ch 4 Network Theory pp40-54
+Ch 23 A Brief Introduction to Analysing Social Network Data pp331-339
+Ch 24 Concepts and Measures for Basic Network Analysis pp340-369
+Ch 27 Qualitative Approaches pp404-416
+Ch 28 Analyzing Affiliation Networks pp417-433
+Ch 29 Positions and Roles pp434-446
+Ch 8 Personal Communities: The World According to Me pp101-115
+Ch 13 Corporate Elites and Intercorporate Networks pp180-195
+Ch 14 Political Dimensions of Corporate Connections pp196-209
+Ch 15 Policy Networks pp210-222
+Ch 16 Social Movements and Collective Action pp223-235
+Ch 17 Crime and Social Network Analysis 236-255
+Ch 19 Scientific and Scholarly Networks 271-285
+Ch 20 Cultural Networks 286-300
+
+Wasserman, Stanley, and Katherine Faust. *Social Network Analysis: Methods and Applications*. Cambridge University Press, 1994.
 
 **Reference**
 
@@ -623,7 +651,7 @@ videos by Lex Berman
 
 links from the Spatial Community and the Digital Humanities Slack
 
-David Mimno https://mimno.infosci.cornell.edu/info3350/ Text Mining for History & Literature 
+David Mimno https://mimno.infosci.cornell.edu/info3350/ Text Mining for History & Literature
 Bibliography on Topic Modeling: https://mimno.infosci.cornell.edu/topics.html
 
 
