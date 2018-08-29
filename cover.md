@@ -4,7 +4,7 @@
 
 \begin{center}
 
-\makebox[\textwidth]{\includegraphics[width=8cm]{chart.png}}
+\makebox[\textwidth]{\includegraphics[width=8cm]{images/chart.png} }
 
 
 \textbf{Marshallese Navigational Chart}   

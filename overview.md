@@ -3,9 +3,11 @@
 
 ## Overview
 
-Meetings: 10-12:00 Tuesdays Room 1.17, St Katharine’s Lodge  
-Note: No meeting in Week 6, 10, or 11. Second meetings in Week 7 and 9
-Preparation: 12-18 hours per week  
+**Meetings:** 10-12:00 Tuesdays Room 1.17, St Katharine’s Lodge  
+
+**Note:** No meeting in Week 6, 10, or 11. Two meetings in Week 7 and 9
+
+**Preparation:** 12-18 hours per week  
 
 Week 0 - **Orientation: History in Practice - Balancing Skills and Critique in the Digital Humanities**   
 Week 1 - **Introduction to Historical GIS and First Look at QGIS**  
@@ -15,11 +17,11 @@ Week 4 - **Thinking With/Against Maps and Spatial Analysis**
 Week 5 - **Text Analysis: Using the Command Line, Regular Expressions, and Document OCR**  
 Week 6 - *Independent Learning Week*  
 *29.10 QGIS project and essay due*  
-Week 7 - **Text Analysis: Basics of R; Frequencies and Correlation**  
-Week 7 - **Text Analysis: Topic Modelling and Sentiment Analysis; Alternative Tools**  
+Week 7.1 - **Text Analysis: Basics of R; Frequencies and Correlation**  
+Week 7.2 - **Text Analysis: Topic Modelling and Sentiment Analysis; Alternative Tools**  
 Week 8 - **Networks: Introduction to Social Network Analysis**  
-Week 9 - **Networks: Exploring and Visualising Network Data; Alternative Tools**  
-Week 9 - **Mapping Texts and Networks; Mediums for Sharing Your Work**  
+Week 9.1 - **Networks: Exploring and Visualising Network Data; Alternative Tools**  
+Week 9.2 - **Mapping Texts and Networks; Mediums for Sharing Your Work**  
 Week 10 - *Work on Final Project* - Regular office hours   
 Week 11 - *Work on Final Project* - Regular office hours   
 Week 12 - *Work on Final Project*  
@@ -29,7 +31,7 @@ Week 12 - *Work on Final Project*
 
 **Coordinator:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
 **Office:** St. Katharine's Lodge Room B3  
-**Office Hours:** Tue 12:00-13:00 (please [sign up](https://goo.gl/Rh19wj) https://goo.gl/Rh19wj)
+**Office Hours:** Tue 12:00-13:00 (please sign up: [https://goo.gl/Rh19wj](https://goo.gl/Rh19wj) )
 
 ### Description
 
