@@ -609,7 +609,7 @@ This meeting will continue the work we did earlier in the week, then moving on t
 
 *Reading*
 
-[Probalistic Topic Models](https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext) David M. Blei *Communications of the ACM* 2012*  
+[Probalistic Topic Models](https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext) David M. Blei *Communications of the ACM* (2012)
 
 [Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/) Benjamin M. Schmidt
 
@@ -663,9 +663,9 @@ At one level the study of historical networks and relationships between people i
 ["Demystifying Networks"](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/) Scott Weingart  
 
 SCOTT (4th edition)  
-Ch 1 What is Social Network Analysis
-Ch 5 Terminology for Network Analysis
-Ch 6 Popularity, Mediation and Exclusion
+Ch 1 What is Social Network Analysis  
+Ch 5 Terminology for Network Analysis  
+Ch 6 Popularity, Mediation and Exclusion  
 
 (If you have 3rd edition of Scott then read instead: Ch 1 Networks and Relations, 4 Lines, Neighborhoods and Densities, 5 Centrality, Peripherality and Centralization instead)
 
@@ -811,7 +811,9 @@ Hanneman, Robert A., Augustine J. Kposowa, and Mark D. Riddle. *Basic Statistics
 
 ## Week 10 and Week 11
 
-There are no meetings during these two weeks, but office hours will be held as usual. Please take advantage of these, as well as communication over our programme Slack during this time if you have questions. 
+There are no meetings during these two weeks, but office hours will be held as usual. This is to allow you more time to focus in on the approaches from the previous weeks of most interest to you. Make use now of the further reading, examples of scholarship, and "strike out on your own" section to further develop your understanding and proficiency in the direction you want to go. I cannot stress enough, how important experimentation, fruitful failures, and making good use of digital research skills in helping you to deepen your skills.
+
+Please take advantage of the office hours, as well as communication over our programme Slack during this time if you have questions. 
 
 ## Attributions
 
