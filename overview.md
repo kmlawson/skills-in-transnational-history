@@ -31,7 +31,7 @@ Week 12 - *Work on Final Project*
 
 **Coordinator:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
 **Office:** St. Katharine's Lodge Room B3  
-**Office Hours:** Tue 12:00-13:00 (please sign up: [https://goo.gl/Rh19wj](https://goo.gl/Rh19wj) )
+**Office Hours:** Tue 12:00-13:00 (please sign up for a [time](https://goo.gl/Rh19wj) )
 
 ### Description
 
