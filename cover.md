@@ -1,6 +1,6 @@
 % MO5161 Skills in Transnational History
 % Module Coordinator: Konrad M. Lawson
-% Fall, 2018
+% Fall, 2019
 
 \begin{center}
 
@@ -15,7 +15,7 @@
 \textbf{Repository for this handbook available at:}
 \\*https://github.com/kmlawson/skills-in-transnational-history
 \vspace{10mm}
-\\*\textit{© Konrad M. Lawson, 2018 
+\\*\textit{© Konrad M. Lawson, 2019 
 \\This work is licensed under the Creative Commons Attribution 3.0 Unported License.}
 \end{center}
 

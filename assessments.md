@@ -2,7 +2,9 @@
 
 # Assessments 
 
-**Map Project** (50%)
+You have two equally weighted assessments. For each of these two you may choose to submit one of the three following possibilities. You are very welcome to do more than one of the same type of essay or project. You may use a similar body of sources in more than one project only if they are of a different type. If you do a map project and choose to do another map project, then the second map project should use another body of sources.
+
+**Option One: Map Project** 
 
 This assessment is designed to give you a chance to demonstrate your ability to effectively use QGIS to prepare map layers, produce exported maps for incorporation into a historical project; be able to articulate what the maps can be useful for; and be able to describe the limitations and problems associated with your map and the data on which it depends. For Submission you must upload, as a zipped collection of files, to the MMS:
 
@@ -21,17 +23,13 @@ This assessment is designed to give you a chance to demonstrate your ability to 
 * Design: Did any visualisations or maps produced clearly communicate their contents and demonstrate a good sense of design, well-chosen scales, and appropriate density of visual information? 
 * Restraint: Did the project avoid superfluous visualisations that contribute little to the overall project and show good judgement in what to include and exclude?
 
-\pagebreak
+**Option Two: Text Analysis or Social Network Project** (50%)
 
-**Final Project** (50%)
+You may do a project which makes use of one or more of the new computational techniques learned in the second half of the course: text analysis and/or social network visualisation and analysis. You are free to use the combination of tools and techniques that you feel most appropriate and comfortable in using (R, Python, Cytoscape, Gephi, Orange, Voyant Tools, Palladio, Shiny, regular expressions and command line utilities etc.). You are also welcome to teach yourself and make use of other techniques and tools that you have come across if these are well documented and described in your project.
 
-The final project is not, as in the map project, limited to a single digital methodology, medium, or approach. In general, it make take the form of one of the three following kinds of project:
+Your project should include from one to a dozen visualisations depending on the difficulty and complexity of the visualisations produced and what they can potentially be used for. 
 
-1. You may do a project which makes use of one or more of the new computational techniques learned in the second half of the course: text analysis and/or social network visualisation and analysis. You are free to use the combination of tools and techniques that you feel most appropriate and comfortable in using (R, Python, Cytoscape, Gephi, Orange, Voyant Tools, Palladio, Shiny, regular expressions and command line utilities etc.). You are also welcome to teach yourself and make use of other techniques and tools that you have come across if these are well documented and described in your project.
-2. You may do another historical GIS project that shows significant progress in the depth of your skills or which combines historical GIS with other techniques learned in the module. I recommend that you use a different source base. If it uses the same source or sources, it must make the clear argument for how this data was used to substantively and considerably develop the project further, showing evolution in terms of its analysis, techniques, and outputs. This may include using the same or similar sources and making use of other techniques of text or network analysis with the sources. Please consult the tutor if you are concerned about overlap.
-3. You may, alternatively, write a 4,000 word essay in the genre of the critical humanities. For this alternative, you should engage effectively with the theoretical scholarship on critical digital humanities both generally and specifically for the area of focus for your essay and it must engage critically and effectively with several several pieces of scholarship that may be described as applications of the technologies studied in this module.
-
-Unless you have chosen to do the critical essay, your project should include from one to a dozen visualisations depending on the difficulty and complexity of the visualisations produced and what they can potentially be used for. These may include any of the following: 1) a collection of graphs and tables identifying patterns in the data or the product of computational analysis of text or networks. 2) Visualisation of the data through GIS output in the form of a choropleth or other thematic map, visualisations of networks using Cytoscape, Gephie, Palladio, or other visualisation tool, maps which visualise networks or material extracted from a text or corpus of texts. 3) a list of regular expressions, including description of what they do, that were used to clean data or extract useful material from texts. 
+These may include any of the following: 1) a collection of graphs and tables identifying patterns in the data or the product of computational analysis of text or networks. 2) Visualisation of the text or social network data in combination with GIS in the form of a choropleth or other thematic map, visualisations of networks using Cytoscape, Gephie, Palladio, or other visualisation tool, maps which visualise networks or material extracted from a text or corpus of texts. 3) a list of regular expressions, including description of what they do, that were used to clean data or extract useful material from texts. 
 
 For Submission you must upload to the MMS:
 
@@ -48,5 +46,17 @@ For Submission you must upload to the MMS:
 * Design: Did any visualisations or maps produced clearly communicate their contents and demonstrate a good sense of design, well-chosen scales, and appropriate density of visual information? 
 * Restraint: Did the project avoid superfluous visualisations that contribute little to the overall project and show good judgement in what to include and exclude?
 * Development: If the project used historical GIS and use the same or similar source base, then did the project show a substantive development beyond the first assessment, and make clear in the explanatory essay what that development consisted of.
-* Critical Essay: If a critical essay was chosen instead, did the essay engage effectively with an appropriate amount of theoretical literature for its topic? Did it have a clear argument which was well supported throughout the essay? Did it include evaluation of multiple concrete essays making use of computational approaches or quantitative analysis?
+
+
+**Option Three: Critical Essay** (50%)
+
+You may, alternatively, for one or both of the assignments, write a 4,000 word essay in the genre of the critical humanities. For this alternative, you should engage effectively with the theoretical scholarship on critical digital humanities both generally and specifically for the area of focus for your essay and it must engage critically and effectively with several several pieces of scholarship that may be described as applications of the technologies studied in this module.
+
+Alternatively you may target a particular project in the digital humanities or a published work which uses digital approaches and write a critique or evaluation of this work. Again, however, this should employ some of the critical scholarship that is relevant in your analysis.
+
+*Considerations for Assessment:*
+
+* If the essay evaluated a digital project or publication which made use of skills in the digital humanities such as computational methods etc., and was the evaluation fair, constructive, and show a good understanding of the project being critiqued. 
+* Did the essay engage effectively with an appropriate amount of theoretical literature for its topic?
+*  Did it have a clear argument which was well supported throughout the essay?
 

@@ -46,6 +46,20 @@ If you would like to get a head start on the module and get a flavor for the mod
 4. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/). If you would like to get started with the world of R, consider a book such as *Learning R* by Richard Cotton, or any of the many online tutorials. *Note:* All the skills using R we will encounter in this module can also be done in the even more popular programming language of Python. If you think you might someday want to learn more programming, I'm happy to guide students towards resources that will allow them to do any of the module tasks in Python instead of R.
 5. Browse and experiment with instructional materials at [A Gentle Introduction to QGIS](http://docs.qgis.org/testing/en/docs/gentle_gis_introduction/), [Cytoscape Tutorials Wiki](https://github.com/cytoscape/cytoscape-tutorials/wiki), and if you have your access to St Andrews e-resources, try Chapter 1 of *Text Analysis with R for Students of Literature* ([library ebook](http://dx.doi.org/10.1007/978-3-319-03164-4))
 
+## DataCamp for Education
+
+Before the module begins, you will be given an invitation email for free access to the courses available at datacamp.com. Your free access will be active from August until December and you may take the courses that are assigned through the online representation of this module on the platform. 
+
+DataCamp offers short interactive online courses (each of which can be completed in 3-5 hours of work), mostly showing you ways to employ the programming languages of R and Python for data science. It alternates between short film clips and interactive exercises. During the semester, you will be required to either complete 4-6 short courses on DataCamp from a selection possible courses, or you may request an alternative research and writing task if you wish to avoid DataCamp altogether. While completion is required, your performance on these courses is not assessed.
+
+All students are asked to complete: Introduction to R and Introduction to the Tidyverse. In addition, complete at least three additional mini-courses (* = suggested). There are a number of courses you will find in the "tracks" offered on DataCamp through our online class there. These include:
+
+-	Text Analysis: Intermediate R*, Introduction to Text Analysis in R, Sentiment Analysis in R: The Tidy Way*
+-	Strengthening R Foundations: String Manipulation in R with stringr*, Joining Data in R with dplyr*, Working with Data in the Tidyverse, Cleaning Data in R*, Communicating with Data in the Tidyverse, Working with Dates and Times in R, Importing Data in R (I, II), Data Visualization with ggplot2 (I, II)
+-	Data Science: Introduction to Data, Modeling with Data in the Tidyverse, Correlation and Regression, Fundamentals of Bayesian Data Analysis in R, Exploratory Multiple and Logistic Regression, Foundations of Inference, Experimental Design in R, Survival Analysis in R
+-	Spatial Analysis in R: Working with Geospatial Data in R, Spatial Analysis in R with sf and raster, Spatial Statistics in R
+-	Network Analysis: Network Science in R: A Tidy Approach, Network Analysis in R
+
 ## Resources to Explore
 
 As you do work on your projects you will find plenty of inspiration surveying the explosion of scholarship over the last decade or two. The following are some journals, hosts of projects, link hubs, and aggregators:
@@ -75,8 +89,6 @@ Other journals that also have some relevant publications:
 *Environmental History*   
 *Annals of GIS*  
 
-\pagebreak
-
 ## Striking Out on Your Own
 
 During the semester, you may decide that you want to deepen your knowledge and skill set in one or more of the technologies that are introduced in the module. A great many of the humanities scholars who have adopted some of the digital methodologies, tools, and techniques that we will encounter in this module do not have much in the way of formal training in computer science or related fields. With the exception of some short training courses in GIS and one-off sessions at digital humanities workshops and [unconferences](https://en.wikipedia.org/wiki/Unconference), I have no formal training in any of the skills in this module. Self-learning with online resources, videos, and books are a common way to expand your abilities in these fields.
@@ -97,9 +109,9 @@ During the semester, you may decide that you want to deepen your knowledge and s
 **Learning GIS**
 
 *Learning QGIS* Anita Graser  
-*Mastering QGIS* Kurt Menke et al.
-*QGIS Map Design* Anita Graser & Gretchen N. Peterson  
-*QGIS 2 Cookbook* Alex Mandel  
+*Mastering QGIS* Kurt Menke et al.  
+*QGIS Map Design* 2nd Edition Anita Graser & Gretchen N. Peterson  
+*Discovery QGIS 3.x* Kurt Menke  
 *Historical GIS: Technologies, Methodologies, and Scholarship* Gregory, Ian N., and Paul S. Ell, eds.  
 *Introduction to GIS* Victor Olaya  
 *Geospatial Analysis: A Comprehensive Guide* Michael J de Smith  
@@ -112,11 +124,13 @@ During the semester, you may decide that you want to deepen your knowledge and s
 **Text Analysis**
 
 *Text Mining with R* Julie Silge, David Robinson  
+*Text Mining in Practice with R* Ted Kwartler  
 *Text Analysis with R for Students of Literature* Matthew L. Jockers  
 *Applied Text Analysis with Python* Benjamin Bengfort  
 *Natural Language Processing with Python* Steven Bird  
 *Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text* Taylor Arnold, Lauren Tilton  
-*Mastering Regular Expressions* Jeffrey E. F. Friedl
+*Mastering Regular Expressions* Jeffrey E. F. Friedl  
+*An Introduction to Statistical Learning with Applications in R* Gareth James et al
 
 **Social Networks**
 
@@ -127,10 +141,13 @@ During the semester, you may decide that you want to deepen your knowledge and s
 
 **General Texts**
 
+*Data Visualization: A Practical Introduction* Kieran Healy
 *Basic Statistics for Social Research* Augustine Kposowa, Mark D. Riddle, and Robert Hanneman  
+*R for Data Science* Hadley Wickham, Garret Grolemund   
+*ggplot2: Elegant Graphics for Data Analysis* Hadley Wickham   
 *Learning R* Richard Cotton  
+*The Book of R* Tilman M. Davies
 *Learning Base R* Lawrence Mark Leemis  
-*R for Data Science* Hadley Wickham, Garret Grolemund  
 *Learning Python* Mark Lutz  
 *The Linux Command Line* William E. Shotts
 
@@ -149,8 +166,6 @@ We will have three primary goals in this semester:
 3. Finally, this module will, throughout, introduce you to some of the work of what has been called the *critical digital humanities*. We will examine some of the powerful critiques that have been made of GIS both among historians and within the world of geography, where it had its biggest impact on scholarship. We will similarly examine critical discourses on other digital methodologies and in our discussions of the essays applying them that we read. Ask yourself, how much does the argument depend on the technological approach? What assumptions are made in setting the stage for the scholarship, in preparing the date, and in using the technologies? What are the costs implied, and the benefits gained? To what degree does the choice of methodology influence the kinds of questions asked and outcomes obtained?
 
 **Preparation**
-
-1. Examine two of the most famous maps cited in scholarship on mapping and GIS: Charles Joseph Minard's [map of Napoleon's Russian Campaign](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png), and the famous [cholera map](http://www.ph.ucla.edu/epi/snow/snowmap1.pdf) of John Snow (you can read more about this here: [Map-making and Myth-making in Broad Street](http://www.ph.ucla.edu/epi/snow/mapmyth/mapmyth.html). Then take a look at Joseph Priestley's [*A New Chart of History*](https://upload.wikimedia.org/wikipedia/commons/1/1e/A_New_Chart_of_History_color.jpg). Why have the come to be regarded as excellent historical examples of visualisations that communicate an idea very clearly? Where might a critique of them begin?
 
 **Introductory Reading**
 
@@ -171,22 +186,22 @@ This week will explore the field that has become known as Historical GIS, but mo
 
 **Preparation**
 
-1. If you haven't already done so, please try to **download and attempt to install [QGIS](http://www.qgis.org/en/site/forusers/download.html)**. If you have problems, please make note of what issues appear and bring them in.
+1. Examine two of the most famous maps cited in scholarship on mapping and GIS: Charles Joseph Minard's [map of Napoleon's Russian Campaign](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png), and the famous [cholera map](http://www.ph.ucla.edu/epi/snow/snowmap1.pdf) of John Snow (you can read more about this here: [Map-making and Myth-making in Broad Street](http://www.ph.ucla.edu/epi/snow/mapmyth/mapmyth.html). Then take a look at Joseph Priestley's [*A New Chart of History*](https://upload.wikimedia.org/wikipedia/commons/1/1e/A_New_Chart_of_History_color.jpg). Why have the come to be regarded as excellent historical examples of visualisations that communicate an idea very clearly? Where might a critique of them begin?
+
+2. If you haven't already done so, please try to **download and attempt to install [QGIS](http://www.qgis.org/en/site/forusers/download.html)**. If you have problems, please make note of what issues appear and bring them in.
 
 *General Tips Regarding Installation Problems:* Many of the multi platform open source applications out there these days make use of Java. Sometimes the version of Java pre-installed on your laptop (or, indeed, not installed or active) will be the key problem for getting the application to function smoothly. Installing or updating the appropriate Java version can often fix these issues. Also, if you find yourself presented with unusual error messages, searching google with a large part or all of the error message in quotation marks will often lead you to bulletin boards where people have faced similar issues and tried different steps to resolve the issue (though *please* evaluate recommended instructions on random bulletin boards with great care and ensure your machine is backed up before trying anything too elaborate!). The website [Stack Exchange](https://stackexchange.com/) often has useful discussions that address software issue. The [PC Classrooms](https://www.st-andrews.ac.uk/classrooms/) on campus should have QGIS 3.x installed and you may use them for your project work.
 
-2. Using the Moodle, accessible via the module [MMS](http://mms.st-andrews.ac.uk/), **sign up to do two 3-5 minute non-assessed presentations** (not a minute more!) each on the "application" texts (one student per text) in the *Reading Selection* list below. These presentations will be given Week 1, Week 2, Week 3, or Week 4 (3 out of these 4 weeks). In addition, sign up for a third text which you will prepare a handout for, but not actually present on.
+3. Using the Moodle, accessible via the module [MMS](http://mms.st-andrews.ac.uk/), **sign up to do two 3-5 minute non-assessed presentations** (not a minute more!) each on the "application" texts (one student per text) in the *Reading Selection* list below. These presentations will be given Week 1, Week 2, Week 3, or Week 4 (3 out of these 4 weeks). In addition, sign up for a third text which you will prepare a handout for, but not actually present on.
 
-    * **Make a handout about each of the three texts** (two of which you will also present on) which is on a single or double-sided page. Submit the digital file for the handout as a PDF to the module Moodle for everyone's access before the class day that you will present on (the third text can be submitted anytime before week 4), and bring a printed copy for each student and tutor. On the handout: At the top of the handout put a full citation of the text followed by a short paragraph summarizing the argument and main features of the text. In a series of bullet points provide a brief outline or elaboration of points you will raise in your short spoken presentation, but not a verbatim text of the presentation - use this opportunity to practice the art of using a handout to complement your presentation, rather than stealing your listeners' attention by replacing it completely.
-    * In the presentation **comment on the way that GIS or mapping was used** in the text. **Comment on what data was used for the project and what kind of effort might have been involved in preparing it** for GIS. **Were there any innovative or useful ideas to draw from the text as potential inspiration** for our projects? Was GIS used primarily for *heuristic* or *explorative* purposes, visualising sources or data in order to discover new questions and spot patterns to press the historical research forward? Was GIS employed using formal *analysis*, making use of quantitative methodologies, spatial statistics, or other algorithmic techniques (if so, list what specific ones were used in the handout) towards the end of making concrete spatial claims? Was GIS used primarily used for *illustrative* purposes, showing things referred to in the text, or showing in visual terms that which has been demonstrated by other means in the body of the text's argument? Note: many works do not fit well into any single category, but least make note whether there are any formal analytical GIS techniques at all used and what the added value of mapping or GIS is in the work.
+    * **Make a handout about each of the three texts** (two of which you will also present on) which is on a single or double-sided page. Submit the digital file for the handout as a PDF to the module Moodle for everyone's access before the class day that you will present on (the third text can be submitted anytime before week 4), and bring a printed copy for each student and tutor. 
+    * In the presentation comment on the way that GIS or mapping was used in the text. Comment on what data was used for the project and what kind of effort might have been involved in preparing it for GIS. Were there any innovative or useful ideas to draw from the text as potential inspiration for our projects? Was GIS used primarily for *heuristic*, *illustrative*, or *explorative* purposes, visualising sources or data in order to discover new questions and spot patterns to press the historical research forward? Was GIS employed using formal *analysis*, making use of quantitative methodologies, spatial statistics, or other algorithmic techniques (if so, list what specific ones were used in the handout) towards the end of making concrete spatial claims? 
 
 **Required Readings**
 
-KNOWLES  Ch 1 "GIS and History" 1-27
-
-GREGORY  Ch 1 "GIS and its role in historical research: an introduction" 1-19
-
-GEDDES  Fragment of Ch 4, only section "Environmental Management" 104-111  
+* KNOWLES  Ch 1 "GIS and History" 1-27
+* GREGORY  Ch 1 "GIS and its role in historical research: an introduction" 1-19
+* GEDDES  Fragment of Ch 4, only section "Environmental Management" 104-111  
 
 \pagebreak
 
@@ -280,7 +295,7 @@ Some of the QGIS basics we will work on, time permitting include:
 **Preparation**
 
 1. Please come to class with your laptop, having installed QGIS: [QGIS Download and Installation](https://www.qgis.org/en/site/forusers/download.html). In class we will together work through a few of the tutorials at [Mapping and GIS for Historians](http://transnationalhistory.net/mapping/tutorials/)
-2. See the module Moodle for an updated list of YouTube videos to watch, along with some reference websites related to the QGIS techniques we will discuss. Please watch as many of the videos as you can, but you may skip those for techniques you are don't think you will ever need.
+2. Watch some of these videos and try some of this yourself, some of it will be review material from last week: [QGIS 3 Tutorials for MO5161](https://www.youtube.com/playlist?list=PLIJOEWFlTTsFJUjPbn6W65-XwkArra3mR) 
 3. We will have some presentations today, see last week for more on how to prepare.
 4. Some of the readings today point to the controversies over the use of GIS that created considerable tension within the field of Geography and has similarly sparked debates among historians. As these will emerge multiple times, consider noting down some of the main issues and different perspectives along with some of the major participants in these debates mentioned.
 5. There are a number of technical concepts that arise this week. In fact, some of them show up in two or three of the readings so if you understood it clearly the first time, you can skim or merely review the understanding of the concept in the other readings. If they are not clear from the readings, consider looking into them a bit more: Data models, Vector and raster data, MAUP modifiable areal unit problem, Ecological Fallacy, Spatial autocorrelation, Generalization (in the context of GIS), Least cost path analysis, Epistemology and Ontology (in the context of GIS)
@@ -318,15 +333,16 @@ Ch 23 Spatial Analaysis on a Network
 
 Note: QGIS is now at 3.x so some instructions may be slightly off when it comes to some features in various links below
 
-[Mapping and GIS for Historians](http://transnationalhistory.net/mapping/tutorials/)
-[A Gentle Introduction to QGIS](https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/index.html)
+[QGIS 3 Tutorials for MO5161](https://www.youtube.com/playlist?list=PLIJOEWFlTTsFJUjPbn6W65-XwkArra3mR) - This is a collection of YouTube tutorials I created for this module. Over the next few weeks, please watch as many of these as you can, and try the exercises yourself in QGIS.
+[Mapping and GIS for Historians](http://transnationalhistory.net/mapping/tutorials/) - This was designed for QGIS 2 but most tutorials should still work with little change.
+[A Gentle Introduction to QGIS](https://docs.qgis.org/3.4/en/docs/gentle_gis_introduction/) - Documentation for QGIS 3.4
 
 The following may be useful to you in getting acquainted with QGIS. See also the *Striking Out on Your Own* section above in this handbook:
 
-Graser, Anita. *Learning QGIS 2.0*  (Not in library)
-Graser, Anita. *QGIS Map Design* 2016 (Not in Library) - Really great collection of task oriented tutorials.
+Graser, Anita. *QGIS Map Design* 2nd Edition (Not in Library) - Really great collection of task oriented tutorials.
+Menke, Kurt *Discovery QGIS 3.x* (Not in Library) - Lots of interactive tutorials in this work.
 
-[QGIS Training Manual](http://docs.qgis.org/2.8/en/docs/training_manual/)  
+[QGIS Training Manual](https://docs.qgis.org/3.4/en/docs/training_manual/index.html)  
 [GQIS Tutorials and Tips](http://www.qgistutorials.com/en/index.html)  
 
 **Suggestions for Play and Exploration**
@@ -363,7 +379,7 @@ Some QGIS techniques for today, as time permits:
 
 **Preparation**
 
-1. [Mapping and GIS for Historians](http://transnationalhistory.net/mapping/tutorials/) - Please continue doing tutorials on our website
+1. [QGIS 3 Tutorials for MO5161](https://www.youtube.com/playlist?list=PLIJOEWFlTTsFJUjPbn6W65-XwkArra3mR) - Please continue doing tutorials on our website
 2. See the module Moodle for an updated list of YouTube videos to watch on the some of the above techniques, along with some reference websites related to the QGIS techniques we will discuss. Please watch as many of the videos as you can, but you may skip those for techniques you are don't think you will ever need. There are some exercises there for you to try in preparation for our meeting.
 3. If you are giving a 3-5 minute presentation, please prepare it and if you haven't distributed it yet, submit and bring copies of a third chapter as instructed above.
 4. This week you should should use almost all of your time practising QGIS, in play and experimentation and directly working on your project. Make progress this week to allow for changed directions, frustrations, or distractions to come.
@@ -390,15 +406,12 @@ Smith, Michael J. *Geospatial Analysis: A Comprehensive Guide*. Drumlin Security
 
 **Reference Reading and Links**
 
-See the Moodle for YouTube links. Documentation pages almost all relate to QGIS 2.x. There may be some outdated instructions:
-
 [QGIS Documentation: Vector Overlay](https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/vectoroverlay.html) - Clip, Difference, Intersection, Union, etc.  
-[QGIS Documentation: Print Composer](https://docs.qgis.org/2.8/en/docs/user_manual/print_composer/print_composer.html)
-[QGIS Documentation: Buffers](https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/vector_spatial_analysis_buffers.html)  
-[QGIS Training Manual: Vector Analysis](https://docs.qgis.org/2.8/en/docs/training_manual/vector_analysis/basic_analysis.html)  
-[QGIS Training Manual: Network Analysis](https://docs.qgis.org/2.8/en/docs/training_manual/vector_analysis/network_analysis.html)  
-[QGIS Training Manual: Spatial Statistics](https://docs.qgis.org/2.8/en/docs/training_manual/vector_analysis/spatial_statistics.html)  
-[QGIS Documentation: Interpolation](https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/spatial_analysis_interpolation.html)  
+[QGIS Documentation: Buffers](https://docs.qgis.org/3.4/en/docs/gentle_gis_introduction/vector_spatial_analysis_buffers.html)  
+[QGIS Training Manual: Vector Analysis](https://docs.qgis.org/3.4/en/docs/training_manual/vector_analysis/index.html)  
+[QGIS Training Manual: Network Analysis](https://docs.qgis.org/3.4/en/docs/training_manual/vector_analysis/network_analysis.html)  
+[QGIS Training Manual: Spatial Statistics](https://docs.qgis.org/3.4/en/docs/training_manual/vector_analysis/spatial_statistics.html)  
+[QGIS Documentation: Interpolation](https://docs.qgis.org/3.4/en/docs/training_manual/processing/interpolation.html)  
 [QGIS Tutorial: Spatial Joins](https://www.qgistutorials.com/en/docs/performing_spatial_joins.html)  
 [QGIS Tutorial: Table Joins](https://www.qgistutorials.com/en/docs/performing_table_joins.html)  
 [QGIS Tutorial: Points in Polygon](https://www.qgistutorials.com/en/docs/points_in_polygon.html)  
@@ -426,8 +439,9 @@ For several weeks now we have been learning some very basic skills in QGIS and m
 **Preparation**
 
 1. Any remaining presentations should be prepared for and your additional handout should be submitted and distributed.
-2. Be prepared to share your work on your map project so far, including the kinds of sources you are using or evaluating, what challenges you have had so far, and questions you might have.
-3. Make substantive progress on your project.
+2. Be prepared to share your work on your map project so far, if you are working on one, including the kinds of sources you are using or evaluating, what challenges you have had so far, and questions you might have. If you are working on a critical essay, be ready to share what direction you will be taking it.
+3. Make substantive progress on your first project or essay.
+4. Optional: Sometimes GIS is just overkill and creating a good map for illustration just needs some time spent tracing existing maps and adding your own features. For this, learning how to use Bezier curves is a great plus but requires that you have Vector drawing software. Commercial packages like Adobe Illustrator and Affinity Design among many other options work great but cost money. If you think you might want to trace maps, try learning how to use Bezier curves with the [Bezier game](https://bezier.method.ac/). Install [Inkscape](https://inkscape.org/) or download free version of [Gravit Designer](https://designer.gravit.io/) (or use the online version) and try tracing a simple map. A few more videos on how to use Bezier curves: [1](https://youtu.be/sagrkdmC_BI), [2](https://youtu.be/AAgWhnf_p3k), [3](https://youtu.be/uymedeE3mJE),[4](https://youtu.be/0rSDWJ_kncE)
 
 **Required Reading**
 
@@ -480,13 +494,13 @@ The main task of today is to work with regular expressions (regex). The art of r
 
 **Preparation**
 
-1. Come to our Monday packed lunch meeting with your laptop and power cable for a wee "install party" where we do some of the tasks below together:
+1. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/).  
 2. Please install a good text editor that can support regular expressions. Some straightforward text editors that include support for regular expressions include [Atom](https://atom.io/), [Sublime Text](https://www.sublimetext.com/), and [Brackets](http://brackets.io/). All of them support regular expressions. There is a significant learning curve, but I am personally a big fan of the powerful tool [VIM](https://www.vim.org/) (Mac OS X users see also [MacVim](https://github.com/macvim-dev) and [VimR](http://vimr.org/)). Its popular rival (the two of them have been battling it out among geeks since the 1970s) is [Emacs](https://www.gnu.org/software/emacs/). 
-3. Optional: Try to install [VirtualBox](https://www.virtualbox.org/) on your laptop. This will allow you to run a virtual installation of another operating system, such as Linux, inside your existing installation if you use Windows or OS X. This will be helpful when we try various tools via the command line. If you run Linux already, or if you have OS X and make use of the "Terminal" application in your Applications->Utilities folder, you already have easy access to the command line. If you are using OS X, you may want to open the Terminal and install [HomeBrew](https://brew.sh/) which makes it very easy to install other tools on the command line. If you will be installing Linux on your VirtualBox, download a copy of (most likely) the AMD64 version of Debian Linux here: [Installing Debian via the Internet](https://www.debian.org/distrib/netinst). Install Linux on your Virtualbox. You can use this occasionally outdated [tutorial here](https://williamjturkel.net/2013/05/31/installing-debian-linux-in-a-vm/) for guidance or see the video linked from the module Moodle.
 4. Optional: Install [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki). This can be done easily via [HomeBrew](https://brew.sh/) on OS X, or the package manager if you will be using your VirtualBox as per instructions on the Tesseract github page. There is also a windows installation but I'm not familiar with its use.
 5. In class we will work though the [Interactive Tutorial](https://regexone.com/) for regular expressions, but give it a try before coming to class. Read two somewhat silly examples of using regular expressions here: [Reformatting Confucius with Regular Expressions](https://www.chronicle.com/blogs/profhacker/reformatting-confucius-with-regular-expressions/38596) and [Finding the Women of Heimskringla with Regular Expressions](https://www.chronicle.com/blogs/profhacker/finding-the-women-of-heimskringla-with-regular-expressions/38631)
-6. If you get the hang of regular expressions before class, try [Regex Golf](https://alf.nu/RegexGolf)
+6. If you get the hang of regular expressions before class, try [Regex Crossword](https://regexcrossword.com/) (This only works in Safari and Chrome for me, try a different browser if it doesn't work for you).
 7. There is very little required reading today. Take advantage of this time to work on your mapping project, due after independent learning week.
+8. By this week, please have completed at least the Introduction to R course on DataCamp.
 
 **Reading**
 
@@ -531,25 +545,24 @@ Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources an
 
 \pagebreak
 
-## Week 7.1 - Text Analysis: Introduction to R; Frequencies and Correlation
+## Week 7.1 - Text Analysis: Frequencies and Correlations
 
 This week will introduce you to a the language of R, a programming language once favoured primarily by statisticians and scientists for analysing data, but now finding broad use in the digital humanities as well. This week we will focus on some of the basic tasks carried out in text analysis: breaking texts down into tokens, getting frequencies for these in a text, and exploring correlations. You will not be required to use R in your final project, but take this opportunity to acquaint yourself with some of the basics of R and some of the ways it can be used. While here we use it for text analysis, it can also be used for regular expression search, GIS, network analysis and visualization, and many other useful tasks. 
 
 **Preparation:**
 
-1. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/). If you would like to get started with the world of R, consider a book such as *Learning R* by Richard Cotton, or any of the many online tutorials. 
-
-*Note:* All the skills using R we will encounter in this module can also be done in the even more popular programming language of Python. If you think you might someday want to learn more programming, I'm happy to guide students towards resources that will allow them to explore this alternative language instead. Read, for example, [about a text adventure I wrote](http://www.froginawell.net/frog/2018/01/encountering-classical-chinese-philosophy-through-translation-and-a-text-adventure/) while teaching myself Python that I used for my nephew's annual Christmas puzzle. You may try the [game yourself here](http://huginn.net/projects/hall-of-sages/).
-
-2. The technical readings this week will reproduce some of what we try in class so don't worry if you can't make it through everything. We'll step through some of this within class. To take a break from R, download a raw text file from one of the books at [Project Gutenberg](https://www.gutenberg.org/) and input it, or a piece of it, into [Voyant Tools](https://voyant-tools.org/), which does some of the basic tasks that we are learning to do by other means.
+1. The technical readings this week will reproduce some of what we try in class so don't worry if you can't make it through everything. We'll step through some of this within class. To take a break from R, download a raw text file from one of the books at [Project Gutenberg](https://www.gutenberg.org/) and input it, or a piece of it, into [Voyant Tools](https://voyant-tools.org/), which does some of the basic tasks that we are learning to do by other means.
+2. If you haven't done anything except the Introduction to R on DataCamp, proceed with at least the Introduction to the Tidyverse course.
 
 **Required Reading**
 
 Note: See below for the 7.2 meeting readings as well
 
-Ramsay, Stephen *Reading Machines: Toward an Algorithmic Criticism* University of Illinois Press (2011)  
-Ch 1 An Algorithmic Criticism pp1-17  
-Ch 5 Patacomputing pp69-81
+Read One of the Following:
+
+A) Ramsay, Stephen *Reading Machines: Toward an Algorithmic Criticism* University of Illinois Press (2011)  Ch 1 An Algorithmic Criticism pp1-17  Ch 5 Patacomputing pp69-81
+
+B) Underwood, Ted *Distant Horizons : Digital Evidence and Literary Change* Preface, Ch 1-2.
 
 [Do Digital Humanists Need to Understand Algorithms?](http://dhdebates.gc.cuny.edu/debates/text/99) Ben Schmidt in *Debates in Digital Humanities*  
 
@@ -563,9 +576,7 @@ Ch 1 The Tidy Text Format
 Ch 3 Analyzing Word and Document Frequency: tf-idf  
 Ch 4 Relationships Between Words: N-grams and Correlations   (up to p54 where network visualization begins)
 
-If you struggle with SILGE, which uses a new convenient package and tidytext appraoch, but offers less in the way of explanation in the book, you can, alternatively, try:
-
-JOCKERS  Ch 2-5 
+If you struggle with SILGE, which uses a new convenient package and tidytext appraoch, but offers less in the way of explanation in the book, you can, alternatively, try: JOCKERS  Ch 2-5 
 
 **Further Reading**
 
@@ -586,7 +597,6 @@ Daniel Rosenberg, “Data before the Fact” from *“Raw Data” is an Oxymoron
 
 Rockwell, Geoffrey. “What Is Text Analysis, Really?” Literary and Linguistic Computing 18, no. 2 (June 1, 2003): 209–19. https://doi.org/10.1093/llc/18.2.209.
 
-
 [Text Data Preparation: a Practice in R using the Sheng Xuanhuai Collection](http://researchblog-cuhk-lib.blogspot.com/2017/12/text-data-preparation-practice-in-r.html) - example of tackling the problem of segmenting Chinese text using [jiebaR](https://qinwenfeng.com/jiebaR/) package and then [quanteda](http://docs.quanteda.io/index.html) for analysing the text.
 
 **Reference Reading**
@@ -605,9 +615,14 @@ This meeting will continue the work we did earlier in the week, then moving on t
 
 1. You will not have had much time to prepare given this is our second meeting this week. Do you best to look through the online resources below and at least skim some of the technical reading. We'll try to do some of the technical tasks in class together.
 2. Come to class with some ideas for your final project. As you think about what to work on, browse the work in the sessions to come. Especially start thinking about interesting primary sources that would be useful to approach with some of the methods we have been looking at unless you are going to be writing a critical essay.
-3. Optional: Install [Orange](https://orange.biolab.si/) which is a data analysis software package. If you are interested in the tool or looking for ways of analysing text without using R, take a look at some of its documentation or their [Youtube tutorials](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g)
 
-*Reading*
+**Suggestions for Play and Exploration**
+
+If you are interested in using Sentiment Analysis in your final project, then go through Julia Silge's course on DataCamp: Sentiment Analysis in R: The Tidy Way. If you are interested in exploring Topic Modeling more, consider the DataCamp course Topic Modeling in R with Pavel Oleinikov.
+
+If you are interested in alternatives to R (or Python) for text analysis, take a look at [Orange](https://orange.biolab.si/) which is a data analysis software package. If you are interested in the tool or looking for ways of analysing text without using R, take a look at some of its documentation or their [Youtube tutorials](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g)
+
+**Required Reading**
 
 [Probalistic Topic Models](https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext) David M. Blei *Communications of the ACM* (2012)
 
@@ -643,7 +658,7 @@ Either SILGE Ch 2 Sentiment Analysis with Tidy Data and Ch 6 Topic Modelling OR 
 
 \pagebreak
 
-## Week 8 - Networks: Introduction to Social Network Analysis and Cytoscape
+## Week 8.1 - Networks: Introduction to Social Network Analysis and Cytoscape
 
 At one level the study of historical networks and relationships between people is at the heart of the sub-field of "prosopography" which we will examine more closely today. The heart of prosopography work has often been the work of developing a good database, which unfortunately is not something we will have time for here. We'll examine some examples, however, of prosopography projects and think about how social network analysis can be put to good use in historical work.  
 
@@ -657,6 +672,10 @@ At one level the study of historical networks and relationships between people i
 [China Biographical Database Project](http://isites.harvard.edu/icb/icb.do?keyword=k16229)  
 
 2. Please attempt to install [Cytoscape](http://www.cytoscape.org/) on your laptop if you can and look over some of these [Cytoscape Tutorials](https://github.com/miriamposner/cytoscape_tutorials)
+
+**Suggestions for Play and Exploration**
+
+If you are interested in exploring more quantitative approaches to Network Analysis, using R, then you can explore the DataCamp courses for this in R (Network Analysis in R, Network Science in R: A Tidy Approach). I would also suggest you take a look at Barabási's textbook *Network Science* to tackle the methodological foundations. 
 
 **Reading**
 
@@ -730,7 +749,7 @@ Pierre-Yves Saunier, ‘Circulations, connexions et espaces transnationaux’, *
 
 \pagebreak
 
-## Week 9.1 - Networks: Using R to Explore Network Data and Introduction to Alternative Tools
+## Week 8.2 - Networks: Using R to Explore Network Data and Introduction to Alternative Tools
 
 This week we'll dive back into R and show that we can create similar network visualizations as Cytoscape, though through a coding environment. For elementary tasks like the ones we will practice, there is no significant advantage to R and it is a lot less fun that Cytoscape. Anyone who wants to do more advanced analysis of the networks, however, will find that once they can work within R, all the powerful possibilities of that language and work environment will become available.
 
@@ -755,7 +774,7 @@ Erickson, Bonnie H. “Social Networks and History: A Review Essay.” *Historic
 More from Scott Weingart Series on Demystifying Networks:  
 [DN2 Degree](http://scottbot.net/networks-demystified-2-degree/), [DN3 Power Law Rant](http://scottbot.net/networks-demystified-3-the-power-law-rant/), [DN4 Co-Citation Analysis](http://scottbot.net/networks-demystified-4-co-citation-analysis/), [DN5 Communities, PageRank, and Sampling Caveats](http://scottbot.net/networks-demystified-5-communities-pagerank-and-sampling-caveats/), [DN7 Doing Co-Citation Analysis](http://scottbot.net/networks-demystified-7-doing-co-citation-analyses/), [DN8 When Networks are Inappropriate](http://scottbot.net/networks-demystified-8-when-networks-are-inappropriate/), [DN9 Bimodal Networks](http://scottbot.net/networks-demystified-9-modality/)  
 
-## Week 9.2 - Mapping Texts and Networks; Mediums for Sharing Your Work
+## Week 9 - Mapping Texts and Networks; Mediums for Sharing Your Work
 
 This final meeting will discuss some ways that maps, texts, and networks can be combined and visualised together. We'll talk about the problem of preservation in the digital realm, and discuss again some of the critical discourses around the digital humanities.
 

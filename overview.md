@@ -3,9 +3,14 @@
 
 ## Overview
 
-**Meetings:** 10-12:00 Tuesdays Room 1.17, St Katharine’s Lodge  
+**Meetings:**  
+13:00-15:00 Tuesdays 
 
-**Note:** No meeting in Week 6, 10, or 11. Two meetings in Week 7 and 9
+**Location**  
+**Week 1-4:** Room B3, St Katharine’s Lodge  
+**Week 5-9:** A29 Bute Building (with GD5402 students)
+
+**Note:** No meeting in Week 6, 10, or 11. Second meeting in Week 7 and 8 on Fridays 13:00-15:00.
 
 **Preparation:** 12-18 hours per week  
 
@@ -14,24 +19,23 @@ Week 1 - **Introduction to Historical GIS and First Look at QGIS**
 Week 2 - **QGIS: Basics and Georeferencing Historical Maps**   
 Week 3 - **QGIS: Techniques for Exploration and Analysis of Spatial Data**  
 Week 4 - **Thinking With/Against Maps and Spatial Analysis**   
-Week 5 - **Text Analysis: Using the Command Line, Regular Expressions, and Document OCR**  
+Week 5 - **Text Analysis: Using the Command Line, Regular Expressions, and Introduction to R**  
 Week 6 - *Independent Learning Week*  
-*29.10 QGIS project and essay due*  
-Week 7.1 - **Text Analysis: Basics of R; Frequencies and Correlation**  
-Week 7.2 - **Text Analysis: Topic Modelling and Sentiment Analysis; Alternative Tools**  
-Week 8 - **Networks: Introduction to Social Network Analysis**  
-Week 9.1 - **Networks: Exploring and Visualising Network Data; Alternative Tools**  
-Week 9.2 - **Mapping Texts and Networks; Mediums for Sharing Your Work**  
-Week 10 - *Work on Final Project* - Regular office hours   
-Week 11 - *Work on Final Project* - Regular office hours   
-Week 12 - *Work on Final Project*  
-*12.12 Final Project Due*  
+*28 Oct -  First Assessment Due*  
+Week 7.1 - **Using R: Frequencies and Correlations**  
+Week 7.2 - **Using R: Sentiment Analysis and Topic Modeling**  
+Week 8.1 - **Networks: Introduction to Social Network Analysis**  
+Week 8.2 - **Networks: Visualising and Analysing Network Data**  
+Week 9 - **Mapping Texts and Networks; Mediums for Sharing Your Work**  
+Week 10 - *Work on Final Project* - Thursday Open Office Hours 13:00-15:00   
+Week 11 - *Work on Final Project* - Monday Open Office Hours 3:15-17:00   
+*6 Dec - Second Assessment Due*  
 
 ## Key Info
 
 **Coordinator:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
 **Office:** St. Katharine's Lodge Room B3  
-**Office Hours:** Tue 12:00-13:00 (please sign up for a [time](https://goo.gl/Rh19wj) )
+**Office Hours:** Tue 15:00 (please sign up for a [time](https://goo.gl/Rh19wj) )
 
 ### Description
 
@@ -39,7 +43,7 @@ This digital humanities module is offered will introduce MLitt students in the S
 
 ### Assessment Summary
 
-50% - **29 October** - Historical GIS Project, 1,500 word explanatory essay and minimum 500 word appendix  
-50% - **12 December** - Final Project, 1,500 word essay, visualisations, and minimum 500 word appendix
+50% - **28 October** before midnight - First Project or Essay  
+50% - **6 December** before midnight - Second Project or Essay
 
 
