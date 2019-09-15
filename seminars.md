@@ -480,7 +480,7 @@ Tufte, Edward R. *The Visual Display of Quantitative Information*. Graphics Pres
 
 \pagebreak
 
-## Week 5 - Text Analysis: Using the Command Line, Regular Expressions, and OCR with Tesseract
+## Week 5 - Text Analysis: Using the Command Line, Regular Expressions, and an Introduction to R
 
 
 The main task of today is to work with regular expressions (regex). The art of regex is an important foundation skill for mining textual information in many different contexts. A regex is a collection of symbols and characters used to identify a pattern, allowing you to search large bodies of text to *match* a designated combination of characters, words, or phrases which might, for example, simultaneously exclude other characters or words. We can do this directly through a web browser on certain sites but some dialect of regular expressions is built into powerful word processing software, many command line utilities such as *grep* and almost every programming language. We will also explore some of the other possibilities of using the command line on your computer, and software for OCRing documents that can then be searched or cleaned up with regular expressions. The various tasks below asking you to install software are optional. They are useful if you want to learn and try working with utilities on the command line (and you don't have a Mac) or work with Tesseract, but this will not be required, especially if you don't plan on doing any OCRing of historical documents, or plan to use other commercial OCR software.
