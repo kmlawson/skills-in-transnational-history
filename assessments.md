@@ -60,3 +60,15 @@ Alternatively you may target a particular project in the digital humanities or a
 * Did the essay engage effectively with an appropriate amount of theoretical literature for its topic?
 *  Did it have a clear argument which was well supported throughout the essay?
 
+**Option Four: Video Project** (50%)
+
+Finally, you may create a 20 minute video project. The output should be submitted as a video file. The contents of the essay may follow completely the guidelines for Option Three above, engaging critically with the digital humanities. Alternatively, it may generally follow the guidelines for Option One or Option Two above. The key is that it is to combine the voice of the creator as narrator offering explanation and analysis, combined with the visual element of slides, maps, graphs, etc. as appropriate. In addition, the student is asked to attach a "bibliography" of sources used in the form of "film credits" at the end of the video (this may be static on separate slides or scrolling movie style). The "credits" at the end are not counted in the 20 minute limit.
+
+*Considerations for Assessment:*
+
+- Did the project meet the relevant considerations for assessment from the option above that most closely matches the contents?
+- Was the voice narration effectively delivered in terms of speed, modulation, clarity etc.
+- How effective was the visual elements of the video?
+- Did the video avoid overly heavy use of text.
+
+

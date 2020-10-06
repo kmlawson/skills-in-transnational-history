@@ -22,25 +22,15 @@ When formatting your assignments, please follow these guidelines:
 
 ### Footnotes and References
 
-Please carefully read the St Andrews School of History Style Sheet:
-
-http://www.st-andrews.ac.uk/history/infoug/stylesheet.html
-
-This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. Please note that failure to follow the style sheet can result in penalties on the final mark for the essay.
+Please follow the St Andrews School of History Style Sheet, available on the school website. This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. Please note that failure to follow the style sheet can result in penalties on the final mark for the essay.
 
 ### Online Submission and Late Work
 
-Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS website for the course. If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment to the module coordinator, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter. This module follows the official School of History penalties for late work:
-
-http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html
+Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS website for the course. If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment to the module coordinator, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter. This module follows the official School of History penalties for late work found in the PGT handbook.
 
 ### Word Limits
 
-Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. Please do not go over the limit and force yourself to work within them as a practice that will be important for writing assignments in your future careers. 
-
-The official School of Histories penalties for short/long work are followed in this module:
-
-http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html
+Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. Please do not go over the limit and force yourself to work within them as a practice that will be important for writing assignments in your future careers. Please see the PGT handbook.
 
 **Please Note:** The appendix for the two project submissions has a minimum but no maximum.
 
@@ -65,9 +55,7 @@ https://www.st-andrews.ac.uk/semesterdates/
 
 ### Marking Scale
 
-We use a 20 point marking scale for your assignments. For more on interpreting the marking scale, see the School of History marking scale for taught Postgraduates:
-
-https://www.st-andrews.ac.uk/history/infopg/ipgassess.html
+We use a 20 point marking scale for your assignments. For more on interpreting the marking scale, see the School of History marking scale for taught Postgraduates. Please see the PGT handbook.
 
 ### Good Academic Practice
 
@@ -75,6 +63,7 @@ http://www.st-andrews.ac.uk/media/teaching-and-learning/policies/gap.pdf
 http://www.st-andrews.ac.uk/media/teaching-and-learning/documents/September 2014 Updated GAP Guide for Students.pdf
 
 ### Absence from Classes
+
 Attendance is a basic assessment requirement for credit award, and failure to attend classes or meetings with academic staff may result in your losing the right to be assessed in that module. 
 
 Please read the university policy on student absences:
