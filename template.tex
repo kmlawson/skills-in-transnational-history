@@ -1,11 +1,11 @@
 \documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$]{$documentclass$}
+\usepackage{graphicx}
 \usepackage[T1]{fontenc}
-\usepackage{enumitem}
-% Following crushes all spacing between bullet points:
-\setlist[itemize]{noitemsep}
 \usepackage{lmodern}
 % \usepackage{amssymb,amsmath}
 % \usepackage{euler}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 % use microtype if available
@@ -68,8 +68,8 @@ $endif$
 $if(tables)$
 \usepackage{longtable}
 $endif$
-$if(graphics)$
-\usepackage{graphicx}
+% $if(graphics)$
+% \usepackage{graphicx}
 % We will generate all images so they have a width \maxwidth. This means
 % that they will get their normal width if they fit onto the page, but
 % are scaled down if they would overflow the margins.
@@ -78,10 +78,11 @@ $if(graphics)$
 % \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth
 % \else\Gin@nat@width\fi}
 % \makeatother
+
 % \let\Oldincludegraphics\includegraphics
 % \renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=\maxwidth]{#1}}
-$endif$
-\def\tightlist{}
+% $endif$
+
 \ifxetex
 %   \usepackage[setpagesize=false, % page size defined by xetex
 %               xetex]{hyperref}
@@ -103,7 +104,7 @@ $endif$
 $if(strikeout)$
 %\usepackage[normalem]{ulem}
 % avoid problems with \sout in headers with hyperref:
-\AtEndPreamble{\pdfstringdefDisableCommands{\renewcommand{\sout}{}}}
+% \AtEndPreamble{\pdfstringdefDisableCommands{\renewcommand{\sout}{}}}
 $endif$
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{6pt plus 2pt minus 1pt}
@@ -113,7 +114,7 @@ $else$
 \setcounter{secnumdepth}{0}
 $endif$
 $if(verbatim-in-note)$
-\AtEndPreamble{\VerbatimFootnotes} % allows verbatim text in footnotes
+% \AtEndPreamble{\VerbatimFootnotes} % allows verbatim text in footnotes
 $endif$
 $if(lang)$
 \ifxetex
