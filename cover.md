@@ -1,6 +1,6 @@
-% MO5161 Skills in Transnational History
+% MO5161 Skills in Digital History: Maps and Text
 % Module Coordinator: Konrad M. Lawson
-% Fall, 2020
+% Fall, 2021
 
 \begin{center}
 
@@ -15,7 +15,7 @@
 \textbf{Repository for this handbook available at:}
 \\*https://github.com/kmlawson/skills-in-transnational-history
 \vspace{10mm}
-\\*\textit{© Konrad M. Lawson, 2020
+\\*\textit{© Konrad M. Lawson, 2021
 \\This work is licensed under the Creative Commons Attribution 3.0 Unported License.}
 \end{center}
 

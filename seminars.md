@@ -30,7 +30,7 @@
 
 ## Managing Your Time During the Semester
 
-You should expect to spend about 20-25 hours each week in preparation for this seminar module (40 credits), with the remaining third of your weekly study time dedicated to your core module (20 credits). I strongly suggest you set aside regular time every week, across at least three days of the week, that is especially allocated to this module in order to balance out the time you dedicate to it throughout the semester. Readings for the module will rarely involve more than half the time and you should never consider your preparation done for the week when the readings are complete. The majority of your time should be spent on your projects. You don't need extensive notes on the readings, focus less on the particulars of specific historical projects we may read about but instead on the methodologies, weaknesses and strengths regarding them, and bigger connections that connect to other readings and themes we have been discussing.
+You should expect to spend about 20-25 hours each week in preparation for this seminar module (40 credits out of your 60 credits for the semester), with the remaining third of your weekly study time dedicated to your core module (20 credits). I strongly suggest you set aside regular time every week, across at least three days of the week, that is especially allocated to this module in order to balance out the time you dedicate to it throughout the semester. Readings for the module will rarely involve more than half the time and you should never consider your preparation done for the week when the readings are complete. The majority of your time should be spent on your projects. You don't need extensive notes on the readings, focus less on the particulars of specific historical projects we may read about but instead on the methodologies, weaknesses and strengths regarding them, and bigger connections that connect to other readings and themes we have been discussing.
 
 After you finish the readings for the week, use the remaining time you have set aside for source *research*, *experimentation*, *play*, and data *exploration*. This should eventually, but not immediately, be directed towards the broader end of becoming more familiar with the technologies introduced in the module, and most of all, helping you towards the development of the projects for your two assessments. Bring your ideas, as they develop, into the module discussion and share them with your fellow students as well. I cannot stress enough that this time is important. You will quickly find that, even when you have a firm project idea in mind, the sources settled, and a goal in sight, the majority of time in project development will go towards cleaning or preparing data, tinkering with software, googling obscure errors, watching YouTube tutorials or diving into bulletin boards about specific features or tasks you wish to perform, and, alas, it is *very common* to discover that a project is ultimately not viable with the original approach or data, and a switch in direction is needed. *A critical ingredient for success is, therefore: to allow time for productive failure and new beginnings.*
 
@@ -45,22 +45,6 @@ If you would like to get a head start on the module and get a flavor for the mod
 3. Attempt some of the tutorials at [Mapping and GIS for Historians](http://transnationalhistory.net/mapping/) - please note that these tutorials were developed for QGIS 2.x and some screenshots will not indicate the correct location of buttons, etc. in the 2018 Summer release of QGIS 3.x
 4. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/). If you would like to get started with the world of R, consider a book such as *Learning R* by Richard Cotton, or any of the many online tutorials. *Note:* All the skills using R we will encounter in this module can also be done in the even more popular programming language of Python. If you think you might someday want to learn more programming, I'm happy to guide students towards resources that will allow them to do any of the module tasks in Python instead of R.
 5. Browse and experiment with instructional materials at [A Gentle Introduction to QGIS](http://docs.qgis.org/testing/en/docs/gentle_gis_introduction/), [Cytoscape Tutorials Wiki](https://github.com/cytoscape/cytoscape-tutorials/wiki), and if you have your access to St Andrews e-resources, try Chapter 1 of *Text Analysis with R for Students of Literature* ([library ebook](http://dx.doi.org/10.1007/978-3-319-03164-4))
-
-## DataCamp for Education
-
-Before the module begins, you will be given an invitation email for free access to the courses available at datacamp.com. Your free access will be active from August for a period of six months and you may take the courses that are assigned through the online representation of this module on the platform. The platform is widely used for digital skills and data analyst training. If any of you are thinking of exploring careers in this area, I encourage you to use this (usually expensive) free account to learn a range of new digital skills.
-
-[MO5161 DataCamp Classroom 2020](https://www.datacamp.com/enterprise/mo5161-skills-in-transnational-history-bc8f4ab5-68c5-41d7-9840-a1b0af43c73f)
-
-DataCamp offers short interactive online courses (each of which can be completed in 3-6 hours of work), mostly showing you ways to employ the programming languages of R and Python for data science. It alternates between short film clips and interactive exercises in which you input code (I suggest using a desktop instead of tablet). During the semester, you will be required to either complete 4-6 short courses on DataCamp from a selection possible courses, or you may request an alternative research and writing task if you wish to avoid DataCamp altogether. While completion is required, your performance on these courses is not assessed with a formal mark.
-
-All students are asked to complete: Introduction to R and Introduction to the Tidyverse. In addition, complete at least three additional mini-courses (* = suggested). There are a number of courses you will find in the "tracks" offered on DataCamp through our online class there. These include:
-
--	Text Analysis: Intermediate R*, Introduction to Text Analysis in R, Sentiment Analysis in R: The Tidy Way*
--	Strengthening R Foundations: String Manipulation in R with stringr*, Joining Data in R with dplyr*, Working with Data in the Tidyverse, Cleaning Data in R*, Communicating with Data in the Tidyverse, Working with Dates and Times in R, Importing Data in R (I, II), Data Visualization with ggplot2 (I, II)
--	Data Science: Introduction to Data, Modeling with Data in the Tidyverse, Correlation and Regression, Fundamentals of Bayesian Data Analysis in R, Exploratory Multiple and Logistic Regression, Foundations of Inference, Experimental Design in R, Survival Analysis in R
--	Spatial Analysis in R: Working with Geospatial Data in R, Spatial Analysis in R with sf and raster, Spatial Statistics in R
--	Network Analysis: Network Science in R: A Tidy Approach, Network Analysis in R
 
 ## Resources to Explore
 
@@ -109,9 +93,10 @@ During the semester, you may decide that you want to deepen your knowledge and s
 
 **Learning GIS**
 
+*QGIS Map Design* 2nd Edition Anita Graser & Gretchen N. Peterson  
 *Learning QGIS* Anita Graser  
 *Mastering QGIS* Kurt Menke et al.  
-*QGIS Map Design* 2nd Edition Anita Graser & Gretchen N. Peterson  
+*GIS Cartography: A Guide to Effective Map Design* by Gretchen Peterson
 *Discovery QGIS 3.x* Kurt Menke  
 *Historical GIS: Technologies, Methodologies, and Scholarship* Gregory, Ian N., and Paul S. Ell, eds.  
 *Introduction to GIS* Victor Olaya  
@@ -499,7 +484,6 @@ The main task of today is to work with regular expressions (regex). The art of r
 3. In class we will work though the [Interactive Tutorial](https://regexone.com/) for regular expressions, but give it a try before coming to class. Read two somewhat silly examples of using regular expressions here: [Reformatting Confucius with Regular Expressions](https://web.archive.org/web/20160610173753/https://www.chronicle.com/blogs/profhacker/reformatting-confucius-with-regular-expressions/38596) and [Finding the Women of Heimskringla with Regular Expressions](https://web.archive.org/web/20160610052659/https://www.chronicle.com/blogs/profhacker/finding-the-women-of-heimskringla-with-regular-expressions/38631)
 4. If you get the hang of regular expressions before class, try [Regex Crossword](https://regexcrossword.com/) (This only works in Safari and Chrome for me, try a different browser if it doesn't work for you).
 5. There is very little required reading today. Take advantage of this time to work on your mapping project, due after independent learning week.
-6. By this week, please have completed at least the Introduction to R course on DataCamp.
 
 **Reading**
 
@@ -546,12 +530,11 @@ Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources an
 
 ## Week 7.1 - Introduction to R
 
-This week we'll talk about R, which, together with the programming language Python are the two most commonly used programming languages for digital humanities, statistics, machine learning, and the whole world of data science. Although I personally enjoy Python more, and it is a more versatile programming language used in a wide range of tasks, my experience been that the welcoming environment of R Studio and the ease of adding and making use of libraries seems to be slightly better for new beginners. Anything in the module that can be done with R can be done with Python. Let me know if you want resources in that area and feel free to tackle the Python equivalents of our module on DataCamp instead of R. 
+This week we'll talk about R, which, together with the programming language Python are the two most commonly used programming languages for digital humanities, statistics, machine learning, and the whole world of data science. Although I personally enjoy Python more, and it is a more versatile programming language used in a wide range of tasks, my experience been that the welcoming environment of R Studio and the ease of adding and making use of libraries seems to be slightly better for new beginners. Anything in the module that can be done with R can be done with Python. 
 
 **Preparation:**
 
 1. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/).  
-2. If you haven't done anything except the Introduction to R on DataCamp, proceed with at least the Introduction to the Tidyverse course and consider making progress on other courses there.
 
 **Required Reading**
 
@@ -634,7 +617,6 @@ This meeting will continue the work we did in the last session. It is simply not
 
 **Suggestions for Play and Exploration**
 
-If you are interested in using Sentiment Analysis in your final project, then go through Julia Silge's course on DataCamp: Sentiment Analysis in R: The Tidy Way. If you are interested in exploring Topic Modeling more, consider the DataCamp course Topic Modeling in R with Pavel Oleinikov.
 
 If you are interested in alternatives to R (or Python) for text analysis, take a look at [Orange](https://orange.biolab.si/) which is a data analysis software package. If you are interested in the tool or looking for ways of analysing text without using R, take a look at some of its documentation or their [Youtube tutorials](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g)
 
@@ -689,9 +671,6 @@ At one level the study of historical networks and relationships between people i
 
 2. Please attempt to install [Cytoscape](http://www.cytoscape.org/) on your laptop if you can and look over some of these [Cytoscape Tutorials](https://github.com/miriamposner/cytoscape_tutorials)
 
-**Suggestions for Play and Exploration**
-
-If you are interested in exploring more quantitative approaches to Network Analysis, using R, then you can explore the DataCamp courses for this in R (Network Analysis in R, Network Science in R: A Tidy Approach). I would also suggest you take a look at Barabási's textbook *Network Science* to tackle the methodological foundations. 
 
 **Reading**
 

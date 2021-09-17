@@ -2,7 +2,27 @@
 
 # Assessments 
 
-You have two equally weighted assessments. For each of these two you may choose to submit one of the three following possibilities. You are very welcome to do more than one of the same type of essay or project. You may use a similar body of sources in more than one project only if they are of a different type. If you do a map project and choose to do another map project, then the second map project should use another body of sources.
+You have two shorter assessments that are worth 25% each, referred to as Exercises 1 and Exercises 2. The remaining half of your mark for this module is determined by a final project or essay, worth 50%.
+
+## Exercises 1 and 2
+
+Each of these two submissions are worth 25% each of your mark.
+
+For the submission of Exercises 1, you may choose between (1) Five GIS tasks or (3) Short Essay below. 
+
+For the submission of Exercises 2, you may choose between (1) Five GIS tasks or (2) Five Text Analysis tasks or (3) Short Essay.
+
+(1) GIS Tasks - See separate handout. Choose 5 of the 10 tasks for your submission. If you choose this assessment twice, do the remaining five tasks for your second submission. 
+
+(2) Text Analysis Tasks - See separate handout. Choose 5 of the 10 tasks for your submission.
+
+(3) Short Essay 2,000 words. If you choose this twice, you will need to do it on a different work/resource. For this tasks, write a short essay that evaluates and critically engages with either a) a piece of scholarship which applies historical GIS methods or other computational approaches (text analysis, social network analysis) to a historical issue or b) an online database or digital project of use to historians.
+
+## Final Project or Essay
+
+Your final project should be an opportunity for you to build a more substantive submission for the module. While the deadline is not until late in the semester, you should ideally be working on this project, or building up your skills in preparation for this project, throughout the semester. If you select the essay, you should spend significant time during the semester expanding your reading in the area most relevant to your essay.
+
+You may submit one of the following options:
 
 **Option One: Map Project** 
 
@@ -23,13 +43,13 @@ This assessment is designed to give you a chance to demonstrate your ability to 
 * Design: Did any visualisations or maps produced clearly communicate their contents and demonstrate a good sense of design, well-chosen scales, and appropriate density of visual information? 
 * Restraint: Did the project avoid superfluous visualisations that contribute little to the overall project and show good judgement in what to include and exclude?
 
-**Option Two: Text Analysis or Social Network Project** (50%)
+**Option Two: Text Analysis Project** (50%)
 
-You may do a project which makes use of one or more of the new computational techniques learned in the second half of the course: text analysis and/or social network visualisation and analysis. You are free to use the combination of tools and techniques that you feel most appropriate and comfortable in using (R, Python, Cytoscape, Gephi, Orange, Voyant Tools, Palladio, Shiny, regular expressions and command line utilities etc.). You are also welcome to teach yourself and make use of other techniques and tools that you have come across if these are well documented and described in your project.
+You may do a project which makes use of one or more of the new computational techniques learned in the second half of the course: text analysis. You are free to use the combination of tools and techniques that you feel most appropriate and comfortable in using (R, Python, Cytoscape, Voyant Tools, regular expressions and command line utilities etc.). You are also welcome to teach yourself and make use of other techniques and tools that you have come across if these are well documented and described in your project. For example: students who are interested in social network analysis are also welcome to use some of the resources linked in the module handbook and submit a project which makes use of these methods.
 
 Your project should include from one to a dozen visualisations depending on the difficulty and complexity of the visualisations produced and what they can potentially be used for. 
 
-These may include any of the following: 1) a collection of graphs and tables identifying patterns in the data or the product of computational analysis of text or networks. 2) Visualisation of the text or social network data in combination with GIS in the form of a choropleth or other thematic map, visualisations of networks using Cytoscape, Gephie, Palladio, or other visualisation tool, maps which visualise networks or material extracted from a text or corpus of texts. 3) a list of regular expressions, including description of what they do, that were used to clean data or extract useful material from texts. 
+These may include any of the following: 1) a collection of graphs and tables identifying patterns in the data or the product of computational analysis of text or networks. 2) Visualisation of the text or social network data in combination with GIS in the form of a choropleth or other thematic map which visualise networks or material extracted from a text or corpus of texts. 3) a list of regular expressions, including description of what they do, that were used to clean data or extract useful material from texts. 
 
 For Submission you must upload to the MMS:
 
@@ -47,12 +67,13 @@ For Submission you must upload to the MMS:
 * Restraint: Did the project avoid superfluous visualisations that contribute little to the overall project and show good judgement in what to include and exclude?
 * Development: If the project used historical GIS and use the same or similar source base, then did the project show a substantive development beyond the first assessment, and make clear in the explanatory essay what that development consisted of.
 
-
 **Option Three: Critical Essay** (50%)
 
 You may, alternatively, for one or both of the assignments, write a 4,000 word essay in the genre of the critical humanities. For this alternative, you should engage effectively with the theoretical scholarship on critical digital humanities both generally and specifically for the area of focus for your essay and it must engage critically and effectively with several several pieces of scholarship that may be described as applications of the technologies studied in this module.
 
 Alternatively you may target a particular project in the digital humanities or a published work which uses digital approaches and write a critique or evaluation of this work. Again, however, this should employ some of the critical scholarship that is relevant in your analysis.
+
+This resembles, in some ways, the shorter essay option but must engage, passively (in footnotes) and actively (directly in the text) with a broader range of scholarship and with greater depth. 
 
 *Considerations for Assessment:*
 
@@ -62,13 +83,14 @@ Alternatively you may target a particular project in the digital humanities or a
 
 **Option Four: Video Project** (50%)
 
-Finally, you may create a 20 minute video project. The output should be submitted as a video file. The contents of the essay may follow completely the guidelines for Option Three above, engaging critically with the digital humanities. Alternatively, it may generally follow the guidelines for Option One or Option Two above. The key is that it is to combine the voice of the creator as narrator offering explanation and analysis, combined with the visual element of slides, maps, graphs, etc. as appropriate. In addition, the student is asked to attach a "bibliography" of sources used in the form of "film credits" at the end of the video (this may be static on separate slides or scrolling movie style). The "credits" at the end are not counted in the 20 minute limit.
+Finally, you may create a 25 minute video project. The output should be submitted as a video file. The contents of the essay may follow completely the guidelines for Option Three above, engaging critically with the digital humanities. Alternatively, it may generally follow the guidelines for Option One or Option Two above. The key is that it is to combine the voice of the creator as narrator offering explanation and analysis, combined with the visual element of slides, maps, graphs, etc. as appropriate. In addition, the student is asked to attach a "bibliography" of sources used in the form of "film credits" at the end of the video (this may be static on separate slides or scrolling movie style). The "credits" at the end are not counted in the 20 minute limit.
 
 *Considerations for Assessment:*
 
 - Did the project meet the relevant considerations for assessment from the option above that most closely matches the contents?
 - Was the voice narration effectively delivered in terms of speed, modulation, clarity etc.
 - How effective was the visual elements of the video?
+- Was the balance of time dedicated to its constitutive components effective?
+- Was sufficient context and explanations offered?
 - Did the video avoid overly heavy use of text.
-
-
+- Was the video effective in maintaining audience engagement.

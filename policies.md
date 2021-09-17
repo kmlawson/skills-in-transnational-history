@@ -1,4 +1,3 @@
-\pagebreak
 
 ## Guidelines
 
@@ -32,43 +31,39 @@ Unless otherwise indicated, work will considered submitted by the date the docum
 
 Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. Please do not go over the limit and force yourself to work within them as a practice that will be important for writing assignments in your future careers. Please see the PGT handbook.
 
-**Please Note:** The appendix for the two project submissions has a minimum but no maximum.
+**Please Note:** The appendix for the project submissions has a minimum but no maximum.
 
 ### Academic Misconduct and Plagiarism
 
 Academic integrity is fundamental to the values promoted by the University. It is important that all students are judged on their ability, and that no student is allowed unfairly to take an advantage over others, to affect the security and integrity of the assessment process, or to diminish the reliability and quality of a St Andrews degree. Academic misconduct includes *inter alia* the presentation of material as one's own when it is not one's own; the presentation of material whose provenance is academically inappropriate; and academically inappropriate behaviour in an examination or class test. For more information: 
 
-https://www.st-andrews.ac.uk/students/rules/academicpractice/
+[Academic Practice](https://www.st-andrews.ac.uk/students/rules/academicpractice/)
 
-If you are unsure about the correct presentation of academic material, you should approach your tutor. You can also contact CAPOD, which provides an extensive range of training on Academic Skills.
+If you are unsure about the correct presentation of academic material, you should approach your tutor. You can also make use of the resources of CEED, which provides an extensive range of training on Academic Skills.
 
-http://www.st-andrews.ac.uk/capod/
+[Centre for Educational Enhancement and Development](https://www.st-andrews.ac.uk/ceed/)
 
 ### Advice and Support for Students
 
 For advice and support on any issue, including academic, financial, international, personal or health matters, or if you are unsure of who to go to for help, please contact the Advice and Support Centre, 79 North Street, 01334 462020, theasc@st-and.ac.uk.  
 
 ### Semester Dates
+
 The Semester Dates are available at:  
 
-https://www.st-andrews.ac.uk/semesterdates/
+[Semester Dates](https://www.st-andrews.ac.uk/semesterdates/)
 
 ### Marking Scale
 
 We use a 20 point marking scale for your assignments. For more on interpreting the marking scale, see the School of History marking scale for taught Postgraduates. Please see the PGT handbook.
 
-### Good Academic Practice
-
-http://www.st-andrews.ac.uk/media/teaching-and-learning/policies/gap.pdf  
-http://www.st-andrews.ac.uk/media/teaching-and-learning/documents/September 2014 Updated GAP Guide for Students.pdf
-
 ### Absence from Classes
 
 Attendance is a basic assessment requirement for credit award, and failure to attend classes or meetings with academic staff may result in your losing the right to be assessed in that module. 
 
-Please read the university policy on student absences:
+Please read the university policy on self-certification of student absences:
 
-https://www.st-andrews.ac.uk/students/rules/selfcertification/
+[Self-certification of Absence](https://www.st-andrews.ac.uk/students/rules/selfcertification/)
 
 ### Disability Support
 
