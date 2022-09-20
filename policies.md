@@ -17,7 +17,6 @@ When formatting your assignments, please follow these guidelines:
 
 * Add page numbers
 * Use a minimum of 12 sized font
-* Use a serif font (such as Times Roman, Georgia, Garamond), not a sans serif font (such as Arial, Helvetica, Verdana)
 
 ### Footnotes and References
 

@@ -3,39 +3,28 @@
 
 ## Overview
 
-**Meetings:**  
-Thursdays 15:00-17:00 
+**Meetings:** Thursdays 15:00-17:00 
+**Location:**  St Katharine's Lodge 0.01
+**Preparation:** ~20 hours per week  
 
-**Location**  
-Social Anthropology Tutorial Room  
-
-**Note:** No meeting in Week 6, 10, or 11. Second meeting in Week 7 and 8 time and location TBA
-
-**Preparation:** 12-18 hours per week  
-
-Week 0 - **Orientation: History in Practice - Balancing Skills and Critique in the Digital Humanities**   
-Week 1 - **Introduction to Historical GIS and First Look at QGIS**  
-Week 2 - **QGIS: Basics and Georeferencing Historical Maps**   
-Week 3 - **QGIS: Techniques for Exploration and Analysis of Spatial Data**  
-Week 4 - **Thinking With/Against Maps and Spatial Analysis**   
-Week 5 - **Text Analysis: Using the Command Line and Regular Expressions**  
+Week 1 - **Orientation: History in Practice - Balancing Skills and Critique in the Digital Humanities**   
+Week 2 - **Introduction to Historical GIS and First Look at QGIS**  
+Week 3 - **QGIS: Basics and Georeferencing Historical Maps**   
+Week 4 - **QGIS: Techniques for Exploration and Analysis of Spatial Data**  
+Week 5 - **Thinking With/Against Maps and Spatial Analysis**   
 Week 6 - *Independent Learning Week*  
-Week 7.1 - **Introduction to R**  
-Week 7.2 - **Using R: Frequencies and Correlations**  
-Week 8.1 - **Using R: Sentiment Analysis and Topic Modeling**  
-Week 8.2 - **Networks: Introduction to Social Network Analysis**  
-Week 9 - **Mapping Texts and Networks; Mediums for Sharing Your Work**  
-Week 10 - *Work on Final Project* - Extra office hours on Thursday 15:00-17:00
-Week 11 - *Work on Final Project* - Extra office hours on Thursday 15:00-17:00
-
-**29 Nov Project or Essay Due**
+Week 7 - **Text Analysis: Using the Command Line and Regular Expressions**  
+Week 8 - **Introduction to R**  
+Week 9 - **Using R: Frequencies and Correlations**  
+Week 10 - **Using R: Sentiment Analysis and Topic Modeling**  
+Week 11 - **Networks: Introduction to Social Network Analysis**  
 
 ## Key Info
 
 **Coordinator:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
+**Meetings:** Thursdays 3-5pm St Katharine's Lodge 0.01  
 **Office:** St. Katharine's Lodge Room B3  
-**Office Hours:**  
-Tuesday 9-12 on Teams. [Sign up for a time](https://goo.gl/Rh19wj)
+**Office Hours:** Tuesday 9-11 on Teams. Thursday 5-6pm in person [Sign up for a time](https://goo.gl/Rh19wj)
 
 ### Description
 
@@ -43,6 +32,6 @@ This digital humanities module provides students with an introduction to digital
 
 ### Assessment Summary
 
-25% Exercises 1 8 October 23:59  
-25% Exercises 2 8 November 23:59  
-50% Project or Essay 29 November 23:59  
+25% Exercises 1 l4 October 23:59  
+25% Exercises 2 14 November 23:59  
+50% Project or Essay 9 December 23:59  
