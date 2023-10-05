@@ -139,7 +139,7 @@ During the semester, you may decide that you want to deepen your knowledge and s
 
 \pagebreak
 
-## Week 1 - Orientation and Introduction to Historical GIS
+## Week 1 - Orientation: History in Practice - Balancing Skills and Critique in the Digital Humanities   
 
 Our emphasis in this course is on a set of skills related to GIS and mapping, social networks, and tools for the analysis of texts which, to obtain even a moderate proficiency in, would each require several modules. These are skills that are often associated with a field that has come to be known as the *digital humanities*. This module should be seen as a kind of taster course that allows you to encounter a world of digital tools and methodologies that may be useful for working with large collections of sources. You may decide that most or all of these methods are not appropriate for your own research going forward, but some exposure to them will greater afford you the opportunity to understand them and, when appropriate engage or critique other historical scholarship that makes use of them.
 
@@ -403,7 +403,7 @@ For several weeks now we have been learning some very basic skills in QGIS and m
 1. Any remaining presentations should be prepared for and your additional handout should be submitted and distributed.
 2. Be prepared to share your work on your map project so far, if you are working on one, including the kinds of sources you are using or evaluating, what challenges you have had so far, and questions you might have. If you are working on a critical essay, be ready to share what direction you will be taking it.
 3. Make substantive progress on your first project or essay.
-4. Optional: Sometimes GIS is just overkill and creating a good map for illustration just needs some time spent tracing existing maps and adding your own features. For this, learning how to use Bezier curves is a great plus but requires that you have Vector drawing software. Commercial packages like Adobe Illustrator and Affinity Design among many other options work great but cost money. If you think you might want to trace maps, try learning how to use Bezier curves with the [Bezier game](https://bezier.method.ac/). Install [Inkscape](https://inkscape.org/) and try tracing a simple map. A few more videos on how to use Bezier curves: [1](https://youtu.be/sagrkdmC_BI), [2](https://youtu.be/AAgWhnf_p3k), [3](https://youtu.be/uymedeE3mJE),[4](https://youtu.be/0rSDWJ_kncE)
+4. Optional: Sometimes GIS is just overkill and creating a good map for illustration just needs some time spent tracing existing maps and adding your own features. For this, learning how to use Bezier curves is a great plus but requires that you have Vector drawing software. Commercial packages like Adobe Illustrator and Affinity Design among many other options work great but cost money. If you think you might want to trace maps, try learning how to use Bezier curves with the [Bezier game](https://bezier.method.ac/). Install [Inkscape](https://inkscape.org/) or download free version of [Gravit Designer](https://designer.gravit.io/) (or use the online version) and try tracing a simple map. A few more videos on how to use Bezier curves: [1](https://youtu.be/sagrkdmC_BI), [2](https://youtu.be/AAgWhnf_p3k), [3](https://youtu.be/uymedeE3mJE),[4](https://youtu.be/0rSDWJ_kncE)
 
 **Required Reading**
 
@@ -424,7 +424,6 @@ Ch 14 "Tracking in a New Territory: Re-imaging GIS for History" Alexander von L�
 - Cope, Meghan, and Sarah Elwood *Qualitative GIS: A Mixed Methods Approach* Sage, 2009  
 - "Elements of Historical Knowledge About Urban Spaces: Reflections on the Requirements for a Dynamic Map" Ekkehard Schönherr in Rau, Susanne, Ekkehard Schönherr, eds. *Mapping Spatial Relations, Their Perceptions and Dynamics: The City Today and in the Past. Lecture Notes in Geoinformation and Cartography*. Cham ; New York: Springer, 2014. [Library ebook](http://dx.doi.org/10.1007/978-3-319-00993-3)
 - Jobst, Markus, et al.  *Preservation in Digital Cartography: Archiving Aspects*. Berlin ; London: Springer, 2010. [Library ebook](http://dx.doi.org/10.1007/978-3-642-12733-5)  
-- Travis, Charles, Francis Ludlow, and Ferenc Gyuris, eds. *Historical Geography, GIScience and Textual Analysis: Landscapes of Time and Place*. Springer Nature, 2020. [Ebook](http://library.st-andrews.ac.uk/record=b3010146~S5)
 
 **Reference Reading**
 
@@ -437,7 +436,7 @@ Ch 14 "Tracking in a New Territory: Re-imaging GIS for History" Alexander von L�
 
 \pagebreak
 
-## Week 5 - Using the Command Line, Regular Expressions
+## Week 7 - Text Analysis: Using the Command Line, Regular Expressions
 
 The main task of today is to work with regular expressions (regex). The art of regex is an important foundation skill for mining textual information in many different contexts. A regex is a collection of symbols and characters used to identify a pattern, allowing you to search large bodies of text to *match* a designated combination of characters, words, or phrases which might, for example, simultaneously exclude other characters or words. We can do this directly through a web browser on certain sites but some dialect of regular expressions is built into powerful word processing software, many command line utilities such as *grep* and almost every programming language. We will also explore some of the other possibilities of using the command line on your computer, and software for OCRing documents that can then be searched or cleaned up with regular expressions. The various tasks below asking you to install software are optional. They are useful if you want to learn and try working with utilities on the command line (and you don't have a Mac) or work with Tesseract, but this will not be required, especially if you don't plan on doing any OCRing of historical documents, or plan to use other commercial OCR software.
   
@@ -451,16 +450,16 @@ The main task of today is to work with regular expressions (regex). The art of r
 **Preparation**
 
 1. Please install a good text editor that can support regular expressions. You can download the free Microsoft [Visual Studio Code](https://code.visualstudio.com/) available for Mac, Windows, and Linux. There is a significant learning curve, but if you want to go full scale 1970s classic editing power, I am personally a daily user of (and this handbook was composed in) the powerful tool [VIM](https://www.vim.org/) (Mac OS X users see also [MacVim](https://github.com/macvim-dev) and [VimR](http://vimr.org/)). Its bitter arch-enemy (the two of them have been battling it out for supremacy in the geek community since 1976) is [Emacs](https://www.gnu.org/software/emacs/). 
-2. Optional: Install [Tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html). This can be done easily via [HomeBrew](https://brew.sh/) on OS X, or the package manager if you want to use a [VirtualBox](https://www.virtualbox.org/). There is also a windows installation but I'm not familiar with its use.
+2. Optional: Install [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki). This can be done easily via [HomeBrew](https://brew.sh/) on OS X, or the package manager if you will be using your VirtualBox as per instructions on the Tesseract github page. There is also a windows installation but I'm not familiar with its use.
 3. In class we will work though the [Interactive Tutorial](https://regexone.com/) for regular expressions, but give it a try before coming to class. Read two somewhat silly examples of using regular expressions here: [Reformatting Confucius with Regular Expressions](https://web.archive.org/web/20160610173753/https://www.chronicle.com/blogs/profhacker/reformatting-confucius-with-regular-expressions/38596) and [Finding the Women of Heimskringla with Regular Expressions](https://web.archive.org/web/20160610052659/https://www.chronicle.com/blogs/profhacker/finding-the-women-of-heimskringla-with-regular-expressions/38631)
 4. If you get the hang of regular expressions before class, try [Regex Crossword](https://regexcrossword.com/) (This only works in Safari and Chrome for me, try a different browser if it doesn't work for you).
-5. There is very little required reading today. Take advantage of this time to work on your assessments. 
+5. There is very little required reading today. Take advantage of this time to work on your mapping project, due after independent learning week.
 
 **Reading**
 
-[Introduction to Bash](https://programminghistorian.org/en/lessons/intro-to-bash) - Note: If you are using Windows, you will need to install git bash, available as part of [Git for Windows](https://gitforwindows.org/) 
+[Introduction to Bash](https://programminghistorian.org/en/lessons/intro-to-bash)  
 
-[Interactive Tutorial](https://regexone.com/) - Again, please go through this tutorial. We'll practice more in class. 
+[Interactive Tutorial](https://regexone.com/) - Again, please go through this tutorial. We'll practice more in class.
 
 ['Q i-jtb the Raven': Taking Dirty OCR Seriously](https://ryancordell.org/research/qijtb-the-raven-mla/) Ryan Cordell  
 
@@ -474,14 +473,14 @@ The main task of today is to work with regular expressions (regex). The art of r
 
 [Cleaning OCR’d text with Regular Expressions](https://programminghistorian.org/en/lessons/cleaning-ocrd-text-with-regular-expressions) - a tutorial using Python programming language  
 
-[In the Beginning was the Command Line](https://web.archive.org/web/20190315190626/http://cristal.inria.fr/~weis/info/commandline.html), 1999 by novelist Neal Stephenson (skim)  
+[In the Beginning was the Command Line](http://cristal.inria.fr/~weis/info/commandline.html), 1999 by novelist Neal Stephenson (skim)  
 
 [ProfHacker posts on the Command Line](https://web.archive.org/web/20160909001418/http://www.chronicle.com/blogs/profhacker/tag/the-profhacker-guide-to-the-command-line/page/2)
 
 **Reference Reading**
 
-- Jeffrey E. F. Friedl *Mastering Regular Expressions* 2nd Edition O'Reilly - very helpful and thorough overview of regular expressions
-- Tony Stubblebine *Regular Expressions Pocket Reference* 2nd Edition O'Reilly
+Jeffrey E. F. Friedl *Mastering Regular Expressions* 2nd Edition O'Reilly - very helpful and thorough overview of regular expressions
+Tony Stubblebine *Regular Expressions Pocket Reference* 2nd Edition O'Reilly
 
 ## Week 6 - Independent Learning Week
 
@@ -495,123 +494,9 @@ Joanna Drucker, "Humanistic Theory and Digital Scholarship" in Gold, Matthew K.,
 
 [Using Metadata to find Paul Revere](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
 
+Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast- The Transnational and the Text-Searchable.” The American Historical Review 121, no. 2 (April 1, 2016): 377–402. https://doi.org/10.1093/ahr/121.2.377.
+
 \pagebreak
-
-## Week 7 - An Introduction to Large Language Models
-
-LLMs are very often seen as problematic but exciting tools for the generation of written text and getting answers to questions about the world. Our focus here, however, is on the potential of LLMs for: extracting information from a supplied text, processing or transforming a supplied text, composing code, explaining code. We will also discuss some of the debates around LLMs today.
-
-**Preparation**
-
-1. Please [sign up](https://chat.openai.com/auth/login) for a free ChatGPT account. If you have any problems doing so, then you may use [Google Bard](https://bard.google.com/?hl=en) or [Bing Chat](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8) (requires Edge browser), or [Claude](https://claude.ai/login)
-2. Walk through the [Learn Prompting](https://learnprompting.org/docs/category/-basics) website, just the "Basics" and "Basic Applications" section. You don't need to use the "prompting embeds" that requires you to input an OpenAI key, just copy and paste prompts into ChatGPT if you want to try them there. 
-
-**Readings**
-
-Below are a selection of recent articles discussing and debating the use of LLMs. Please try to browse or skim through as many of these as you find time for:
-
-- LLMs and Education:
-    - [Student Use Cases for AI](https://hbsp.harvard.edu/inspiring-minds/student-use-cases-for-ai)
-    - [Liberally-educated students need to be more than consumers of AI](https://tedunderwood.com/2023/09/10/liberally-educated-students-need-to-be-more-than-consumers-of-ai/)
-    - [We can save what matters about writing—at a price](https://tedunderwood.com/2023/07/31/we-can-save-what-matters-about-writing-at-a-price/)
-    - [Teaching with AI - OpenAI](https://openai.com/blog/teaching-with-ai)
-    - [AI's Teachable Moment: How ChatGPT Is Transforming the Classroom](https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/)
-    - [“What is Good Writing in the Age of ChatGPT?”](https://liu.english.ucsb.edu/what-is-good-writing-in-the-age-of-chatgpt/)
-    - [Don't use AI detectors for anything important](https://www.aiweirdness.com/dont-use-ai-detectors-for-anything-important/)
-    - [Why I’m Excited About ChatGPT](https://www.insidehighered.com/opinion/views/2023/05/11/why-im-excited-about-chatgpt)
-    - [Will ChatGPT Kill the Student Essay? Universities Aren’t Ready for the Answer](https://thewalrus.ca/chatgpt-writing/)
-    - [ChatGPT in Education: Boon, Bane, and Beyond](https://discourse.liberal-arts.ai/t/chatgpt-in-education-boon-bane-and-beyond/386)
-    - [Should educators worry about ChatGPT?](https://news.illinois.edu/view/6367/49261563)
-    - [Experimenting with LLMs to Research, Reflect, and Plan](https://eugeneyan.com/writing/llm-experiments/)
-    - [The End of High-School English](https://www.theatlantic.com/technology/archive/2022/12/openai-chatgpt-writing-high-school-english-essay/672412/)
-    - [AI is going to make teaching worse, but not in the way everyone thinks](https://charleskennethroberts.wordpress.com/2023/03/30/ai-is-going-to-make-teaching-worse-but-not-in-the-way-everyone-thinks/)
-- LLMs in Scholarship:
-    - [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
-    - [How to use LLMs for Text Analysis](https://arxiv.org/abs/2307.13106)
-    - [AI for LAM](https://github.com/AI4LAM/TeachingAndLearning)
-    - [ParrotGPT: On the Advantages of Large Language Models Tools for Academic Metadata Schema Mapping](https://medium.com/@kj.garza/parrotgpt-on-the-advantages-of-large-language-models-tools-for-academic-metadata-schema-mapping-434cceabc68b)
-    - [Generative History](https://generativehistory.substack.com/)
-- LLMs and Coding:
-    - [Six tips for better coding with ChatGPT](https://www.nature.com/articles/d41586-023-01833-0)
-    - [It is starting to get strange](https://www.oneusefulthing.org/p/it-is-starting-to-get-strange)
-    - [Pairing with GPT-4](https://fly.io/ruby-dispatch/pairing-with-gpt-4/)
-- LLMs and Security
-    - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
-    - [Prompt injection: What’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
-    - [AI Incident Database](https://incidentdatabase.ai/)
-    - [Three ways AI chatbots are a security disaster](https://www.technologyreview.com/2023/04/03/1070893/three-ways-ai-chatbots-are-a-security-disaster/)
-    - [ChatGPT Is Ingesting Corporate Secrets](https://www.schneier.com/blog/archives/2023/02/chatgpt-is-ingesting-corporate-secrets.html)
-- LLMs and Labour
-    - [‘Overemployed’ Hustlers Exploit ChatGPT To Take On Even More Full-Time Jobs](https://www.vice.com/en/article/v7begx/overemployed-hustlers-exploit-chatgpt-to-take-on-even-more-full-time-jobs)
-- LLM Hallucinations
-    - [ChatGPT is defaming me and it must be someone’s fault](https://familyinequality.wordpress.com/2023/04/05/chatgpt-is-defaming-me-and-it-must-be-someones-fault/)
-    - [Defamed by ChatGPT: My Own Bizarre Experience with Artificiality of “Artificial Intelligence”](https://jonathanturley.org/2023/04/06/defamed-by-chatgpt-my-own-bizarre-experience-with-artificiality-of-artificial-intelligence/)
-    - [Why ChatGPT and Bing Chat are so good at making things up](https://arstechnica.com/information-technology/2023/04/why-ai-chatbots-are-the-ultimate-bs-machines-and-how-people-hope-to-fix-them/)
-- LLMs and the Law
-    - [Italy’s new rules for ChatGPT could become a template for the rest of the EU](https://thenextweb.com/news/italys-new-rules-chatgpt-could-become-template-for-rest-of-eu)
-- Optimism:
-    - [Now is the time for grimoires It isn't data that will unlock AI, it is human expertise](https://www.oneusefulthing.org/p/now-is-the-time-for-grimoires)
-    - [35 Ways Real People Are Using A.I. Right Now](https://www.nytimes.com/interactive/2023/04/14/upshot/up-ai-uses.html)
-    - [ChatGPT is Good at Roleplaying Characters](https://blog.varunramesh.net/posts/chatgpt-role-playing/)
-    - [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents)
-- LLMs Environmental Impact:
-    - [ChatGPT Is Consuming a Staggering Amount of Water](https://futurism.com/the-byte/chatgpt-ai-water-consumption)
-- Evaluations and Critiques:
-    - [AI hype is built on high test scores. Those tests are flawed](https://www.technologyreview.com/2023/08/30/1078670/large-language-models-arent-people-lets-stop-testing-them-like-they-were/)
-    - [The Waluigi Effect (mega-post)](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post#Derrida___il_n_y_a_pas_de_hors_texte)
-    - [Why is GPT-3 15.77x more expensive for certain languages?](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
-    - [Textpocalypse: A Literary Scholar Eyes the “Grey Goo” of AI](https://scholarlykitchen.sspnet.org/2023/04/13/textpocalypse-a-literary-scholar-eyes-the-grey-goo-of-ai/)
-    - [OpenAI discontinues its AI writing detector due to “low rate of accuracy”](https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/#p3)
-    - [The uselessness of AI ethics](https://link.springer.com/article/10.1007/s43681-022-00209-w)
-    - [What We Still Don’t Know About How A.I. Is Trained](https://www.newyorker.com/news/daily-comment/what-we-still-dont-know-about-how-ai-is-trained)
-    - [OpenAI isn’t doing enough to make ChatGPT’s limitations clear](https://www.theverge.com/2023/5/30/23741996/openai-chatgpt-false-information-misinformation-responsibility)
-    - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://www.aisnakeoil.com/p/gpt-4-and-professional-benchmarks)
-- Stochastic Parrots and Related Debates on AI Intelligence:
-    - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
-    - [You Are Not a Parrot](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html)
-    - [Language Is a Poor Heuristic For Intelligence](https://karawynn.substack.com/p/language-is-a-poor-heuristic-for)
-    - [On Accidental and Parasitic Language](https://critinq.wordpress.com/2023/06/26/on-accidental-and-parasitic-language/)    
-    - [AI, like Jon Snow, knows nothing](https://ianbetteridge.com/2023/03/25/ai-like-jon-snow-knows-nothing/)
-    - [ChatGPT - The Revolutionary Bullshit Parrot](https://www.reasonfieldlab.com/post/chatgpt-the-revolutionary-bullshit-parrot?)
-    - [Mystery AI Hype Theater 3000](https://medium.com/@emilymenonbender/mystery-ai-hype-theater-3000-e6ad815db0e1)
-    - [And Yet It Understands](https://borretti.me/article/and-yet-it-understands)
-    - [The Unpredictable Abilities Emerging From Large AI Models](https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/?mc_cid=5b30527cd0)
-    - [Caricaturing Noam Chomsky](https://garymarcus.substack.com/p/caricaturing-noam-chomsky)
-    - [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html?smid=nytcore-ios-share&referringSource=articleShare)
-- AI Apocalypse Debates
-    - [The Open Letter to Stop 'Dangerous' AI Race Is a Huge Mess](https://www.vice.com/en/article/qjvppm/the-open-letter-to-stop-dangerous-ai-race-is-a-huge-mess)
-    - [The Call to Halt ‘Dangerous’ AI Research Ignores a Simple Truth](https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/)
-    - [Let's think about slowing down AI](https://worldspiritsockpuppet.substack.com/p/lets-think-about-slowing-down-ai)
-    - [The Anti-Fascist Approach to AI](https://alinautrata.substack.com/p/the-anti-fascist-approach-to-ai)
-    - [Pausing AI Developments Isn't Enough. We Need to Shut it All Down](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/)
-    - [Keep your AI claims in check](https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check)
-    - [Eighteen pitfalls to beware of in AI journalism](https://www.aisnakeoil.com/p/eighteen-pitfalls-to-beware-of-in)
-    - [The AI Scaling Hypothesis](https://lastweekin.ai/p/the-ai-scaling-hypothesis)
-    - [“Ensuring Safe, Secure, and Trustworthy AI”: What those seven companies avoided committing to](https://medium.com/@emilymenonbender/ensuring-safe-secure-and-trustworthy-ai-what-those-seven-companies-avoided-committing-to-8c297f9d71a)
-- Gudies and Tutorials:
-    - [OpenAI Prompting Guide](https://help.openai.com/en/collections/3675942-prompt-engineering)
-    - [Learn Prompting](https://learnprompting.org/docs/intro)
-    - [Making Large Language Models work for you](https://simonwillison.net/2023/Aug/27/wordcamp-llms/)
-    - [How I make annotated presentations](https://simonwillison.net/2023/Aug/6/annotated-presentations/)
-- Explaining Transformers and LLMs
-    - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
-    - [A Very Gentle Introduction to Large Language Models without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
-    - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
-    - [Watch an A.I. Learn to Write](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html?unlocked_article_code=ExXe1Ovu38xr9CIPhVeXeZxqudwVr-CqwBPfFz_Cp619zgHThCxv-HB66NVZs7s8PfJXzV_yTaYTRYdO1E0zW7ZLovjKr08-kN8g8fOBAw4iN5j1ehyFab_ub6r7yli0pk3rizxgPD_6O3gdSs-0OHE8n10h5RNj0qdDm1KiT9ukKOJbb5zV9fH_4w2P9wLQpyTpQ1yuV5vjv5fx_yMumuQlstnPPoFeVhCvzxMWe2_PkshQLAB40E2gP-5Gl0CO5kFnw_TcwleB0YUOkfgDn_vmb5II1-wystvSFN8gF3MGl5Sg2IBPABb362CcruuGUzDjbPanh-ltj1Sz-a-zSMxz-vpiSKPpe_E&giftCopy=3_Independent&smid=url-share)
-    - [Transformers from Scratch](https://e2eml.school/transformers.html)
-    - [ChatGPT Explained: A Normie's Guide To How It Works](https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies)
-    - [Understanding ChatGPT](https://www.atmosera.com/ai/understanding-chatgpt/)
-    - [Simply explained: how does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
-    - [Understanding Large Language Models: A Cross-Section of the Most Relevant Literature To Get Up to Speed](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
-    - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Key article on transformer technology
-- Other
-    - [Surprising things happen when you put 25 AI agents together in an RPG town](https://arstechnica.com/information-technology/2023/04/surprising-things-happen-when-you-put-25-ai-agents-together-in-an-rpg-town/)
-    - [Teaching ChatGPT to Speak my Son’s Invented Language](https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05)
-- Reference
-    - [AI & Large Language Models (LLMs) reading list (Articles, Blogs, Threads, Videos)](https://www.lebbos.org/llm-reading-list)
-    - [What Are Transformer Models and How Do They Work?](https://txt.cohere.com/what-are-transformer-models/)
-    - [Towards a Bibliography for AI Systems](https://ryancordell.org/research/aibibliography/)
-
 
 ## Week 8 - Introduction to R
 
@@ -620,53 +505,49 @@ This week we'll talk about R, which, together with the programming language Pyth
 **Preparation:**
 
 1. Attempt to download and install [R](https://www.r-project.org/) and the free [R Studio Desktop OpenSource License](https://www.rstudio.com/products/rstudio/download/).  
-2. If you are able, try to follow along in R as you read Jockers and Silge down below. 
 
 **Required Reading**
 
-- JOCKERS [Ebook](http://library.st-andrews.ac.uk/record=b2092145~S5)
-    - Ch 1 R Basics
+JOCKERS  
+Ch 1 R Basics
 
-- SILGE [Online](https://www.tidytextmining.com/) 
-    - Ch 1 The Tidy Text Format  
-    - See Konrad's additional explanations and examples related to Chapter 1: [Notes on Text Mining with R](https://kmlawson.github.io/dh-tutorials/textminingwithr_notes.html)
-
+SILGE   
+Ch 1 The Tidy Text Format  
 
 **Further Reading**
 
-- Cotton, Richard *Learning R* O'Reilly (2013) - if you are thinking of doing your project with R, I would suggest buying yourself a copy of this for reference  
-- Wickham, Hadley et al *R for Data Science* O'Reilly (2017) - another book you might consider owning  
-- Davies, Tilman M. *The Book of R: A First Course in Programming and Statistics*  
+Cotton, Richard *Learning R* O'Reilly (2013) - if you are thinking of doing your project with R, I would suggest buying yourself a copy of this for reference  
+Wickham, Hadley et al *R for Data Science* O'Reilly (2017) - another book you might consider owning  
+Davies, Tilman M. *The Book of R: A First Course in Programming and Statistics*  
 
-\pagebreak
 
-## Week 9 - Text Analysis: Frequencies, Correlations, and Sentiment Analysis
+## Week 9 - Text Analysis: Frequencies and Correlations
 
 This week we will focus on some of the basic tasks carried out in text analysis: breaking texts down into tokens, getting frequencies for these in a text, and exploring correlations. You will *not* be required to use R in your final project, but take this opportunity to acquaint yourself with some of the basics of R and some of the ways it can be used. While here we use it for text analysis, it can also be used for regular expression search, GIS, network analysis and visualization, and many other useful tasks. 
 
 **Preparation:**
 
 1. The technical readings this week will reproduce some of what we try in class so don't worry if you can't make it through everything. We'll step through some of this within class. To take a break from R, download a raw text file from one of the books at [Project Gutenberg](https://www.gutenberg.org/) and input it, or a piece of it, into [Voyant Tools](https://voyant-tools.org/), which does some of the basic tasks that we are learning to do by other means.
-2. Attempt to follow along with SILGE , Ch 3 Analyzing Word and Document Frequency: tf-idf,  Ch 4 Relationships Between Words: N-grams and Correlations   (up to p54 where network visualization begins)
-3. The required reading below includes SILGE and/or JOCKERS reading - try to follow along the code in RStudio and take note of problems encountered along the way.
 
 **Required Reading**
 
-- SILGE [Online](https://www.tidytextmining.com/)  
-    - Ch 2 Sentiment Analysis with Tidy Data  
-    - Ch 3 Analyzing Word and Document Frequency: tf-idf  
-    - Ch 4 Relationships Between Words: N-grams and Correlations   (up to p54 where network visualization begins)
-    - If you struggle with SILGE, which uses a new convenient package and tidytext appraoch, but offers less in the way of explanation in the book, you can, alternatively, try: JOCKERS  Ch 2-5 [Ebook](http://library.st-andrews.ac.uk/record=b2092145~S5)
+Note: See below for the 8.1 meeting readings as well
+
+Read One of the Following:
+
+A) Ramsay, Stephen *Reading Machines: Toward an Algorithmic Criticism* University of Illinois Press (2011)  Ch 1 An Algorithmic Criticism pp1-17  Ch 5 Patacomputing pp69-81 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3114037)
+
+B) Underwood, Ted *Distant Horizons : Digital Evidence and Literary Change* Preface, Ch 1-2. [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2901184)
 
 [Do Digital Humanists Need to Understand Algorithms?](http://dhdebates.gc.cuny.edu/debates/text/99) Ben Schmidt in *Debates in Digital Humanities*  
 
 [The Foreign Language of 'Mad Men'](https://www.theatlantic.com/entertainment/archive/2012/03/the-foreign-language-of-mad-men/254668/)
 
-Read One of the Following:
+SILGE  
+Ch 3 Analyzing Word and Document Frequency: tf-idf  
+Ch 4 Relationships Between Words: N-grams and Correlations   (up to p54 where network visualization begins)
 
-A) Underwood, Ted *Distant Horizons : Digital Evidence and Literary Change* Preface, Ch 1-2. [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2901184)
-
-B) Ramsay, Stephen *Reading Machines: Toward an Algorithmic Criticism* University of Illinois Press (2011)  Ch 1 An Algorithmic Criticism pp1-17 Ch 5 Patacomputing pp69-81 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3114037)
+If you struggle with SILGE, which uses a new convenient package and tidytext appraoch, but offers less in the way of explanation in the book, you can, alternatively, try: JOCKERS  Ch 2-5 
 
 **Further Reading**
 
@@ -677,7 +558,6 @@ B) Ramsay, Stephen *Reading Machines: Toward an Algorithmic Criticism* Universit
 [Alien Reading: Text Mining, Language Standardization, and the Humanities](http://dhdebates.gc.cuny.edu/debates/text/69) Jeffrey Binder in *Debates in Digital Humanities*
 
 [Mad Men anachronism hunting](http://sappingattention.blogspot.com/2012/03/mad-men-anachronism-hunting.html)
-
 [Making Downton more traditional](http://sappingattention.blogspot.com/2012/02/making-downton-more-traditional.html)
 
 Weiss, Sholom M., Nitin Indurkhya, Tong Zhang, and Fred J. Damerau. *Text Mining: Predictive Methods for Analyzing Unstructured Information*. New York: Springer, 2005.
@@ -696,57 +576,39 @@ Rockwell, Geoffrey. “What Is Text Analysis, Really?” Literary and Linguistic
 
 \pagebreak
 
-## Week 10 Surveying the Text Analysis Landscape
+## Week 10 - Text Analysis: Topic Modelling and Sentiment Analysis; Introduction to Alternative Tools
+
+This meeting will continue the work we did in the last session. It is simply not possible to do more than a taster of either topic modelling or sentiment analysis but it opens the way to students who wish to explore more on their own, but also be aware of some of the debates that have emerged around the use of these techniques. We'll also look briefly at Orange as an example of a more interactive visual interfaced application to analyse text.
 
 **Preparation**
 
-1. If you didn't make it through SILGE or JOCKERS chapters, consider using some of your time for play and exploration to continue these, or else try the same tools with some of your own data. When you struggle to understand code, consider using an LLM to have it explain the code to you line by line, or ask it to modify the code in ways you find useful and see if it produces code that functions. 
-2. This week we will give each of you a chance to introduce your ideas for your final project or essay. What have you learned so far? What challenges have you encountered?
-3. Revisit the journals on p10 in the "Resources to Explore" section. Choose one of these journals, find one article that employs a text analysis approach to an empirical case in the past (doesn't have to be overtly historical but at least set in our past). Come ready to introduce the article.
-4. We will discuss together some of the obstacles to using these approaches with use of historical sources, synthesizing our discussion and reading in the past few weeks. 
+1. You will not have had much time to prepare given this is our second meeting this week. Do you best to look through the online resources below and at least skim some of the technical reading. We'll try to do some of the technical tasks in class together.
+2. Come to class with some ideas for your final project. As you think about what to work on, browse the work in the sessions to come. Especially start thinking about interesting primary sources that would be useful to approach with some of the methods we have been looking at unless you are going to be writing a critical essay.
+
+**Suggestions for Play and Exploration**
+
+
+If you are interested in alternatives to R (or Python) for text analysis, take a look at [Orange](https://orange.biolab.si/) which is a data analysis software package. If you are interested in the tool or looking for ways of analysing text without using R, take a look at some of its documentation or their [Youtube tutorials](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g)
 
 **Required Reading**
 
-- If text analysis is your main interest among our skills, consider exploring topic modeling. Using Voyant Tools, I will show you a very basic example in class. Much of the good material online related to it ages quickly with tools and tutorials not always working fully, but I have listed some resources below you can explore:
-    - Try going through SILGE Ch 6 Topic Modelling and or JOCKERS Ch 12 Topic Modeling
-    - [Getting Started with Topic Modeling and MALLET](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet) (2012) - this tutorial runs MALLET directly from command line  
-    - [Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/) (2012) Benjamin M. Schmidt
-    - [When you have a MALLET, everything looks like a nail](http://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html) (2012) Benjamin M. Schmidt
-    - "The interpretation of topic models for scholarly analysis: An evaluation and critique of current practice" *Digital Scholarship in the Humanities* (2023) [DOI](https://academic.oup.com/dsh/article-abstract/38/2/530/6957052) 
-    - [U Penn Tutorial for Basic Topic Modeling Voyant Tools](https://guides.library.upenn.edu/penntdm/methods/topic_modeling)
-    - [Probalistic Topic Models](https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext) David M. Blei *Communications of the ACM* (2012) 
-    - [The LDA Buffet is now Open](https://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/) (2011)
+[Probalistic Topic Models](https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext) David M. Blei *Communications of the ACM* (2012)
 
-- [Text Analysis: What Can You Do? A Survey With Readings](https://kmlawson.github.io/dh-tutorials/textanalysis.html) -  Browse this list of approaches. For each approach, a book and some page numbers are given. Most of these books are in the library and many are available as ebooks. Choose one or two technique and read the pages from the resources mentioned, without worrying too much if you don't fully understand the text. Think about how this technique might be useful to historians. The list of books referred to in each section is available at the bottom of the page but also again in the further reading below. Come prepared to introduce what you have learned and potential applications for historians. 
-
-**Further Reading**
-
-- Taylor Arnold and Lauren Tilton *Humanities Data in R* [Ebook](http://library.st-andrews.ac.uk/record=b2471073~S5)
-- Matthew L. Jockers *Text Analysis with R for Students of Literature* [Ebook](http://library.st-andrews.ac.uk/record=b2092145~S5)
-- Ted Kwartler *Text Mining in Practice with R* [Hard copy](http://library.st-andrews.ac.uk/record=b2536197~S5)
-- Julia Silge & David Robinson *Text Mining with R* [Online](https://www.tidytextmining.com/)
-- Benjamin Bengfort, Rebeccas Bilbro, and Tony Ojeda *Applied Text Analysis with Python* 
-- Geoffrey Rockwell and Stéfan Sinclair *Hermeneutica*
-- Gregor Wiedemann *Text Mining for Qualitative Data Analysis in the Social Sciences* [Ebook](http://library.st-andrews.ac.uk/record=b2478917~S5)
-- Taeho Jo *Text Mining: Concepts, Implementation, and Big Data Challenge* [Ebook](http://library.st-andrews.ac.uk/record=b2710023~S5)
-- Guillaume Desagulier *Corpus Linguistics and Statistics with R* [Ebook](http://library.st-andrews.ac.uk/record=b2518489~S5)
-- Anatol Stefanowitsch *Corpus Linguistics: A Guide to the Methodology* [Ebook](http://library.st-andrews.ac.uk/record=b3169553~S5)
-- Jacques Savoy Machine *Machine Learning Methods for Stylometry* [Ebook](http://library.st-andrews.ac.uk/record=b3123913~S5)
-- Barbara McGillivray and Gábor Mihály Tóth *Applying Language Technology in Humanities Research* [Ebook](http://library.st-andrews.ac.uk/record=b3110503~S5)
-- Natalia Levshina *How to do Linguistics with R* [Ebook](http://library.st-andrews.ac.uk/record=b3268778~S5)
-- Stephen Ramsay *Reading Machines* [Ebook](http://library.st-andrews.ac.uk/record=b3114037~S5)
-- Andrew Piper *Enumerations: Data and Literary Study* [Ebook](http://library.st-andrews.ac.uk/record=b2721557~S5)
-- Ted Underwood *Distant Horizons* [Ebook](http://library.st-andrews.ac.uk/record=b2901184~S5)
-
-Other reading:
+[Words Alone: Dismantling Topic Models in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/) Benjamin M. Schmidt
 
 [Language is Biased. What Should Engineers Do?](http://sappingattention.blogspot.com/2016/08/language-is-biased-what-should.html) Ben Schmidt  
 
 [Odd Numbers: Algorithms Alone Can't Meaningfully Hold Other Algorithms Accountable](http://reallifemag.com/odd-numbers/) Frank Pasquale  
 
+Either SILGE Ch 2 Sentiment Analysis with Tidy Data and Ch 6 Topic Modelling OR JOCKERS Ch 11 Clustering and Ch 12 Topic Modeling
+
+**Further Reading**
+
 [The Hermeneutics of Data and Historical Writing](https://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/)  
 
 [Discovery and Justification are Different: Notes on Science-ing the Humanities](http://www.trevorowens.org/2012/11/discovery-and-justification-are-different-notes-on-sciencing-the-humanities/)  
+
+[When you have a MALLET, everything looks like a nail](http://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html)  
 
 [Vector Space Models in the Digital Humanities](http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html) and [Rejecting the gender binary: a vector-space operation](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)  - Ben Schmidt     
 
@@ -756,21 +618,13 @@ Other reading:
 
 [Mining the *Dispatch*](http://dsl.richmond.edu/dispatch/) project  
 
-[Text Mining: An Annotated Bibliography](http://dhblog.maynoothuniversity.ie/mdabek/2014/11/text-mining-an-annotated-bibliography/)
-
-[Bibliography on Topic Modeling](https://mimno.infosci.cornell.edu/topics.html) by David Mimno
-
-[The Hermeneutics of Data and Historical Writing](https://writinghistory.trincoll.edu/data/gibbs-owens-2012-spring/)  
-
-[Discovery and Justification are Different: Notes on Science-ing the Humanities](http://www.trevorowens.org/2012/11/discovery-and-justification-are-different-notes-on-sciencing-the-humanities/)  
-
-[Vector Space Models in the Digital Humanities](http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html) and [Rejecting the gender binary: a vector-space operation](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)  - Ben Schmidt     
-
-[Doing Digital History with Python III: topic modelling with Gensim, spaCy, NTLK and SciKit learn](https://dhlab.hypotheses.org/1693) - Using python instead of R. 
+[Getting Started with Topic Modeling and MALLET](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet) - this tutorial runs MALLET directly from command line  
 
 [Text Mining: An Annotated Bibliography](http://dhblog.maynoothuniversity.ie/mdabek/2014/11/text-mining-an-annotated-bibliography/)
 
 [Bibliography on Topic Modeling](https://mimno.infosci.cornell.edu/topics.html) by David Mimno
+
+\pagebreak
 
 ## Week 11 - Networks: Introduction to Social Network Analysis and Gephi
 
@@ -780,27 +634,25 @@ At one level the study of historical networks and relationships between people i
 
 1. Please visit and look over the following websites:
 
-[Prosopography Research](https://web.archive.org/web/20210414003240/https://prosopography.history.ox.ac.uk/prosopdefinition.htm)  
-[Domesday - Prosopography of Anglo-Saxon England.](https://pase.ac.uk/)  
+[Prosopography Research](https://prosopography.history.ox.ac.uk/course_syllabuses.htm)  
+[Domesday - Prosopography of Anglo-Saxon England.](http://domesday.pase.ac.uk/)  
 [Prosopography of the Byzantine World](https://pbw2016.kdl.kcl.ac.uk/)  
-[China Biographical Database Project](https://projects.iq.harvard.edu/cbdb)  
+[China Biographical Database Project](http://isites.harvard.edu/icb/icb.do?keyword=k16229)  
 
-2. Please try to install [Gephi](https://gephi.org/) on your laptop and look over some of these [sample datasets](https://github.com/gephi/gephi/wiki/Datasets). Gephi is the software we will explore in class. Please note that Gephi uses R. In case you feel more comfortable using Python, consider also installing and exploring [Cytoscape](https://cytoscape.org/). 
+2. Please try to install [Gephi]() on your laptop and look over some of these [sample datasets](https://github.com/gephi/gephi/wiki/Datasets). Gephi is the software we will explore in class. Please note that Gephi uses R. In case you feel more comfortable using Python, consider also installing and exploring [Cytoscape](https://cytoscape.org/). 
 
 **Reading**
 
 ["Demystifying Networks"](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/) Scott Weingart  
 
-- SCOTT 4th edition (see Files for a rough scan)
-    - Ch 1 What is Social Network Analysis  
-    - Ch 5 Terminology for Network Analysis  
-    - Ch 6 Popularity, Mediation and Exclusion  
+SCOTT 4th edition (see Files)
+Ch 1 What is Social Network Analysis  
+Ch 5 Terminology for Network Analysis  
+Ch 6 Popularity, Mediation and Exclusion  
 
 (If you have 3rd edition of Scott then read instead: Ch 1 Networks and Relations, 4 Lines, Neighborhoods and Densities, 5 Centrality, Peripherality and Centralization instead)
 
 **Further Reading**
-
-See Konrad's [DH Tutorials - Visualising Social Networks with Cytoscape](https://kmlawson.github.io/dh-tutorials/cytoscape.html) page, including a list of terms, organisations, projects, tutorial links, and some articles.
 
 Consider reading more of SCOTT
 
@@ -816,22 +668,22 @@ Lev Manovich [Database as a Symbolic Form](http://www.mfj-online.org/journalPage
 
 The following SAGE handbook has sometimes very technical chapters but is especially valuable for anyone interested in using network analysis in their final project given its rich bibliographies for each sub-topic. Can be a great starting place for exploring the range of scholarship on networks of particular kinds and applied to particular themes:
 
-- Scott, John, and Peter J. Carrington, eds. *The SAGE Handbook of Social Network Analysis*. (2011)    
-    - Ch 2 Social Network Analysis: An Introduction pp11-25  
-    - Ch 4 Network Theory pp40-54  
-    - Ch 23 A Brief Introduction to Analysing Social Network Data pp331-339  
-    - Ch 24 Concepts and Measures for Basic Network Analysis pp340-369  
-    - Ch 27 Qualitative Approaches pp404-416  
-    - Ch 28 Analyzing Affiliation Networks pp417-433  
-    - Ch 29 Positions and Roles pp434-446  
-    - Ch 8 Personal Communities: The World According to Me pp101-115  
-    - Ch 13 Corporate Elites and Intercorporate Networks pp180-195  
-    - Ch 14 Political Dimensions of Corporate Connections pp196-209  
-    - Ch 15 Policy Networks pp210-222  
-    - Ch 16 Social Movements and Collective Action pp223-235  
-    - Ch 17 Crime and Social Network Analysis 236-255  
-    - Ch 19 Scientific and Scholarly Networks 271-285  
-    - Ch 20 Cultural Networks 286-300  
+Scott, John, and Peter J. Carrington, eds. *The SAGE Handbook of Social Network Analysis*. (2011)    
+Ch 2 Social Network Analysis: An Introduction pp11-25  
+Ch 4 Network Theory pp40-54  
+Ch 23 A Brief Introduction to Analysing Social Network Data pp331-339  
+Ch 24 Concepts and Measures for Basic Network Analysis pp340-369  
+Ch 27 Qualitative Approaches pp404-416  
+Ch 28 Analyzing Affiliation Networks pp417-433  
+Ch 29 Positions and Roles pp434-446  
+Ch 8 Personal Communities: The World According to Me pp101-115  
+Ch 13 Corporate Elites and Intercorporate Networks pp180-195  
+Ch 14 Political Dimensions of Corporate Connections pp196-209  
+Ch 15 Policy Networks pp210-222  
+Ch 16 Social Movements and Collective Action pp223-235  
+Ch 17 Crime and Social Network Analysis 236-255  
+Ch 19 Scientific and Scholarly Networks 271-285  
+Ch 20 Cultural Networks 286-300  
 
 Also useful for anyone wanting to explore more advanced topics with SNA, the following book is a classic core text in the field and covers many of the details of the quantitative foundations of the field:
 
@@ -864,8 +716,7 @@ Pierre-Yves Saunier, ‘Circulations, connexions et espaces transnationaux’, *
 
 **Reading**
 
-LUKE Ch 2-3 pp11-41  
-Consider reading on in LUKE to find more about network visualization design and some of the possibilities for more advanced analysis.
+LUKE Ch 2-3 pp11-41
 
 Wetherell, Charles. “Historical Social Network Analysis.” *International Review of Social History* 43, no. Supplement S6 (December 1998): 125–44. doi:10.1017/S0020859000115123.
 
@@ -873,10 +724,14 @@ Lemercier, Claire. “[Formal Network Methods in History: Why and How?](https://
 
 [If Everything is a Network, Nothing is a Network](https://web.archive.org/web/20180925135809/https://visualisingadvocacy.org/blog/if-everything-network-nothing-network) Mushon Zer-Aviv
 
-Erickson, Bonnie H. “Social Networks and History: A Review Essay.” *Historical Methods: A Journal of Quantitative and Interdisciplinary History* 30, no. 3 (January 1, 1997): 149–57. 
+**Further Reading**
+
+Consider reading on in LUKE to find more about network visualization design and some of the possibilities for more advanced analysis.
+
+Erickson, Bonnie H. “Social Networks and History: A Review Essay.” *Historical Methods: A Journal of Quantitative and Interdisciplinary History* 30, no. 3 (January 1, 1997): 149–57. doi:10.1080/01615449709601182.
 
 More from Scott Weingart Series on Demystifying Networks:  
-[DN2 Degree](http://scottbot.net/networks-demystified-2-degree/), [DN3 Power Law Rant](http://scottbot.net/networks-demystified-3-the-power-law-rant/), [DN4 Co-Citation Analysis](http://scottbot.net/networks-demystified-4-co-citation-analysis/), [DN5 Communities, PageRank, and Sampling Caveats](http://scottbot.net/networks-demystified-5-communities-pagerank-and-sampling-caveats/), [DN7 Doing Co-Citation Analysis](http://scottbot.net/networks-demystified-7-doing-co-citation-analyses/), [DN8 When Networks are Inappropriate](http://scottbot.net/networks-demystified-8-when-networks-are-inappropriate/), [DN9 Bimodal Networks](http://scottbot.net/networks-demystified-9-modality/) - (Note: The links now seem dead, explore via archive.org web archive)
+[DN2 Degree](http://scottbot.net/networks-demystified-2-degree/), [DN3 Power Law Rant](http://scottbot.net/networks-demystified-3-the-power-law-rant/), [DN4 Co-Citation Analysis](http://scottbot.net/networks-demystified-4-co-citation-analysis/), [DN5 Communities, PageRank, and Sampling Caveats](http://scottbot.net/networks-demystified-5-communities-pagerank-and-sampling-caveats/), [DN7 Doing Co-Citation Analysis](http://scottbot.net/networks-demystified-7-doing-co-citation-analyses/), [DN8 When Networks are Inappropriate](http://scottbot.net/networks-demystified-8-when-networks-are-inappropriate/), [DN9 Bimodal Networks](http://scottbot.net/networks-demystified-9-modality/)  
 
 ## Attributions
 
@@ -896,4 +751,3 @@ This handbook takes ideas for readings and tasks from many of the works listed a
 * Various postings by authors on [ProfHacker](https://www.chronicle.com/blogs/profhacker)
 * Useful ideas and suggestions from [Antonis Hadjikyriacou](https://hist.boun.edu.tr/content/antonis-hadjikyriacou)
 * This is far from a complete list...
-

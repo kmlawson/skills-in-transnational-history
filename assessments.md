@@ -12,7 +12,7 @@ For the submission of Exercises 1, you may choose between (1) Five GIS tasks or 
 
 For the submission of Exercises 2, you may choose between (1) Five GIS tasks or (2) Five Text Analysis tasks or (3) Short Essay.
 
-(1) GIS Tasks - See separate handout. Choose 5 of the 10 tasks for your submission. If you choose this assessment twice, do the remaining five tasks for your second submission. 
+(1) GIS Tasks - See separate handout distributed in the early weeks of the semester. Choose 5 of the 10 tasks for your submission. If you choose this assessment twice, do the remaining five tasks for your second submission. 
 
 (2) Text Analysis Tasks - See separate handout. Choose 5 of the 10 tasks for your submission.
 

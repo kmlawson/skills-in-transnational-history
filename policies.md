@@ -20,11 +20,15 @@ When formatting your assignments, please follow these guidelines:
 
 ### Footnotes and References
 
-Please follow the St Andrews School of History Style Sheet, available on the school website. This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. Please note that failure to follow the style sheet can result in penalties on the final mark for the essay.
+Please follow the St Andrews School of History Style Guide, available on the school website:
 
-### Online Submission and Late Work
+[School of History Style Guide](https://www.st-andrews.ac.uk/assets/university/schools/school-of-history/documents/current-students/school-of-history-style-guidelines.docx)
 
-Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS website for the course. If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment to the module coordinator, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter. This module follows the official School of History penalties for late work found in the PGT handbook.
+### Extensions and penalties for late, long or short work
+
+All final submission will be made online with final submissions to MMS. See the section on reflective posts for details on how these are handled. Please see the School of History guidelines for details about other relevant policies related to late, long or short work as well as details about extensions:
+
+[Extensions and Penalties for Late, Long or Short Work](https://www.st-andrews.ac.uk/history/students/ug/assessment/extensions-and-late-work/)
 
 ### Word Limits
 
@@ -34,7 +38,11 @@ Assessed work with word limits should be always submitted within those limits. W
 
 ### Academic Misconduct and Plagiarism
 
-Academic integrity is fundamental to the values promoted by the University. It is important that all students are judged on their ability, and that no student is allowed unfairly to take an advantage over others, to affect the security and integrity of the assessment process, or to diminish the reliability and quality of a St Andrews degree. Academic misconduct includes *inter alia* the presentation of material as one's own when it is not one's own; the presentation of material whose provenance is academically inappropriate; and academically inappropriate behaviour in an examination or class test. For more information: 
+Academic integrity is fundamental to the values promoted by the University. It is important that all students are judged on their ability, and that no student is allowed unfairly to take an advantage over others, to affect the security and integrity of the assessment process, or to diminish the reliability and quality of a St Andrews degree. Academic misconduct includes *inter alia* the presentation of material as one's own when it is not one's own; the presentation of material whose provenance is academically inappropriate; and academically inappropriate behaviour in an examination or class test. 
+
+**Note on use of Large Language Models (LLMs)**: Large Language Models such as ChatGPT, Bard, Claude, etc. are powerful tools that generate confident answers to user prompts. LLMs frequently produce blatantly, or sometimes more subtly false information, are unable to effectively preserve their train of thought, and susceptible to sometimes hilarious logical flaws as a result of their innate design. We are all in the process of adapting to the emergence of LLMs and any potential place in our research and writing. The wholesale generation of paragraphs of prose by an LLM for submission is not permitted and is a violation of the rules of academic practice. Students are expected to submit their own original work and are responsible for all errors of fact and reasoning. *You cannot trust anything an LLM tells you and must confirm the veracity of any historical claims it offers you.* The limited use of LLMs as part of your research and editing process is permitted (but is not recommended unless you are fully aware of their shortcomings) for the following purposes: 1) Their use in the early brainstorming stage as you are testing out ideas, making lists of possible avenues, and asking for broad overviews of topics to generate concrete hooks for more targeted research in more accurate sources. 2) To brainstorm possible structures for your writing 3) To solicit critiques of your writing at the sentence or paragraph level. 4) For suggestions on alternative phrasing. Again, for all the above points, you cannot assume LLM responses will be accurate, but asking for a range of possible responses may give you or trigger further useful ideas. Any shortcomings of your work are ultimately yours alone.
+
+For more information: 
 
 [Academic Practice](https://www.st-andrews.ac.uk/students/rules/academicpractice/)
 
