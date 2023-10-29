@@ -725,8 +725,8 @@ Rockwell, Geoffrey. “What Is Text Analysis, Really?” Literary and Linguistic
 - Matthew L. Jockers *Text Analysis with R for Students of Literature* [Ebook](http://library.st-andrews.ac.uk/record=b2092145~S5)
 - Ted Kwartler *Text Mining in Practice with R* [Hard copy](http://library.st-andrews.ac.uk/record=b2536197~S5)
 - Julia Silge & David Robinson *Text Mining with R* [Online](https://www.tidytextmining.com/)
-- Benjamin Bengfort, Rebeccas Bilbro, and Tony Ojeda *Applied Text Analysis with Python* 
-- Geoffrey Rockwell and Stéfan Sinclair *Hermeneutica*
+- Benjamin Bengfort, Rebeccas Bilbro, and Tony Ojeda *Applied Text Analysis with Python* [Online](http://library.st-andrews.ac.uk/record=b3567018~S5)
+- Geoffrey Rockwell and Stéfan Sinclair *Hermeneutica: Computer-assisted Interpretation in the Humanities* [Hard copy](http://library.st-andrews.ac.uk/record=b3565372~S5)
 - Gregor Wiedemann *Text Mining for Qualitative Data Analysis in the Social Sciences* [Ebook](http://library.st-andrews.ac.uk/record=b2478917~S5)
 - Taeho Jo *Text Mining: Concepts, Implementation, and Big Data Challenge* [Ebook](http://library.st-andrews.ac.uk/record=b2710023~S5)
 - Guillaume Desagulier *Corpus Linguistics and Statistics with R* [Ebook](http://library.st-andrews.ac.uk/record=b2518489~S5)
